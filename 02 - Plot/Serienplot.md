@@ -20,7 +20,7 @@ Ashworth Green birgt Schichten von Geheimnissen. Der Sammler — dessen Identit�
 
 | Buch | Arbeitstitel | Kernkonflikt | Status |
 | ---- | ------------ | ------------ | ------ |
-| 1 | Das Licht im Badehaus | Seltsame Lichter im verlassenen viktorianischen Badehaus bringen drei Außenseiter zusammen. Ihr erster gemeinsamer Fall enthüllt, dass unter der Oberfläche Ashworth Greens mehr liegt als gedacht. | In Planung |
+| 1 | Das Licht im Badehaus | Seltsame Lichter im verlassenen viktorianischen Badehaus bringen drei Außenseiter zusammen. Ihr erster gemeinsamer Fall enthüllt, dass unter der Oberfläche Ashworth Greens mehr liegt als gedacht. | Geplant |
 | 2 | Der falsche Rahmen | Ein wertvolles Gemälde taucht bei einer *Charity*-Auktion auf — gestohlen vor 40 Jahren aus einem Herrenhaus, das es nicht mehr gibt. Die Spur führt in die Kunstszene Bristols und die Geschichte des Ortes. | — |
 | 3 | Die Kapsel in der Mauer | Die gestohlene Zeitkapsel aus der Schulmauer enthält etwas, das jemand verschwinden lassen will. Die Spur führt zum ersten echten Hinweis auf den Sammler — jemand hortet systematisch die Vergangenheit Ashworth Greens. | — |
 | 4 | Tiefgang | Der alte Kanaltunnel wird geöffnet und verbindet Ashworth Green mit Bristols Hafenviertel. Etwas liegt dort unten, das Vergangenheit und Gegenwart verknüpft. Priya gerät unter Druck: Sharma's News droht die Schließung. | — |
