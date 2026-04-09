@@ -10,7 +10,7 @@ Diese Regeln gelten für alle geschriebenen Szenen und Texte im Manuskript.
 
 ## Grammatik & Konsistenz
 - **Tempus:** Präteritum (Vergangenheitsform) als Erzähltempus.
-- **Perspektive:** Dritte Person, eng am POV-Charakter. Nur wahrnehmen, was der POV-Charakter wahrnehmen kann.
+- **Perspektive:** Dritte Person, wechselnde POVs (Jude, Priya, Archie), eng am jeweiligen POV-Charakter. Nur wahrnehmen, was der aktuelle POV-Charakter wahrnehmen kann.
 - **Konsistente Anrede:** Innerhalb einer Szene einheitlich.
 - **Keine Tippfehler, keine doppelten Wörter, keine fehlenden Artikel.**
 
@@ -24,6 +24,13 @@ Diese Regeln gelten für alle geschriebenen Szenen und Texte im Manuskript.
 - Wiederholung desselben Wortes in aufeinanderfolgenden Sätzen (außer bei bewusstem Stilmittel).
 - Klischees und abgegriffene Metaphern.
 - Adverbien bei Dialogattribution — „sagte er leise" → besser: Aktion zeigen.
+
+## Zielgruppe
+
+- **Alter:** 10–14 Jahre.
+- Altersgerechte Sprache und Inhalte. Keine Gewaltverherrlichung, keine expliziten Inhalte.
+- Spannung und Grusel sind erlaubt, aber kein Horror.
+- Komplexe Themen (Verlust, Familienprobleme) dürfen angesprochen werden, aber mit Hoffnung und Empathie.
 
 ## Formatierung
 - Szenenwechsel innerhalb eines Kapitels mit `* * *` markieren.
