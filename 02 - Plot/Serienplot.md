@@ -20,15 +20,15 @@ Ashworth Green birgt Schichten von Geheimnissen. Der Sammler — dessen Identit�
 
 | Buch | Arbeitstitel | Kernkonflikt | Status |
 | ---- | ------------ | ------------ | ------ |
-| 1    |              |              | In Planung |
-| 2    |              |              | — |
-| 3    |              |              | — |
-| 4    |              |              | — |
-| 5    |              |              | — |
-| 6    |              |              | — |
-| 7    |              |              | — |
-| 8    |              |              | — |
-| 9    |              |              | — |
+| 1 | Das Licht im Badehaus | Seltsame Lichter im verlassenen viktorianischen Badehaus bringen drei Außenseiter zusammen. Ihr erster gemeinsamer Fall enthüllt, dass unter der Oberfläche Ashworth Greens mehr liegt als gedacht. | In Planung |
+| 2 | Der falsche Rahmen | Ein wertvolles Gemälde taucht bei einer *Charity*-Auktion auf — gestohlen vor 40 Jahren aus einem Herrenhaus, das es nicht mehr gibt. Die Spur führt in die Kunstszene Bristols und die Geschichte des Ortes. | — |
+| 3 | Die Kapsel in der Mauer | Die gestohlene Zeitkapsel aus der Schulmauer enthält etwas, das jemand verschwinden lassen will. Die Spur führt zum ersten echten Hinweis auf den Sammler — jemand hortet systematisch die Vergangenheit Ashworth Greens. | — |
+| 4 | Tiefgang | Der alte Kanaltunnel wird geöffnet und verbindet Ashworth Green mit Bristols Hafenviertel. Etwas liegt dort unten, das Vergangenheit und Gegenwart verknüpft. Priya gerät unter Druck: Sharma's News droht die Schließung. | — |
+| 5 | Absender unbekannt | Anonyme Briefe an Bewohner in Ashworth Green und Bristol — alle teilen ein gemeinsames Geheimnis. Judes Vater taucht nach drei Jahren wieder auf, aber seine Erklärung wirft mehr Fragen auf als sie beantwortet. | — |
+| 6 | Das letzte Schloss | Grandpa Teds Krankheit offenbart, dass er selbst eine Verbindung zur Vergangenheit Ashworth Greens hat — und zum Sammler. Archie droht den einzigen Menschen zu verlieren, an den er sich klammert. | — |
+| 7 | Die Spur der Elstern | Elster-Symbole tauchen überall in Ashworth Green auf. Jemand markiert Orte — aber wozu? Eine Schnitzeljagd, die zum Sammler führt. Die drei finden den ersten echten Beweis für seine Existenz. | — |
+| 8 | Das verschwundene Archiv | Die drei kommen dem Sammler zu nah — und über Nacht verschwinden alle Beweise. Er räumt auf. Die drei müssen alles neu zusammensetzen, bevor die letzte Spur erlischt. | — |
+| 9 | Der Sammler | Die Identität des Sammlers wird enthüllt — und er ist näher an den dreien, als sie je geahnt haben. Alle Fäden laufen zusammen. Die drei müssen entscheiden: Bewahren oder ans Licht bringen? | — |
 
 ## Serienstruktur
 
