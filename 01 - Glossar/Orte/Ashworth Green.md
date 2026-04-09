@@ -39,3 +39,5 @@ Hauptschauplatz der gesamten Serie. Der Ort selbst ist fast eine Figur — seine
 ## Notizen
 
 - Atmosphäre: Nieselregen, Nebel über dem Kanal, knarrende Dielenböden, das Klingeln der Ladentür. Man soll Ashworth Green riechen und hören können.
+- Bekannte Straßen: *Blackthorn Road* (Judes Zuhause, in der Nähe von Sharma's), *Canal Road* (Reihenhäuser mit Gärten zum Kanal hin), *Hillcrest Lane*, *High Street* (Laternen, Läden).
+- Treidelpfad am stillgelegten Kanalabschnitt: schmal, überwuchert, keine Laternen. Führt am Badehaus vorbei.

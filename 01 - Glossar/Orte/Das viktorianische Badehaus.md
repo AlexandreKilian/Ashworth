@@ -30,3 +30,4 @@ Einer der Geheimnisort von Ashworth Green. Die seltsamen Lichter sind ein mögli
 
 - Atmosphärisch dicht: Echos, Wassergeräusche, Lichtspiele durch das kaputte Dach.
 - Gerüchte im Ort: Geister, Dealer oder etwas ganz anderes?
+- Details aus K01: Verrosteter Zaun (an zwei Stellen umgeknickt), ehemaliger Kiesweg von Unkraut überwuchert, zerbrochene Laterne halb versunken im Gras. Efeu bis zum zweiten Stockwerk an der Nordseite. Schild „Danger — Keep Out" (Farbe abgeblättert). Bogenfenster zugemauert mit hellerem Stein; am zweiten Fenster von links fehlt Mörtel an einer Ecke — schmaler Spalt, durch den Jude ein Flackern sieht.

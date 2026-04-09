@@ -51,3 +51,5 @@ Lebt mit seiner Mum und seiner jüngeren Schwester Bea in einem der Reihenhäuse
 
 - Rolle in der Gruppe: „Die Spürnase" — findet Fälle, wo andere nichts sehen.
 - Markenzeichen: Wachsjacke des Vaters, Bleistiftkauen.
+- Hat eine selbst kopierte Karte von Ashworth Green an seiner Zimmerwand hängen (aus einem alten Buch in der Bücherei). Das Badehaus ist darauf als kleines Rechteck ohne Beschriftung eingezeichnet.
+- Geht regelmäßig abends allein am stillgelegten Kanalabschnitt entlang, wenn Bea schläft und Mum arbeitet.
