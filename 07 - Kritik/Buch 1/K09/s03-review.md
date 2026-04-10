@@ -44,7 +44,7 @@ Exzellent. Archie verhält sich in jeder Hinsicht wie im Glossar und in den vora
 - **Skizzenbuch:** Wird aktiv genutzt — Dokumentation der Luke-Position, Maße, Notizen am Rand.
 - **Kein Stottern:** Archie ist allein. Korrekt.
 - **Teds Stimme als innerer Kompass:** "Lass alles so, wie du es vorgefunden hast" — exakt die Formulierung aus K06 und dem Glossar.
-- **Priyas Stimme:** "Nicht heute" — spiegelt Archies eigenen Widerspruch gegen Jude in K06 ("Nicht heute").
+- **Priyas Stimme:** "Nicht heute" — spiegelt Archies eigenen Widerspruch gegen Finn in K06 ("Nicht heute").
 - **Lautlose Bewegung:** Wird nicht betont, aber implizit (er schleicht die Treppe hoch, Ted schläft weiter).
 - **Handschrift:** "klein und eng" — konsistent mit der Beschreibung in K03 ("klein und ordentlich, in seiner engen Handschrift").
 - **Schloss:** Korrekt zurückgelegt, "aufgelegt, nicht eingerastet" — etabliertes Muster seit K06.
@@ -108,7 +108,7 @@ Besonders gelungen: "roch nach Erde und Wasser und Zeit" — synästhetisch, poe
 
 4. **Die Schlussszene** mit dem Skizzenbuch auf der Brust und dem halben Mond auf der Decke. Ruhig, warm, aber geladen. Das Bild bleibt.
 
-5. **"Jude und Priya zeigen. Morgen."** — In vier Worten Archies gesamte Entwicklung: Er will teilen, nicht horten. Er wählt die Gruppe.
+5. **"Finn und Priya zeigen. Morgen."** — In vier Worten Archies gesamte Entwicklung: Er will teilen, nicht horten. Er wählt die Gruppe.
 
 ---
 

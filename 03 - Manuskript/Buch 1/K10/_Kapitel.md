@@ -15,9 +15,9 @@ Die drei steigen über Archies verborgene Luke im Beckenboden in den alten Tunne
 
 | Nr. | Szene | POV | Ort | Status |
 | --- | ----- | --- | --- | ------ |
-| S01 | [[K10-S01 Der Abstieg]] | Jude | Badehaus → Luke → Steinstufen | akzeptiert |
-| S02 | [[K10-S02 Die Kisten]] | Jude | Tunnel | akzeptiert |
-| S03 | [[K10-S03 Stimmen oben]] | Jude | Tunnel → Kanalausgang | akzeptiert |
+| S01 | [[K10-S01 Der Abstieg]] | Finn | Badehaus → Luke → Steinstufen | akzeptiert |
+| S02 | [[K10-S02 Die Kisten]] | Finn | Tunnel | akzeptiert |
+| S03 | [[K10-S03 Stimmen oben]] | Finn | Tunnel → Kanalausgang | akzeptiert |
 
 ## Ziel des Kapitels
 
@@ -26,5 +26,5 @@ Der Midpoint — alles ändert sich. Aus einem Geisterrätsel wird echte Gefahr.
 ## Notizen
 
 - Beat: Midpoint
-- POV: Jude (durchgehend)
+- POV: Finn (durchgehend)
 - Zentrale Konsequenz: Luke offen → Schmuggler wissen von Eindringlingen

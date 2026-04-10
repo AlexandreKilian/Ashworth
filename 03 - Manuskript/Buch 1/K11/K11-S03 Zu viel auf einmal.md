@@ -58,7 +58,7 @@ Priyas Kehle wurde eng. Sie öffnete den Mund und schloss ihn wieder.
 
 Die Worte hingen in der Luft. Priya spürte, wie etwas in ihr nachgab — nicht brach, nicht zerbrach, nur nachgab, wie eine Naht, die zu lange gehalten hatte. Ihre Schultern sanken. Ihre Augen brannten. Sie blinzelte, einmal, zweimal, und die Wimpern waren feucht.
 
-Sie sagte nichts. Es gab nichts zu sagen, nichts, das sie hätte sagen können, ohne alles aufzureißen — den Tunnel, die Kisten, die Luke, das neue Schloss, Jude, der auffiel, die Frau im Laden, die seinen Namen kannte. Es war zu viel und zu eng und zu gefährlich, und gleichzeitig war es genau das, was Nani gerade gesagt hatte: zu viel auf einmal.
+Sie sagte nichts. Es gab nichts zu sagen, nichts, das sie hätte sagen können, ohne alles aufzureißen — den Tunnel, die Kisten, die Luke, das neue Schloss, Finn, der auffiel, die Frau im Laden, die seinen Namen kannte. Es war zu viel und zu eng und zu gefährlich, und gleichzeitig war es genau das, was Nani gerade gesagt hatte: zu viel auf einmal.
 
 Nani sah sie an. Wartete nicht auf Antwort. Erwartete keine.
 
@@ -80,7 +80,7 @@ Priya saß auf dem Bett. Die Stelle, an der Nanis Hand gelegen hatte, war noch w
 
 Sie griff nach dem Reißverschluss des Rucksacks. Taschenlampe, Handschuhe, Ziplock-Beutel. Die Werkzeuge ihres zweiten Lebens. Sie zog den Reißverschluss zu, langsam, Zahn für Zahn, bis er geschlossen war. Dann hob sie den Rucksack hoch und schob ihn unter das Bett, dorthin, wo das Licht der Nachttischlampe nicht mehr hinreichte. Wo die Dunkelheit anfing.
 
-Ihr Handy leuchtete auf. Das Display warf einen bläulichen Schein gegen die Decke. Eine Nachricht. Jude.
+Ihr Handy leuchtete auf. Das Display warf einen bläulichen Schein gegen die Decke. Eine Nachricht. Finn.
 
 *Wir müssen reden. Morgen. Magpie.*
 

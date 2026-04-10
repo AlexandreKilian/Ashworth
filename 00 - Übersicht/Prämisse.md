@@ -19,9 +19,9 @@ Bristol selbst — mit seiner Hafengeschichte, Street Art, den steilen Hügeln u
 
 ## Die drei Hauptcharaktere
 
-### 1. Jude Calloway (13) — „Die Spürnase"
+### 1. Finn Calloway (13) — „Die Spürnase"
 - **Rolle:** Der Spürhund — findet Fälle, wo andere nichts sehen
-- **Hintergrund:** Lebt mit seiner Mum und seiner jüngeren Schwester Bea (8) in einem der Reihenhäuser. Seine Mutter arbeitet als Verwaltungsangestellte im Rathaus. Der Vater ist vor drei Jahren ohne Erklärung weggezogen — ein Thema, über das Jude nicht spricht, das aber seinen Antrieb erklärt: Er hasst ungelöste Fragen.
+- **Hintergrund:** Lebt mit seiner Mum und seiner jüngeren Schwester Bea (8) in einem der Reihenhäuser. Seine Mutter arbeitet als Verwaltungsangestellte im Rathaus. Der Vater ist vor drei Jahren ohne Erklärung weggezogen — ein Thema, über das Finn nicht spricht, das aber seinen Antrieb erklärt: Er hasst ungelöste Fragen.
 - **Stärken:** Untrügliches Gespür für Unstimmigkeiten. Merkt sofort, wenn etwas nicht zusammenpasst — ein falscher Blick, eine Geschichte mit Lücken, ein Detail, das nicht stimmt. Hartnäckig bis zur Sturheit.
 - **Schwächen:** Kann nicht loslassen. Verbeißt sich in Theorien und übersieht manchmal das Naheliegende. Schläft schlecht, weil sein Kopf nie stillsteht. Neigt dazu, Leute zu verhören statt mit ihnen zu reden.
 - **Markenzeichen:** Läuft immer in einer abgewetzten Wachsjacke herum, die seinem Vater gehörte. Kaut auf Bleistiften, wenn er nachdenkt.
@@ -49,8 +49,8 @@ Bristol selbst — mit seiner Hafengeschichte, Street Art, den steilen Hügeln u
 
 | Konstellation | Spannung |
 |---|---|
-| Jude ↔ Priya | Kopf und Herz der Gruppe. Jude zieht die Gruppe in den Fall, Priya sorgt dafür, dass sie heil wieder rauskommen. Streiten darüber, wann ein Risiko zu groß ist. |
-| Jude ↔ Archie | Stille Loyalität. Jude hat Archie als Erster akzeptiert, wie er ist. Archie folgt Jude bedingungslos — was Priya manchmal Sorgen macht. |
+| Finn ↔ Priya | Kopf und Herz der Gruppe. Finn zieht die Gruppe in den Fall, Priya sorgt dafür, dass sie heil wieder rauskommen. Streiten darüber, wann ein Risiko zu groß ist. |
+| Finn ↔ Archie | Stille Loyalität. Finn hat Archie als Erster akzeptiert, wie er ist. Archie folgt Finn bedingungslos — was Priya manchmal Sorgen macht. |
 | Priya ↔ Archie | Beschützerin und Beschützter — aber Archie überrascht Priya immer wieder mit stillem Mut. Sie bringt ihn dazu, sich zu trauen; er bringt sie dazu, langsamer zu machen. |
 
 **Wie sie sich gefunden haben:** Alle drei waren Außenseiter auf ihre Art — der Junge, der zu viele Fragen stellt, das Mädchen mit zu wenig Freizeit, der stille Zeichner am Kanal. Band 1 bringt sie durch einen Zufall zusammen, der keiner war.
@@ -81,7 +81,7 @@ Die Fälle verbinden immer zwei Ebenen: ein aktuelles Rätsel und ein Echo aus d
 ## Serienstruktur
 
 - **Bände 1–3:** Die drei finden zusammen, lernen Ashworth Greens verborgene Seite kennen. Erste Hinweise auf den „Sammler".
-- **Bände 4–6:** Die Fälle reichen über den Vorort hinaus nach Bristol. Die Vergangenheit des Ortes wird zur Gegenwart. Persönliche Krisen: Judes Vater taucht wieder auf; Priyas Familie steht vor finanziellen Problemen; Archies Großvater wird krank.
+- **Bände 4–6:** Die Fälle reichen über den Vorort hinaus nach Bristol. Die Vergangenheit des Ortes wird zur Gegenwart. Persönliche Krisen: Finns Vater taucht wieder auf; Priyas Familie steht vor finanziellen Problemen; Archies Großvater wird krank.
 - **Bände 7–9:** Die Identität des Sammlers wird enthüllt — und ist näher an den dreien, als sie dachten.
 
 ---

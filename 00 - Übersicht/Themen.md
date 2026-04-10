@@ -10,7 +10,7 @@ tags:
 ## Hauptthemen
 
 - **Freundschaft & Zusammenhalt** — Drei Außenseiter, die zusammen stärker sind als allein. Loyalität wird auf die Probe gestellt, hält aber stand.
-- **Identität & Zugehörigkeit** — Jeder der drei sucht seinen Platz: Jude zwischen Fragen und Antworten, Priya zwischen Pflicht und Freiheit, Archie zwischen Nähe und Rückzug.
+- **Identität & Zugehörigkeit** — Jeder der drei sucht seinen Platz: Finn zwischen Fragen und Antworten, Priya zwischen Pflicht und Freiheit, Archie zwischen Nähe und Rückzug.
 - **Vergangenheit & Geheimnisse** — Ashworth Green hat Schichten. Jeder Fall verbindet ein Rätsel der Gegenwart mit einem Echo aus der Vergangenheit.
 - **Erwachsenwerden** — Verantwortung übernehmen, eigene Grenzen erkennen, sich trauen. Nicht als großer Bruch, sondern in kleinen Momenten.
 

@@ -62,6 +62,6 @@ Nani sagte nichts.
 
 Priya lächelte. Nicht das Lächeln, das sie für Kunden aufsetzte, oder das müde Halbgrinsen, mit dem sie Nanis Bemerkungen quittierte. Ein richtiges Lächeln, schmal und fest, das bis in ihre Augen reichte.
 
-Sie hatte keine Zeit für Abenteuer. Aber sie hatte etwas, das Jude und Archie nicht hatten. Etwas, das in ihre Hosentasche passte und acht Jahre auf sie gewartet hatte.
+Sie hatte keine Zeit für Abenteuer. Aber sie hatte etwas, das Finn und Archie nicht hatten. Etwas, das in ihre Hosentasche passte und acht Jahre auf sie gewartet hatte.
 
-Morgen früh, vor der Schule. Jude musste das sehen.
+Morgen früh, vor der Schule. Finn musste das sehen.

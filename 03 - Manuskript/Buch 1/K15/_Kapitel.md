@@ -9,7 +9,7 @@ status: entwurf
 
 ## Zusammenfassung
 
-Donnerstagabend. Priyas Plan wird Realität: Die drei warten in der Böschung unter der Steinbrücke, hinter Brombeeren versteckt. Jude hat Hargreaves vor dem Laden abgefangen. Die Schmuggler kommen — Lieferwagen, Kisten, Übergabe. Dann Blaulicht ohne Sirene: Hargreaves hat ein Team mitgebracht. Die Polizei greift zu, die Schmuggler werden geschnappt. Hargreaves nickt kurz in Richtung Böschung. Beim Rückweg zeigt Jude ein altes Dokument — vergilbt, mit Siegel, ein Name den keiner kennt. Es gehört nicht zum Schmuggelgut. Jemand hat es dort versteckt. Das Dokument landet in der wasserdichten Kiste auf der Magpie. Final Image: Die drei auf dem Dach der Magpie, Nebel über dem Kanal, Müsliriegel, Archie zeichnet. Nicht mehr allein.
+Donnerstagabend. Priyas Plan wird Realität: Die drei warten in der Böschung unter der Steinbrücke, hinter Brombeeren versteckt. Finn hat Hargreaves vor dem Laden abgefangen. Die Schmuggler kommen — Lieferwagen, Kisten, Übergabe. Dann Blaulicht ohne Sirene: Hargreaves hat ein Team mitgebracht. Die Polizei greift zu, die Schmuggler werden geschnappt. Hargreaves nickt kurz in Richtung Böschung. Beim Rückweg zeigt Finn ein altes Dokument — vergilbt, mit Siegel, ein Name den keiner kennt. Es gehört nicht zum Schmuggelgut. Jemand hat es dort versteckt. Das Dokument landet in der wasserdichten Kiste auf der Magpie. Final Image: Die drei auf dem Dach der Magpie, Nebel über dem Kanal, Müsliriegel, Archie zeichnet. Nicht mehr allein.
 
 ## Szenen
 
@@ -21,7 +21,7 @@ Donnerstagabend. Priyas Plan wird Realität: Die drei warten in der Böschung un
 
 ## Ziel des Kapitels
 
-Auflösung und Ausblick. Die Schmuggler werden geschnappt. Die drei haben ihren ersten Fall gelöst — als Team. Das Dokument als Hook für Band 2+. Spiegelbild des Opening Image: Jude allein am Kanal → alle drei zusammen auf dem Dach der Magpie.
+Auflösung und Ausblick. Die Schmuggler werden geschnappt. Die drei haben ihren ersten Fall gelöst — als Team. Das Dokument als Hook für Band 2+. Spiegelbild des Opening Image: Finn allein am Kanal → alle drei zusammen auf dem Dach der Magpie.
 
 ## Notizen
 

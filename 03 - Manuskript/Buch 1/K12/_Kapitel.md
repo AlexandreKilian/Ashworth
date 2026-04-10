@@ -9,7 +9,7 @@ status: entwurf
 
 ## Zusammenfassung
 
-Ein Mann warnt Jude direkt auf der High Street: „Halt dich vom Badehaus fern. Und deine Freunde auch." Die Schmuggler eskalieren von passiver Reaktion zu aktiver Einschüchterung. Archie gerät in Panik — seine größte Angst ist nicht das Badehaus, sondern dass jemand zu Ted kommen könnte. Bei einem zweiten Treffen in der Magpie bricht der Gruppenkonflikt auf: Jude will weitermachen, Priya zweifelt, Archie spricht stotternd aus, was alle denken — sie sind Kinder, die Männer nicht. Er verlässt zum ersten Mal die Magpie vor den anderen.
+Ein Mann warnt Finn direkt auf der High Street: „Halt dich vom Badehaus fern. Und deine Freunde auch." Die Schmuggler eskalieren von passiver Reaktion zu aktiver Einschüchterung. Archie gerät in Panik — seine größte Angst ist nicht das Badehaus, sondern dass jemand zu Ted kommen könnte. Bei einem zweiten Treffen in der Magpie bricht der Gruppenkonflikt auf: Finn will weitermachen, Priya zweifelt, Archie spricht stotternd aus, was alle denken — sie sind Kinder, die Männer nicht. Er verlässt zum ersten Mal die Magpie vor den anderen.
 
 ## Szenen
 

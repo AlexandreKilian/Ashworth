@@ -20,13 +20,13 @@ Hervorragend. Der langsame, repetitive Einstieg (Plastikband schneiden, auffäch
 
 Priya klingt überwiegend authentisch. Ihre analytische Art zeigt sich gut: Sie rechnet nach (acht Jahre), zieht Schlüsse (jemand wollte, dass es stehen blieb), vergleicht Bürokratensprache mit den Briefen ihres Vaters. Das Detail mit der Küchenschere ("die er hier aufbewahrte, weil Mama sie sonst für den Haushalt zurückforderte") ist ein schönes Familien-Detail.
 
-Kleiner Abzug: Der innere Monolog im vorletzten Absatz ("Sie hatte keine Zeit für Abenteuer. Aber sie hatte etwas, das Jude und Archie nicht hatten.") wirkt einen Tick zu explizit zusammenfassend. Priya erklärt dem Leser ihren eigenen emotionalen Bogen. Das Lächeln und die Geste zur Hosentasche zeigen das bereits — die innere Bilanz darüber hinaus ist leichtes Tell.
+Kleiner Abzug: Der innere Monolog im vorletzten Absatz ("Sie hatte keine Zeit für Abenteuer. Aber sie hatte etwas, das Finn und Archie nicht hatten.") wirkt einen Tick zu explizit zusammenfassend. Priya erklärt dem Leser ihren eigenen emotionalen Bogen. Das Lächeln und die Geste zur Hosentasche zeigen das bereits — die innere Bilanz darüber hinaus ist leichtes Tell.
 
-**Verbesserungsvorschlag:** Den vorletzten Absatz kürzen oder streichen. Das Bild der gefalteten Seite in der Hosentasche und der letzte Satz ("Morgen früh, vor der Schule. Jude musste das sehen.") tragen die Aussage bereits vollständig.
+**Verbesserungsvorschlag:** Den vorletzten Absatz kürzen oder streichen. Das Bild der gefalteten Seite in der Hosentasche und der letzte Satz ("Morgen früh, vor der Schule. Finn musste das sehen.") tragen die Aussage bereits vollständig.
 
 ## 4. Spannung — 4/5
 
-Die Szene erzeugt Neugier auf zwei Ebenen: Wer hat den Einspruch eingelegt? Und was passiert, wenn Priya Jude den Artikel zeigt? Der offene Faden (anonymes Gemeinderatsmitglied) ist gut platziert und wird nicht überstrapaziert. Der Schlusssatz ("Morgen früh, vor der Schule. Jude musste das sehen.") ist ein sauberer Hook nach vorne.
+Die Szene erzeugt Neugier auf zwei Ebenen: Wer hat den Einspruch eingelegt? Und was passiert, wenn Priya Finn den Artikel zeigt? Der offene Faden (anonymes Gemeinderatsmitglied) ist gut platziert und wird nicht überstrapaziert. Der Schlusssatz ("Morgen früh, vor der Schule. Finn musste das sehen.") ist ein sauberer Hook nach vorne.
 
 Kleiner Abzug: Die Passage "Abgerissen, aufgeräumt, vielleicht ein Parkplatz an seiner Stelle oder eine Freifläche mit einer Bank und einem Mülleimer" ist atmosphärisch nett, liest sich aber etwas aufzählend und bremst den Spannungsbogen nach dem Artikelfund minimal.
 
@@ -75,7 +75,7 @@ Gut umgesetzt. "Nani sagte nichts." steht als eigener Satz, hat Gewicht. Nanis B
 - Die Wiederholung "Alles fürs Altpapier. Alles wertlos." am Anfang und die Variation "Alles Altpapier. Alles wertlos. Bis auf die eine Seite in ihrer Tasche." nach dem Fund — saubere Rahmung.
 - Der Übergang vom Lager ins Neonlicht: "Das Neonlicht des Ladens blendete nach der trüben Glühbirne." — ein physischer Kontrast, der den inneren Wandel spiegelt.
 - "Ein einzelnes. Nicht mehrere. Eine Person." — Rhythmus und Gewichtung perfekt.
-- Der letzte Satz ("Morgen früh, vor der Schule. Jude musste das sehen.") bereitet K06 (Break into Two) sauber vor.
+- Der letzte Satz ("Morgen früh, vor der Schule. Finn musste das sehen.") bereitet K06 (Break into Two) sauber vor.
 
 ---
 

@@ -9,7 +9,7 @@ status: entwurf
 
 ## Zusammenfassung
 
-Priya erfährt in der Schule von Judes und Archies nächtlicher Begegnung am Badehaus. Sie will helfen, aber ihr Alltag lässt keinen Raum — Laden, Hausaufgaben, Familie. Im Lager des Ladens findet sie beim Sortieren alter Zeitungen einen acht Jahre alten Artikel über gestoppte Abrisspläne fürs Badehaus. Jemand hat damals Einspruch erhoben — aber wer und warum?
+Priya erfährt in der Schule von Finns und Archies nächtlicher Begegnung am Badehaus. Sie will helfen, aber ihr Alltag lässt keinen Raum — Laden, Hausaufgaben, Familie. Im Lager des Ladens findet sie beim Sortieren alter Zeitungen einen acht Jahre alten Artikel über gestoppte Abrisspläne fürs Badehaus. Jemand hat damals Einspruch erhoben — aber wer und warum?
 
 ## Szenen
 

@@ -12,10 +12,10 @@ datum: 2026-04-09
 
 | Kriterium | Note (1-5) | Kommentar |
 |-----------|------------|-----------|
-| **Klarheit** | 5 | Die Szene ist sofort verstaendlich: Archie wartet, Jude kommt, Priya kommt, der Artikel wird praesentiert, Archie entscheidet sich mitzumachen. Keine Verwirrung ueber Ort, Zeit, oder Figuren. |
-| **Pacing** | 4 | Guter Aufbau: ruhiger Einstieg (Archie wartet, zeichnet), Steigerung (Jude taucht auf, dann Priya), Hoehepunkt (Archies Entscheidung + Schloss-Offenbarung). Leichter Abzug: Der Mittelteil mit dem Zeitungsartikel koennte einen Tick straffer sein -- Priyas Erklaerung ist gut, aber die drei Absaetze (55-68) koennten ein, zwei Saetze verlieren, um den Rhythmus noch schaerfer zu halten. |
+| **Klarheit** | 5 | Die Szene ist sofort verstaendlich: Archie wartet, Finn kommt, Priya kommt, der Artikel wird praesentiert, Archie entscheidet sich mitzumachen. Keine Verwirrung ueber Ort, Zeit, oder Figuren. |
+| **Pacing** | 4 | Guter Aufbau: ruhiger Einstieg (Archie wartet, zeichnet), Steigerung (Finn taucht auf, dann Priya), Hoehepunkt (Archies Entscheidung + Schloss-Offenbarung). Leichter Abzug: Der Mittelteil mit dem Zeitungsartikel koennte einen Tick straffer sein -- Priyas Erklaerung ist gut, aber die drei Absaetze (55-68) koennten ein, zwei Saetze verlieren, um den Rhythmus noch schaerfer zu halten. |
 | **Charakterstimme** | 5 | Archies POV ist hervorragend getroffen. Visuell-sensorische Wahrnehmung (Trauerweide, Ringe im Wasser, Moos auf der Mauer), koerperliche Angstreaktion (Magen zieht sich zusammen, Zaehlen als Beruhigungsstrategie), Stottern bei Nervositaet ("H-hi", "Ich k-kann"), Skizzenbuch als Sicherheitsobjekt. Besonders gelungen: "Die Worte lagen hinter seinen Zaehnen wie etwas, das er nicht schlucken konnte" -- das ist Archie pur. |
-| **Spannung** | 4 | Die Szene ist primaer eine Charakterszene, keine Actionszene -- aber die Spannung funktioniert trotzdem. Das Warten auf Jude erzeugt Unsicherheit, Priyas Artikel bringt eine neue Informationsebene, und Archies Schloss-Offenbarung am Ende ist ein starker Hook. Leichter Abzug: Die Spannung haengt fast ausschliesslich an Archies innerem Konflikt -- ein minimaler aeusserer Spannungsmoment (ein verdaechtiges Geraeusch, ein Blick aufs Badehaus in der Ferne) haette die Atmosphaere noch dichter gemacht. |
+| **Spannung** | 4 | Die Szene ist primaer eine Charakterszene, keine Actionszene -- aber die Spannung funktioniert trotzdem. Das Warten auf Finn erzeugt Unsicherheit, Priyas Artikel bringt eine neue Informationsebene, und Archies Schloss-Offenbarung am Ende ist ein starker Hook. Leichter Abzug: Die Spannung haengt fast ausschliesslich an Archies innerem Konflikt -- ein minimaler aeusserer Spannungsmoment (ein verdaechtiges Geraeusch, ein Blick aufs Badehaus in der Ferne) haette die Atmosphaere noch dichter gemacht. |
 | **Regelkonformitaet** | 4 | Siehe Details unten. |
 
 **Durchschnitt: 4,4**
@@ -31,7 +31,7 @@ datum: 2026-04-09
 - **Satzlaenge:** Gute Varianz. Kurze Saetze in Spannungsmomenten ("Archie nickte."), laengere in ruhigen Passagen. Kein Satz ist uebermaessig lang.
 - **Aktiv vor Passiv:** Ueberwiegend aktiv. Kein problematisches Passiv gefunden.
 - **Show don't Tell:** Sehr gut umgesetzt. Emotionen werden koerperlich gezeigt (Magen zieht sich zusammen, Herz schlaegt in der Kehle, Hand hebt sich und sinkt wieder, Mund formt ein Wort das nicht kommt). Keine benannten Emotionen.
-- **Dialoge:** Knapp, figurenspezifisch. Jude ist direkt ("Du bist schon da", "Archie. Du kommst doch rein mit uns?"), Priya ist analytisch und praezise (erklaert den Artikel), Archie ist wortkarg ("H-hi", "Ich k-kann das Schloss oeffnen").
+- **Dialoge:** Knapp, figurenspezifisch. Finn ist direkt ("Du bist schon da", "Archie. Du kommst doch rein mit uns?"), Priya ist analytisch und praezise (erklaert den Artikel), Archie ist wortkarg ("H-hi", "Ich k-kann das Schloss oeffnen").
 - **Deutsche Anfuehrungszeichen:** Korrekt verwendet.
 
 ### Stilregeln
@@ -46,8 +46,8 @@ datum: 2026-04-09
 - **"ploetzlich":** Nicht vorhanden.
 - **"irgendwie"/"irgendwo":** "Irgendwo hinter den Hecken" (Zeile 17) -- akzeptabel im Kontext, da es Archies ungenaue akustische Wahrnehmung zeigt (er sieht den Hund nicht, nur hoert ihn). Grenzfall, aber vertretbar.
 - **"bemerkte, dass" / "begann zu" / "fing an zu":** Nicht vorhanden.
-- **Adverbien bei Dialogattribution:** "sagte Priya" (Zeile 55) -- sauber. "sagte Jude" (Zeile 37) -- sauber. ABER: "Er sagte es leise" (Zeile 87) -- das ist streng genommen ein Verstoss gegen die Regel "keine Adverbien bei Dialogattribution". Der Satz wird teilweise durch "fast beilaeufig, als spraeche er ueber das Wetter" aufgefangen, was eine schoene Charakterisierung ist, aber "leise" als Adverb bleibt problematisch. **Empfehlung:** Die Lautstaerke durch eine Aktion zeigen, z.B.: "Die Worte kamen kaum ueber seine Lippen" oder das "leise" streichen und nur "fast beilaeufig" stehen lassen.
-- **Uebermaeessiger Gebrauch von "nicken":** "Archie nickte" (Zeile 79) und "nickte Jude zu" (Zeile 43) -- zwei Mal in der Szene. Gemaess den Stilregeln soll uebermaessiger Gebrauch von "nicken" vermieden werden. Zwei Mal ist grenzwertig, aber noch akzeptabel, da beide Stellen unterschiedliche Funktionen haben (Priyas Gruss vs. Archies Entscheidungsmoment).
+- **Adverbien bei Dialogattribution:** "sagte Priya" (Zeile 55) -- sauber. "sagte Finn" (Zeile 37) -- sauber. ABER: "Er sagte es leise" (Zeile 87) -- das ist streng genommen ein Verstoss gegen die Regel "keine Adverbien bei Dialogattribution". Der Satz wird teilweise durch "fast beilaeufig, als spraeche er ueber das Wetter" aufgefangen, was eine schoene Charakterisierung ist, aber "leise" als Adverb bleibt problematisch. **Empfehlung:** Die Lautstaerke durch eine Aktion zeigen, z.B.: "Die Worte kamen kaum ueber seine Lippen" oder das "leise" streichen und nur "fast beilaeufig" stehen lassen.
+- **Uebermaeessiger Gebrauch von "nicken":** "Archie nickte" (Zeile 79) und "nickte Finn zu" (Zeile 43) -- zwei Mal in der Szene. Gemaess den Stilregeln soll uebermaessiger Gebrauch von "nicken" vermieden werden. Zwei Mal ist grenzwertig, aber noch akzeptabel, da beide Stellen unterschiedliche Funktionen haben (Priyas Gruss vs. Archies Entscheidungsmoment).
 
 ### Formatierung
 
@@ -60,7 +60,7 @@ datum: 2026-04-09
 ## Plot-Konsistenz
 
 - **Zeitungsartikel:** Konsistent mit K05 -- Priya hat den Artikel dort gefunden und eingesteckt. Inhalt (gestoppter Abriss, anonymer Einspruch, acht Jahre alt, *Gazette*) stimmt ueberein.
-- **Judes Wachsjacke:** Riss am Aermel mit Klebeband geflickt (Zeile 29) -- konsistent mit K04 (Riss vom Zaun) und K05 (Jude zeigt den Riss).
+- **Finns Wachsjacke:** Riss am Aermel mit Klebeband geflickt (Zeile 29) -- konsistent mit K04 (Riss vom Zaun) und K05 (Finn zeigt den Riss).
 - **Archies Skizzenbuch:** Auf den Knien, Trauerweide zeichnend -- konsistent mit seinem Charakter. Bezug auf fuenf Zeichnungen in drei Wochen (Zeile 69) -- konsistent mit K03.
 - **"Naechsten Freitag":** Korrekt referenziert als Verabredung aus K04 (Zeile 21).
 - **Vorhängeschloss:** Squire, Buegel nur aufgelegt, nicht eingerastet (Zeile 83) -- konsistent mit K03/K04.
@@ -74,7 +74,7 @@ Keine Plot-Inkonsistenzen gefunden.
 ## Charakter-Konsistenz
 
 - **Archie:** Stottern bei Nervositaet ("H-hi", "Ich k-kann") -- glossarkonform. Skizzenbuch als staendiger Begleiter -- glossarkonform. Zaehlen als Beruhigungsstrategie -- neues Detail, aber konsistent mit seiner Persoenlichkeit. Visuell-sensorische Wahrnehmung -- konsistent mit "nimmt Raeume wahr wie ein Zeichner" (Szenenplan). Scheu gegenueber Fremden (Priya) -- glossarkonform. Schlossknacken von Ted gelernt -- glossarkonform.
-- **Jude:** Graue Augen, strubbeliges Haar, Wachsjacke, Bleistiftkauen -- alles glossarkonform. Direkter Blick, direkte Frage ("Du kommst doch rein mit uns?") -- passt zu seiner Persoenlichkeit.
+- **Finn:** Graue Augen, strubbeliges Haar, Wachsjacke, Bleistiftkauen -- alles glossarkonform. Direkter Blick, direkte Frage ("Du kommst doch rein mit uns?") -- passt zu seiner Persoenlichkeit.
 - **Priya:** Zopf, Jeans, Hoodie, uebergrosser Rucksack -- glossarkonform. Analytisch, praezise, organisiert -- passt. Ihr Auftritt ist kurz, aber treffend charakterisiert.
 
 Keine Charakter-Inkonsistenzen gefunden.

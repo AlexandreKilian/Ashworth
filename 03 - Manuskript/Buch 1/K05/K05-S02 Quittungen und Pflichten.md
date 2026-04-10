@@ -20,7 +20,7 @@ Priya griff nach dem Stapel unverkaufter Tageszeitungen und zog sie aus dem Stä
 
 *Licht im Keller. Kapuze. Eine Tür, die kein Geräusch machte.*
 
-Sie schob die Zeitungen in den Karton unter der Theke und versuchte, den Gedanken mit hineinzuschieben. Es funktionierte nicht. Judes Stimme hing in ihrem Kopf fest, das Flüstern auf dem Schulhof, die Art, wie er den Riss in seiner Jacke gezeigt hatte — beiläufig, als wäre es gar nicht wichtig. Aber es war wichtig. Jude zerriss nicht einfach Dinge, die sein Vater ihm dagelassen hatte.
+Sie schob die Zeitungen in den Karton unter der Theke und versuchte, den Gedanken mit hineinzuschieben. Es funktionierte nicht. Finns Stimme hing in ihrem Kopf fest, das Flüstern auf dem Schulhof, die Art, wie er den Riss in seiner Jacke gezeigt hatte — beiläufig, als wäre es gar nicht wichtig. Aber es war wichtig. Finn zerriss nicht einfach Dinge, die sein Vater ihm dagelassen hatte.
 
 Sie richtete die Schokoladenriegel im Regal neben der Kasse aus. Kante an Kante, die Markennamen nach vorn. Dabei rechnete sie durch, obwohl sie die Antwort schon kannte.
 

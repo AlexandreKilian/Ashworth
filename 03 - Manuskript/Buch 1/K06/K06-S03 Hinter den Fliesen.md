@@ -6,7 +6,7 @@ kapitel: K06
 pov: Archie
 ort: Das viktorianische Badehaus
 status: entwurf
-was_passiert: Erste Erkundung des Badehauses — frische Spuren, Archie widerspricht Jude
+was_passiert: Erste Erkundung des Badehauses — frische Spuren, Archie widerspricht Finn
 ziel: Badehaus atmosphärisch zeigen, Archie als gleichberechtigte Stimme etablieren
 ---
 
@@ -20,7 +20,7 @@ Die Eingangshalle. Archie blieb stehen und ließ seinen Blick kreisen, so wie er
 
 Unter seinen Sohlen knirschte Putzstaub. Die Luft war schwer und feucht, mit dem süßlichen Geruch von Taubendreck und dem scharfen Hauch, den er schon an der Tür bemerkt hatte. Hier drinnen war er stärker. Nicht viel, aber genug, um falsch zu sein.
 
-Jude war schon voraus. Sein Schatten glitt durch den Lichtkegel, lang und schmal, und verschwand hinter einem Bogen. Priya folgte in gleichmäßigem Schritt, den Rucksack über beide Schultern gezogen, die Taschenlampe ruhig wie ein dritter Arm.
+Finn war schon voraus. Sein Schatten glitt durch den Lichtkegel, lang und schmal, und verschwand hinter einem Bogen. Priya folgte in gleichmäßigem Schritt, den Rucksack über beide Schultern gezogen, die Taschenlampe ruhig wie ein dritter Arm.
 
 Archie holte sein Skizzenbuch hervor. Er konnte hier nicht zeichnen — zu dunkel, zu schnell —, aber seine Finger brauchten etwas zum Festhalten. Er klemmte den Bleistift zwischen Zeige- und Mittelfinger und ging den beiden nach.
 
@@ -38,9 +38,9 @@ Das Glasdach, besser gesagt das, was davon übrig war. Stahlstreben ragten in de
 
 „Archie." Priyas Stimme, gedämpft vom Echo. „Komm mal."
 
-Er riss sich los und folgte ihr am Beckenrand entlang. Jude stand schon bei den Umkleidekabinen. Die Türen hingen schief in den Angeln, manche fehlten ganz. Dahinter Haken an den Wänden, leer, angerostet. In einer Kabine lag ein einzelner Schuh auf dem Boden — ein Turnschuh, grau vor Schmutz, die Schnürsenkel steif. Archie fragte sich, wer ihn zurückgelassen hatte. Wer hier geschwommen war, in diesem Becken, unter diesem Dach, als es noch ganz gewesen war.
+Er riss sich los und folgte ihr am Beckenrand entlang. Finn stand schon bei den Umkleidekabinen. Die Türen hingen schief in den Angeln, manche fehlten ganz. Dahinter Haken an den Wänden, leer, angerostet. In einer Kabine lag ein einzelner Schuh auf dem Boden — ein Turnschuh, grau vor Schmutz, die Schnürsenkel steif. Archie fragte sich, wer ihn zurückgelassen hatte. Wer hier geschwommen war, in diesem Becken, unter diesem Dach, als es noch ganz gewesen war.
 
-Eine Taube flatterte über ihnen auf. Das Geräusch hallte durch den Raum, hart und laut wie ein Klatschen, und Archie zuckte zusammen. Jude nicht. Jude stand reglos und starrte auf etwas am Boden.
+Eine Taube flatterte über ihnen auf. Das Geräusch hallte durch den Raum, hart und laut wie ein Klatschen, und Archie zuckte zusammen. Finn nicht. Finn stand reglos und starrte auf etwas am Boden.
 
 „Hier", sagte Priya. Sie kniete neben der Treppe, die am hinteren Ende des Beckens nach unten führte — in den Keller. Ihre Taschenlampe zeigte auf den Fliesenboden. „Seht euch das an."
 
@@ -50,7 +50,7 @@ Frisch.
 
 „Erwachsener", sagte Priya. Ihre Stimme war leise, aber nicht ängstlich. Sachlich, wie wenn sie im Laden die Inventurliste durchging. „Der Abdruck ist frisch. Einen Tag, vielleicht zwei."
 
-Jude kniete sich neben sie. Seine Augen waren schmal, konzentriert. Der Bleistift zwischen seinen Zähnen drehte sich.
+Finn kniete sich neben sie. Seine Augen waren schmal, konzentriert. Der Bleistift zwischen seinen Zähnen drehte sich.
 
 „Die Treppe", sagte er. Er richtete sich auf. „Der Keller. Da müssen wir hin. Jetzt."
 
@@ -58,17 +58,17 @@ Er machte einen Schritt auf die Treppe zu. Archie sah den dunklen Schlund, der s
 
 „Nein."
 
-Das Wort kam aus Archies Mund, bevor er darüber nachdachte. Klar und fest, ohne Zögern, ohne den Knoten in der Kehle, der sonst seine Worte verwürgte. Jude drehte sich um.
+Das Wort kam aus Archies Mund, bevor er darüber nachdachte. Klar und fest, ohne Zögern, ohne den Knoten in der Kehle, der sonst seine Worte verwürgte. Finn drehte sich um.
 
 „Was?"
 
 „Nicht heute." Archie hörte seine eigene Stimme, und sie klang anders. Ruhig. Sicher. Als gehörte sie jemand anderem, jemandem, der wusste, was er tat. „Wir wissen nicht, wann die Person wiederkommt. Der Abdruck ist frisch. Wenn wir jetzt runtergehen und jemand kommt —" Er brach ab. Mehr brauchte er nicht zu sagen.
 
-Jude starrte ihn an. Sein Kiefer mahlte. Archie hielt den Blick. Es war das Schwierigste, was er seit Langem getan hatte — Jude nicht nachgeben, Jude nicht recht geben, einfach nur stehen bleiben und Nein meinen.
+Finn starrte ihn an. Sein Kiefer mahlte. Archie hielt den Blick. Es war das Schwierigste, was er seit Langem getan hatte — Finn nicht nachgeben, Finn nicht recht geben, einfach nur stehen bleiben und Nein meinen.
 
 „Er hat recht", sagte Priya. Sie stand auf, klopfte den Staub von ihren Knien. „Wir kommen wieder. Aber vorbereitet."
 
-Stille. Irgendwo tropfte Wasser auf Fliesen, ein gleichmäßiges, hohles Ticken. Dann ließ Jude die Schultern sinken. Nicht viel. Aber genug.
+Stille. Irgendwo tropfte Wasser auf Fliesen, ein gleichmäßiges, hohles Ticken. Dann ließ Finn die Schultern sinken. Nicht viel. Aber genug.
 
 „Gut", sagte er. „Gut." Der Bleistift drehte sich zwischen seinen Zähnen. „Aber bald."
 
@@ -78,7 +78,7 @@ Priya nickte. Sie sah Archie an, kurz, und in ihrem Blick lag etwas, das er nich
 
 „Ich bring Ausrüstung mit", sagte Priya. Sie klopfte auf ihren Rucksack. „Richtige Ausrüstung. Nicht nur eine Taschenlampe."
 
-„Und ich beobachte die Lichter." Jude kaute auf seinem Bleistift. „Von außen. Um das Muster zu bestätigen. Donnerstag und Freitag — ob es immer dieselben Tage sind."
+„Und ich beobachte die Lichter." Finn kaute auf seinem Bleistift. „Von außen. Um das Muster zu bestätigen. Donnerstag und Freitag — ob es immer dieselben Tage sind."
 
 Keiner sagte, dass sie Angst hatten. Keiner musste.
 
@@ -96,7 +96,7 @@ Archie verstand. Nicht die Freitagslieferung im Laden ihrer Eltern. Die andere L
 
 Priya drehte sich um. „Aber nicht jeder Freitag."
 
-Dann ging sie los, den Kanalweg hinunter, Rucksack über beiden Schultern, gleichmäßiger Schritt. Jude folgte, Hände in den Taschen der Wachsjacke, Schultern hochgezogen. Archie blieb noch einen Moment stehen.
+Dann ging sie los, den Kanalweg hinunter, Rucksack über beiden Schultern, gleichmäßiger Schritt. Finn folgte, Hände in den Taschen der Wachsjacke, Schultern hochgezogen. Archie blieb noch einen Moment stehen.
 
 Er sah zum Badehaus zurück. Die dunkle Masse aus Backstein, die zugemauerten Fenster, der Efeu an der Nordseite. Dahinter das Gerippe des Glasdachs, kaum sichtbar gegen den Himmel.
 

@@ -24,7 +24,21 @@ from ebooklib import epub
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 MANUSKRIPT_DIR = os.path.join(SCRIPT_DIR, "03 - Manuskript")
+RESSOURCEN_DIR = os.path.join(SCRIPT_DIR, "08 - Ressourcen")
 LEXIKON_FILE = os.path.join(MANUSKRIPT_DIR, "Lexikon.md")
+
+# Serienweite Defaults
+DEFAULT_AUTHOR = "C. J. Whitmore"
+DEFAULT_SERIES = "Die Ashworth Drei"
+
+# Cover-Dateien pro Buch (Schlüssel = Ordnername unter 03 - Manuskript/)
+COVER_FILES = {
+    "Buch 1": "ashworth-book1.png",
+    "Buch 2": "book2.png",
+    "Buch 3": "buck3.png",
+    "Buch 4": "buch4.png",
+    "Buch 5": "buch5.png",
+}
 
 STYLESHEET = """
 body {
@@ -191,6 +205,22 @@ def lexikon_to_html(text: str) -> str:
     return "\n".join(parts)
 
 
+def find_cover_image(book_filter: str | None) -> str | None:
+    """Findet das Cover-Bild für ein bestimmtes Buch."""
+    if book_filter and book_filter in COVER_FILES:
+        path = os.path.join(RESSOURCEN_DIR, COVER_FILES[book_filter])
+        if os.path.exists(path):
+            return path
+    # Fallback: erstes verfügbares Cover
+    for name, filename in COVER_FILES.items():
+        if book_filter and name != book_filter:
+            continue
+        path = os.path.join(RESSOURCEN_DIR, filename)
+        if os.path.exists(path):
+            return path
+    return None
+
+
 def build_epub(output_path: str, title: str, author: str, language: str,
                book_filter: str | None = None):
     book = epub.EpubBook()
@@ -200,6 +230,14 @@ def build_epub(output_path: str, title: str, author: str, language: str,
     book.set_language(language)
     if author:
         book.add_author(author)
+
+    # Cover-Bild
+    cover_path = find_cover_image(book_filter)
+    if cover_path:
+        with open(cover_path, "rb") as f:
+            cover_data = f.read()
+        book.set_cover("cover.png", cover_data)
+        print(f"Cover: {os.path.basename(cover_path)}")
 
     # Stylesheet
     style = epub.EpubItem(
@@ -320,11 +358,11 @@ def build_epub(output_path: str, title: str, author: str, language: str,
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Manuskript zu EPUB")
-    parser.add_argument("-o", "--output", default="Manuskript.epub",
-                        help="Ausgabedatei (Standard: Manuskript.epub)")
-    parser.add_argument("-t", "--title", default="MANUSKRIPT",
+    parser.add_argument("-o", "--output", default=None,
+                        help="Ausgabedatei (Standard: aus Titel abgeleitet)")
+    parser.add_argument("-t", "--title", default=DEFAULT_SERIES,
                         help="Titel auf der Titelseite")
-    parser.add_argument("-a", "--author", default="",
+    parser.add_argument("-a", "--author", default=DEFAULT_AUTHOR,
                         help="Autor auf der Titelseite")
     parser.add_argument("-b", "--book", default=None,
                         help="Nur ein bestimmtes Buch bauen (z.B. 'Buch 1')")
@@ -333,6 +371,15 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     output = args.output
+    if output is None:
+        # Dateiname aus Titel ableiten: Umlaute ersetzen, Sonderzeichen entfernen
+        safe_title = args.title
+        for old, new in [("ä", "ae"), ("ö", "oe"), ("ü", "ue"), ("ß", "ss"),
+                         ("Ä", "Ae"), ("Ö", "Oe"), ("Ü", "Ue")]:
+            safe_title = safe_title.replace(old, new)
+        safe_title = re.sub(r"[^\w\s-]", "", safe_title).strip()
+        safe_title = re.sub(r"[\s]+", "-", safe_title)
+        output = f"{safe_title}.epub"
     if not os.path.isabs(output):
         output = os.path.join(SCRIPT_DIR, output)
 

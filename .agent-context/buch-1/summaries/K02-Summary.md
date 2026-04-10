@@ -27,7 +27,7 @@ Priya rennt zur Schule, zu spät wie immer. Auf halbem Weg dreht sie kurz den Ko
 - Nanis Kommentar ("Menschen schon") deutet an, dass sie mehr vermutet als Geister
 
 ### Geschlossen/Vorangetrieben
-- Badehaus-Gerücht breitet sich im Ort aus (nicht nur Jude hat die Lichter gesehen — auch Seans Sichtung)
+- Badehaus-Gerücht breitet sich im Ort aus (nicht nur Finn hat die Lichter gesehen — auch Seans Sichtung)
 - Setup-Beat für Priya abgeschlossen: Charakter, Familie, Laden etabliert
 
 ## Emotionaler Zustand am Ende
@@ -36,6 +36,6 @@ Priya ist zerrissen. Pflichtbewusst rennt sie zur Schule, aber ein Teil von ihr 
 
 ## Wichtige Reveals / Neue Informationen
 
-- Mehrere Leute haben die Lichter im Badehaus bemerkt (Sean Doherty, parallel zu Judes Sichtung aus K01)
+- Mehrere Leute haben die Lichter im Badehaus bemerkt (Sean Doherty, parallel zu Finns Sichtung aus K01)
 - Das Licht hat sich bewegt — erst unten, dann oben — was gegen eine einfache Spiegelung spricht
 - Nanis Analyse: Nicht Geister, sondern Menschen. Pragmatisch und beunruhigend zugleich.

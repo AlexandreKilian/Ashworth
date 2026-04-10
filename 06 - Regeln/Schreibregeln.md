@@ -10,7 +10,7 @@ Diese Regeln gelten für alle geschriebenen Szenen und Texte im Manuskript.
 
 ## Grammatik & Konsistenz
 - **Tempus:** Präteritum (Vergangenheitsform) als Erzähltempus.
-- **Perspektive:** Dritte Person, wechselnde POVs (Jude, Priya, Archie), eng am jeweiligen POV-Charakter. Nur wahrnehmen, was der aktuelle POV-Charakter wahrnehmen kann.
+- **Perspektive:** Dritte Person, wechselnde POVs (Finn, Priya, Archie), eng am jeweiligen POV-Charakter. Nur wahrnehmen, was der aktuelle POV-Charakter wahrnehmen kann.
 - **Konsistente Anrede:** Innerhalb einer Szene einheitlich.
 - **Keine Tippfehler, keine doppelten Wörter, keine fehlenden Artikel.**
 

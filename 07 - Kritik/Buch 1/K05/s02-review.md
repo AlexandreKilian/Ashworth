@@ -12,7 +12,7 @@ datum: 2026-04-09
 
 ### 1. Klarheit — 5/5
 
-Die Szene ist durchgehend verständlich. Der Leser weiß jederzeit, wo Priya ist, was sie tut und warum. Die Rückblende auf Judes Erzählung vom Schulhof (S01) wird elegant in Priyas Gedanken eingeflochten, ohne den Erzählfluss zu stören. Der Wochenplan-Durchlauf (Dienstag bis Freitag) macht den inneren Konflikt sofort greifbar.
+Die Szene ist durchgehend verständlich. Der Leser weiß jederzeit, wo Priya ist, was sie tut und warum. Die Rückblende auf Finns Erzählung vom Schulhof (S01) wird elegant in Priyas Gedanken eingeflochten, ohne den Erzählfluss zu stören. Der Wochenplan-Durchlauf (Dienstag bis Freitag) macht den inneren Konflikt sofort greifbar.
 
 ### 2. Pacing — 4/5
 

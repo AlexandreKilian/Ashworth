@@ -21,11 +21,11 @@ Die Szene ist durchweg verstaendlich. Der Leser weiss jederzeit, wo sich die Fig
 
 Das Tempo stimmt weitgehend. Die Szene baut sauber auf: Abstieg, Warten, Eindringen, Erkundung, Entdeckung, Cliffhanger. Die kurzen Saetze in den Spannungsmomenten funktionieren gut. Der Mittelteil (Priyas Durchklettern, Archies lautloser Eintritt, Taschenlampe raus) haelt das Tempo, ohne zu hetzen.
 
-**Kleiner Abzug:** Der Absatz ueber Judes Abholung von Archie (Zeile 19) ist ein Rueckblenden-Einschub, der den Vorwaertsdrang kurz bremst. Er liefert wichtige Charakter-Information (Archies stilles Nicken, Judes bewusste Entscheidung, nicht zu fragen), aber seine Platzierung zwischen dem Abrutschen an der Boeschung und dem Erreichen des Gitters unterbricht den physischen Fluss. Vorschlag: Den Einschub um zwei bis drei Saetze kuerzen oder ans Ende des Abstiegs verlagern.
+**Kleiner Abzug:** Der Absatz ueber Finns Abholung von Archie (Zeile 19) ist ein Rueckblenden-Einschub, der den Vorwaertsdrang kurz bremst. Er liefert wichtige Charakter-Information (Archies stilles Nicken, Finns bewusste Entscheidung, nicht zu fragen), aber seine Platzierung zwischen dem Abrutschen an der Boeschung und dem Erreichen des Gitters unterbricht den physischen Fluss. Vorschlag: Den Einschub um zwei bis drei Saetze kuerzen oder ans Ende des Abstiegs verlagern.
 
 ### 3. Charakterstimme — 5/5
 
-Judes POV ist treffsicher. Sein Beobachtungsdrang (registriert jedes Detail: Gras, Stein, Geruch), seine Impulsivitaet (geht als Erster), sein Schuldgefuehl (innerer Monolog ueber Archies Nicken) — alles konsistent mit dem etablierten Charakter. Besonders stark: Jude nimmt das Nicken, „weil du es brauchtest" — das zeigt Selbstreflexion und Schuldbewusstsein zugleich, ohne es auszusprechen.
+Finns POV ist treffsicher. Sein Beobachtungsdrang (registriert jedes Detail: Gras, Stein, Geruch), seine Impulsivitaet (geht als Erster), sein Schuldgefuehl (innerer Monolog ueber Archies Nicken) — alles konsistent mit dem etablierten Charakter. Besonders stark: Finn nimmt das Nicken, „weil du es brauchtest" — das zeigt Selbstreflexion und Schuldbewusstsein zugleich, ohne es auszusprechen.
 
 Archie und Priya sind als Nebenfiguren praezise gezeichnet: Archie lautlos, Skizzenbuch unter dem Arm, Chucks; Priya kontrolliert, Rucksack vor der Brust, „fluesterte sie" mit Handzeichen. Jeder ist sofort erkennbar.
 
@@ -41,7 +41,7 @@ Die Szene baut Spannung exemplarisch auf. Der leere Tunnel ist bedrohlicher als 
 
 **Eingehalten:**
 - Praeteritum durchgaengig korrekt
-- Dritte Person, enger Jude-POV, keine Perspektivbrueche
+- Dritte Person, enger Finn-POV, keine Perspektivbrueche
 - Deutsche Anfuehrungszeichen korrekt
 - Show don't tell konsequent (Emotionen durch Koerper und Handlung)
 - Mindestens 4 Sinne abgedeckt: Tastsinn (kalter Stein, nasses Gras), Geruch (feuchter Stein, chemisch), Gehoer (Knirschen, Tropfen, Schritte), Sehen (Taschenlampenstrahl, Schleifspuren)

@@ -86,7 +86,7 @@ Sie presste die Handballen auf die Augen. *Wir verlassen uns auf dich.* Und glei
 
 Für einen Moment hasste sie beides. Den Laden mit seinen Quittungsrollen und dem klebenden Linoleum und dem Flackern der Neonröhre. Und das Geheimnis mit seinen Ziplock-Beuteln und Handschuhen und der Angst, die sich in ihren Magen grub. Zwei Leben, die beide an ihr zogen, und keins ließ los.
 
-Das Handy auf dem Nachttisch blieb dunkel. Keine Nachricht von Jude. Keine von Archie. Nur sie und der offene Rucksack und der Geruch von Daal, der unter der Tür durchkroch.
+Das Handy auf dem Nachttisch blieb dunkel. Keine Nachricht von Finn. Keine von Archie. Nur sie und der offene Rucksack und der Geruch von Daal, der unter der Tür durchkroch.
 
 Im Flur: das leise Schlurfen von Pantoffeln auf Linoleum. Nanis Pantoffeln. Priya kannte das Geräusch, wie sie jedes Geräusch in diesem Haus kannte — das Knarren der Treppe, das Summen der Heizung, das Klappern von Ravis Musik.
 

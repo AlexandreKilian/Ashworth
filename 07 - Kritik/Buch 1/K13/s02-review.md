@@ -11,7 +11,7 @@ datum: 2026-04-10
 
 # Review — K13-S02: Eingesperrt
 
-**POV:** Jude
+**POV:** Finn
 **Wortanzahl:** ~1.250 (Ziel: 1.200–1.400 — im Korridor)
 
 ---
@@ -21,8 +21,8 @@ datum: 2026-04-10
 | Kriterium | Note (1–5) | Kommentar |
 |-----------|:----------:|-----------|
 | **Klarheit** | 5 | Jederzeit verstaendlich. Raeumliche Orientierung (Tunnel → Konfrontation → Kellerraum) sauber gefuehrt. Die Blickfuehrung ueber Taschenlampen-Licht und Dunkelheit funktioniert als visuelles Leitsystem. Der Leser weiss immer, wo die drei stehen und was passiert. |
-| **Pacing** | 5 | Drei praezise Tempophasen: (1) Schock der Konfrontation — kurze, abgehackte Saetze, schnelle Wahrnehmungsfetzen. (2) Abgabe der Gegenstaende — langsamer, qualvoll, besonders Archies Finger. (3) Stille im Raum — gedehnt, innerlich, Judes Schuldgedanken. Kein Leerlauf. Die Einwortsaetze ("Stille.", "Dunkelheit.") setzen rhythmische Anker. |
-| **Charakterstimme** | 5 | Judes POV durchgaengig authentisch: registrierend, detailversessen (rasiertes Kinn, schmaler Mund, Kapuzentiefe), impulsiv im Handeln, dann von Schuld ueberflutet. Die kursiven Gedanken ("Das war ich.") treffen seinen Ton — hart, klar, kein Selbstmitleid. Archie durch koerperliche Details lebendig (Finger loesen sich einzeln, Gesicht weiss wie Papier, Stille statt Sprache). Priya durch kontrollierten Atemrhythmus und die stille Handgeste. Alle drei sofort erkennbar. |
+| **Pacing** | 5 | Drei praezise Tempophasen: (1) Schock der Konfrontation — kurze, abgehackte Saetze, schnelle Wahrnehmungsfetzen. (2) Abgabe der Gegenstaende — langsamer, qualvoll, besonders Archies Finger. (3) Stille im Raum — gedehnt, innerlich, Finns Schuldgedanken. Kein Leerlauf. Die Einwortsaetze ("Stille.", "Dunkelheit.") setzen rhythmische Anker. |
+| **Charakterstimme** | 5 | Finns POV durchgaengig authentisch: registrierend, detailversessen (rasiertes Kinn, schmaler Mund, Kapuzentiefe), impulsiv im Handeln, dann von Schuld ueberflutet. Die kursiven Gedanken ("Das war ich.") treffen seinen Ton — hart, klar, kein Selbstmitleid. Archie durch koerperliche Details lebendig (Finger loesen sich einzeln, Gesicht weiss wie Papier, Stille statt Sprache). Priya durch kontrollierten Atemrhythmus und die stille Handgeste. Alle drei sofort erkennbar. |
 | **Spannung** | 5 | Funktioniert auf zwei Ebenen: physische Bedrohung (Taschenlampen, Konfrontation, Einsperren), dann emotionale (Schuld, Dunkelheit, Stille). Die Schmuggler sind bedrohlich durch Ruhe und Kontrolle — "Handys." als Einwortsatz ohne Ausrufezeichen ist beaengstigender als jede Drohgebaerde. Der Cliffhanger (Schritte vor der Tuer) zieht zuverlaessig nach S03. |
 | **Regelkonformitaet** | 4 | Sehr gute Regelkonformitaet mit einer zwingenden Korrektur (Metareferenz) und kleinen Feinschliff-Optionen. Details unten. |
 
@@ -35,10 +35,10 @@ datum: 2026-04-10
 ## Positives Feedback
 
 ### Archies Skizzenbuch-Uebergabe (Z. 47–64)
-Der emotionale Hoehepunkt der Szene und einer der staerksten Momente im bisherigen Manuskript. Die Finger, die sich einzeln loesen "wie Schrauben, die jemand langsam aufdrehte", sind ein brillantes Bild. Der kleine Finger, der am laengsten haelt — ein Detail, das die Szene unvergesslich macht. Dass Jude nicht hinsehen kann, nicht wegen der Dunkelheit, sondern wegen des Schuldgefuehls — Show-don't-Tell auf hohem Niveau.
+Der emotionale Hoehepunkt der Szene und einer der staerksten Momente im bisherigen Manuskript. Die Finger, die sich einzeln loesen "wie Schrauben, die jemand langsam aufdrehte", sind ein brillantes Bild. Der kleine Finger, der am laengsten haelt — ein Detail, das die Szene unvergesslich macht. Dass Finn nicht hinsehen kann, nicht wegen der Dunkelheit, sondern wegen des Schuldgefuehls — Show-don't-Tell auf hohem Niveau.
 
 ### Tonalitaet der Schmuggler
-Exakt die Balance, die die Schreibregeln fuer die Zielgruppe 10–14 fordern. "Handys." / "Der Rucksack." / "Geht." — Einwortsaetze, die Machtdynamik etablieren, ohne altersungerecht zu werden. Bedrohlich durch Ruhe, nicht durch Gewalt. Der Vergleich mit dem Lehrertonfall ("von Lehrern, die nicht mehr fragen mussten") ist altersgerecht und aus Judes Erfahrungswelt gegriffen.
+Exakt die Balance, die die Schreibregeln fuer die Zielgruppe 10–14 fordern. "Handys." / "Der Rucksack." / "Geht." — Einwortsaetze, die Machtdynamik etablieren, ohne altersungerecht zu werden. Bedrohlich durch Ruhe, nicht durch Gewalt. Der Vergleich mit dem Lehrertonfall ("von Lehrern, die nicht mehr fragen mussten") ist altersgerecht und aus Finns Erfahrungswelt gegriffen.
 
 ### Priyas Hand (Z. 107–116)
 Praezise dosiert. Drei moegliche Bedeutungen, keine wird festgelegt. Das gibt dem Leser Raum und zeigt Priyas Charakter: warmherzig, aber zurueckhaltend. Dass sie loslaesst, statt festzuhalten, passt zur Fragiliaet der Freundschaft in diesem Moment. Perfekter emotionaler Kontrapunkt zum Schuldgefuehl.
@@ -94,7 +94,7 @@ Vier Teilsaetze, ~25 Woerter, an der Obergrenze der Schreibregel. Funktioniert r
 | Archie gibt Skizzenbuch ab (Finger einzeln) | Ja |
 | Raum 3x4, keine Fenster, sauber gewischt | Ja |
 | Einer bleibt vor der Tuer | Ja |
-| Judes Schuldgefuehl als emotionaler Kern | Ja |
+| Finns Schuldgefuehl als emotionaler Kern | Ja |
 | Priyas Hand im Dunkeln | Ja |
 | Hook: Schritte vor der Tuer | Ja |
 | Emotionaler Bogen: Schock → Ohnmacht → Schuld | Ja |

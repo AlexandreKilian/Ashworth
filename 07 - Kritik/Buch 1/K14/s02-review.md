@@ -12,7 +12,7 @@ status: bewertet
 
 ### 1. Klarheit — 5/5
 
-Die Szene ist glasklar erzählt. Der Leser versteht in jedem Moment, was passiert: Archie steht vor Judes Tür, ringt sich durch, breitet seine Rekonstruktion aus, und Jude begreift. Die vier Blätter werden systematisch eingeführt (Name, Zeitfenster, Ort-Skizze, Botschaft), was die Enthüllung strukturiert und nachvollziehbar macht. Kein Moment, in dem der Leser sich fragt, was gerade geschieht.
+Die Szene ist glasklar erzählt. Der Leser versteht in jedem Moment, was passiert: Archie steht vor Finns Tür, ringt sich durch, breitet seine Rekonstruktion aus, und Finn begreift. Die vier Blätter werden systematisch eingeführt (Name, Zeitfenster, Ort-Skizze, Botschaft), was die Enthüllung strukturiert und nachvollziehbar macht. Kein Moment, in dem der Leser sich fragt, was gerade geschieht.
 
 **Gelungene Stellen:**
 - Die vier Blätter als visuelles und narratives Ordnungsprinzip funktionieren hervorragend — der Leser kann Archies Rekonstruktion Schritt für Schritt mitverfolgen.
@@ -32,11 +32,11 @@ Das Verhältnis von Aktion, Dialog und Introspektion stimmt. Keine Passage fühl
 
 Dies ist Archies definierender Moment, und die Szene trifft seine Stimme auf jedem Level. Die POV-Perspektive bleibt eng bei ihm: er nimmt Details wahr (abblätternde Farbe, Klebeband-Flicken, Bleistift mit Zahnspuren), er ordnet physisch (Kanten parallel, wie Skizzen auf der Ablage), und er kämpft mit dem Stottern, ohne es zu überwinden — es ist einfach da, real und hartnäckig.
 
-Jude ist ebenfalls stimmig: Er tritt wortlos zur Seite, setzt sich neben Archie (nicht gegenüber), sagt wenig, hört zu. Das entspricht exakt seiner Entwicklung nach K13 — schuldbewusst, aber präsent.
+Finn ist ebenfalls stimmig: Er tritt wortlos zur Seite, setzt sich neben Archie (nicht gegenüber), sagt wenig, hört zu. Das entspricht exakt seiner Entwicklung nach K13 — schuldbewusst, aber präsent.
 
 **Gelungene Stellen:**
 - „Das ist das, was ich k-kann." — Archies Selbstverständnis in einem Satz, ohne Pathos.
-- Jude setzt sich neben Archie, nicht gegenüber — ein stilles Detail, das Solidarität zeigt statt Verhör.
+- Finn setzt sich neben Archie, nicht gegenüber — ein stilles Detail, das Solidarität zeigt statt Verhör.
 - Archies Wahrnehmung, dass manche Dinge privat sind, auch wenn man nebeneinander sitzt — das ist seine Stimme: beobachtend, respektvoll, zurückhaltend.
 
 ### 4. Spannung — 4/5
@@ -45,7 +45,7 @@ Die Szene ist primär emotional, nicht aktionsgetrieben, und das ist genau richt
 
 Das vierte Blatt ("Allein sind wir dumm. Zusammen nicht.") ist ein starker emotionaler Höhepunkt. Priyas Auftritt am Ende ("Ich weiß.") ist ein effektiver Hook für S03.
 
-**Kleiner Abzug:** Die Spannung im Mittelteil könnte minimal höher sein. Zwischen dem zweiten und dritten Blatt gibt es einen kurzen Moment, in dem das Schema (Blatt zeigen, erklären, Jude reagiert) leicht vorhersehbar wird. Ein unerwartetes Detail oder eine kurze Unterbrechung (ein Geräusch von unten, eine Reaktion Judes, die Archie verunsichert) hätte die Spannung auf dem Plateau halten können. Das ist allerdings eine Nuance, kein echtes Problem.
+**Kleiner Abzug:** Die Spannung im Mittelteil könnte minimal höher sein. Zwischen dem zweiten und dritten Blatt gibt es einen kurzen Moment, in dem das Schema (Blatt zeigen, erklären, Finn reagiert) leicht vorhersehbar wird. Ein unerwartetes Detail oder eine kurze Unterbrechung (ein Geräusch von unten, eine Reaktion Finns, die Archie verunsichert) hätte die Spannung auf dem Plateau halten können. Das ist allerdings eine Nuance, kein echtes Problem.
 
 ### 5. Regelkonformität — 5/5
 
@@ -53,7 +53,7 @@ Die Szene hält sich konsequent an alle Regelwerke:
 
 - **Tempus:** Präteritum durchgehend korrekt.
 - **Perspektive:** Enge dritte Person, Archie-POV, keine Brüche. Alles wird durch seine Wahrnehmung gefiltert.
-- **Show don't Tell:** Emotionen werden körperlich gezeigt (zitternde Hände, Kiefer verkrampft, Zunge am Gaumen) statt benannt. Judes nasse Augen, ohne zu weinen. Archie sieht nicht direkt hin.
+- **Show don't Tell:** Emotionen werden körperlich gezeigt (zitternde Hände, Kiefer verkrampft, Zunge am Gaumen) statt benannt. Finns nasse Augen, ohne zu weinen. Archie sieht nicht direkt hin.
 - **Dialoge:** Knapp, figurenspezifisch, deutsche Anführungszeichen korrekt. Keine Adverbien in Inquit-Formeln.
 - **Verbotene Muster:** Kein "plötzlich", kein "irgendwie", kein "bemerkte, dass", kein "begann zu". Keine übermäßigen Adjektive.
 - **Satzlänge:** Guter Mix aus kurzen und langen Sätzen. Spannungsmomente (Klopfen, Stottern) kurz. Beschreibungen fließend.
@@ -61,7 +61,7 @@ Die Szene hält sich konsequent an alle Regelwerke:
 - **Satz-Varianz:** Keine zwei gleich langen Sätze hintereinander. Rhythmus variiert geschickt.
 - **Altersgerechte Sprache:** Ja. Emotional komplex, aber verständlich. Spannung ohne Horror.
 - **Englische Begriffe:** *Magpie* korrekt kursiv.
-- **Konsistenz mit Glossar:** Archies Stottern, enge Handschrift, Detailbeobachtung, Chucks — alles stimmig. Judes Schlaksigkeit, struppiges Haar, Wachsjacke (fehlt hier bewusst — er ist zu Hause), Bleistift mit Zahnspuren.
+- **Konsistenz mit Glossar:** Archies Stottern, enge Handschrift, Detailbeobachtung, Chucks — alles stimmig. Finns Schlaksigkeit, struppiges Haar, Wachsjacke (fehlt hier bewusst — er ist zu Hause), Bleistift mit Zahnspuren.
 
 ## Positives Feedback (Highlights)
 
@@ -71,15 +71,15 @@ Die Szene hält sich konsequent an alle Regelwerke:
 
 3. **Das Stottern** ist weder niedlich noch melodramatisch, sondern funktional und schmerzlich real. Es wird schlimmer, als es wichtig wird — das ist psychologisch stimmig und für die Zielgruppe einfühlsam.
 
-4. **Judes stille Reaktion** — nasse Augen, Blick an die Decke, kein Weinen — ist ein Gegengewicht zu Archies Kampf. Zwei Jungs, die auf ihre Art emotional sind, ohne dass es sentimental wird.
+4. **Finns stille Reaktion** — nasse Augen, Blick an die Decke, kein Weinen — ist ein Gegengewicht zu Archies Kampf. Zwei Jungs, die auf ihre Art emotional sind, ohne dass es sentimental wird.
 
 5. **Priyas Auftritt** am Schluss ist narrativ effizient und spannungstechnisch ein guter Hook. Zwei Worte ("Ich weiß.") genügen.
 
 ## Verbesserungsvorschläge
 
-1. **Mittelteil-Spannung (minor):** Zwischen Blatt 2 und 3 könnte ein kurzer Moment der Unsicherheit eingefügt werden — z.B. Archie, der stockt und nicht weiß, ob Jude ihm glaubt, oder ein Geräusch von unten, das beide zusammenfahren lässt. Das würde das Enthüllungs-Schema minimal brechen und die Spannung halten.
+1. **Mittelteil-Spannung (minor):** Zwischen Blatt 2 und 3 könnte ein kurzer Moment der Unsicherheit eingefügt werden — z.B. Archie, der stockt und nicht weiß, ob Finn ihm glaubt, oder ein Geräusch von unten, das beide zusammenfahren lässt. Das würde das Enthüllungs-Schema minimal brechen und die Spannung halten.
 
-2. **Judes physische Beschreibung:** Die Passage "Schlaksig, zu groß für den Türrahmen, das struppige Haar flacher als sonst" ist gut, aber der letzte Vergleich ("Haut hatte die Farbe von Milch, der man zu viel Wasser beigemischt hatte") ist etwas gewunden. Eine schlichtere Formulierung wäre hier stärker — z.B. "wässrig blass" oder ein anderes, kompakteres Bild.
+2. **Finns physische Beschreibung:** Die Passage "Schlaksig, zu groß für den Türrahmen, das struppige Haar flacher als sonst" ist gut, aber der letzte Vergleich ("Haut hatte die Farbe von Milch, der man zu viel Wasser beigemischt hatte") ist etwas gewunden. Eine schlichtere Formulierung wäre hier stärker — z.B. "wässrig blass" oder ein anderes, kompakteres Bild.
 
 3. **"Ein ganzes Nicken, nicht halb"** kommt zweimal vor (Zeile 74 und 92). Das ist ein etabliertes Archie-Motiv aus früheren Kapiteln, aber die Wiederholung innerhalb derselben Szene fällt auf. Einmal genügt. Bei der zweiten Verwendung reicht "Archie nickte." oder eine Variation.
 

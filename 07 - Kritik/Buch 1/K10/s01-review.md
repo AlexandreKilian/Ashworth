@@ -16,8 +16,8 @@ status: review
 |-----------|------|-----------|
 | Klarheit | 5 | Jederzeit klar, wo die Figuren sind, was sie tun und was sie wahrnehmen. Die raeumliche Orientierung (Eingangshalle, Becken, Luke, Stufen, Tunnel) ist praezise und lueckenlos. |
 | Pacing | 4 | Guter Aufbau: zuegiger Einstieg, dann Verlangsamung beim Oeffnen der Luke und beim Abstieg, Beschleunigung am Ende durch den Kisten-Fund. Kein Leerlauf. Einziger kleiner Einwand: Der Mittelteil (Stufen zaehlen, Waende beschreiben) koennte um zwei bis drei Saetze gestrafft werden, ohne Atmosphaere zu verlieren. |
-| Charakterstimme | 5 | Jude als POV ist durchgehend praesent und ueberzeugend: beobachtend, impulsiv (nimmt Priya die Taschenlampe ab, steigt als Erster hinunter), registriert Details. Archies Stottern ("H-hier"), seine lautlosen Chucks, sein routiniertes Umgehen mit dem Schloss, Priyas sachliche Stimme und ihr Griff an den Rucksackgurt — alles figurenkonsistent und ohne Erklaerung gezeigt. |
-| Spannung | 4 | Die Szene baut Spannung kontinuierlich auf: geoelte Angeln, klemmende Luke, kalte Luft, zaehlen der Stufen, enger werdende Waende — und dann der Payoff mit den Kisten. Sehr wirksam. Das Ende ("Die Luke ueber ihnen blieb offen") ist ein starker Hook. Einen halben Punkt Abzug, weil der Abstieg selbst etwas gleichmaessig bleibt — ein kurzes Moment der Unsicherheit (Stufe wackelt, Jude rutscht) haette die Spannung im Mittelteil noch gesteigert. |
+| Charakterstimme | 5 | Finn als POV ist durchgehend praesent und ueberzeugend: beobachtend, impulsiv (nimmt Priya die Taschenlampe ab, steigt als Erster hinunter), registriert Details. Archies Stottern ("H-hier"), seine lautlosen Chucks, sein routiniertes Umgehen mit dem Schloss, Priyas sachliche Stimme und ihr Griff an den Rucksackgurt — alles figurenkonsistent und ohne Erklaerung gezeigt. |
+| Spannung | 4 | Die Szene baut Spannung kontinuierlich auf: geoelte Angeln, klemmende Luke, kalte Luft, zaehlen der Stufen, enger werdende Waende — und dann der Payoff mit den Kisten. Sehr wirksam. Das Ende ("Die Luke ueber ihnen blieb offen") ist ein starker Hook. Einen halben Punkt Abzug, weil der Abstieg selbst etwas gleichmaessig bleibt — ein kurzes Moment der Unsicherheit (Stufe wackelt, Finn rutscht) haette die Spannung im Mittelteil noch gesteigert. |
 | Regelkonformitaet | 4 | Siehe Detailpruefung unten. |
 | **Durchschnitt** | **4,4** | |
 
@@ -36,9 +36,9 @@ Keine Plot-Inkonsistenzen gefunden.
 
 ### Charakter-Konsistenz
 
-- **Jude:** Geht als Erster, nimmt die Taschenlampe, zaehlt Stufen — typisch fuer seinen Drang nach vorne (vgl. K06: will sofort in den Keller; K08: akzeptiert Priyas Fuehrung widerwillig). Hier nimmt er Priya die Taschenlampe aus der Hand, bevor sie ihren Einwand formulieren kann — impulsiv, aber nicht ruecksichtslos. Passt.
+- **Finn:** Geht als Erster, nimmt die Taschenlampe, zaehlt Stufen — typisch fuer seinen Drang nach vorne (vgl. K06: will sofort in den Keller; K08: akzeptiert Priyas Fuehrung widerwillig). Hier nimmt er Priya die Taschenlampe aus der Hand, bevor sie ihren Einwand formulieren kann — impulsiv, aber nicht ruecksichtslos. Passt.
 - **Archie:** Stottert bei sozialer Nervositaet ("H-hier"), bewegt sich lautlos, kennt die Luke, kniet und fegt Schutt mit den Haenden — alles konsistent mit dem Glossar und K09.
-- **Priya:** Stimme "leise, aber nicht fluesternd. Feststellend." — das ist Priyas Tonfall. Ihr Griff an den Rucksackgurt (Nervositaet zeigen statt benennen) und der kurze Griff an Judes Ellbogen am Ende sind gut gesetzte Details. Ihr abgebrochener Satz "Wir sollten --" zeigt den Konflikt Plan-vs.-Handlung, den der Szenenplan als Konfliktelement vorsieht.
+- **Priya:** Stimme "leise, aber nicht fluesternd. Feststellend." — das ist Priyas Tonfall. Ihr Griff an den Rucksackgurt (Nervositaet zeigen statt benennen) und der kurze Griff an Finns Ellbogen am Ende sind gut gesetzte Details. Ihr abgebrochener Satz "Wir sollten --" zeigt den Konflikt Plan-vs.-Handlung, den der Szenenplan als Konfliktelement vorsieht.
 
 ### Ort-Konsistenz
 
@@ -51,9 +51,9 @@ Keine Plot-Inkonsistenzen gefunden.
 Durchgehend vorbildlich. Emotionen werden ausschliesslich durch Handlung und Koerpersprache transportiert:
 
 - Nervositaet: Priya drueckt Rucksackgurt flach gegen Schulter.
-- Ehrfurcht: Jude beruehrt das Holz, legt die Fingerspitzen in die Rillen.
-- Erschrecken: Priya schliesst die Hand um Judes Ellbogen — "fest, kurz, dann liess sie los."
-- Spannung: "Jude hielt den Atem an."
+- Ehrfurcht: Finn beruehrt das Holz, legt die Fingerspitzen in die Rillen.
+- Erschrecken: Priya schliesst die Hand um Finns Ellbogen — "fest, kurz, dann liess sie los."
+- Spannung: "Finn hielt den Atem an."
 
 Kein einziges "er fuehlte", "sie war nervoes" oder aehnliches Tell.
 
@@ -63,7 +63,7 @@ Minimal und wirkungsvoll. Vier kurze Wechsel, jeder figurenspezifisch:
 - Archie: "H-hier." (Stottern, einsilbig)
 - Priya: "Das ist nicht viktorianisch." (sachlich, feststellend)
 - Archie: "Aelter. Lagerhaus-Zeit." (knapp, kompetent, kein Stottern bei Sachthema)
-- Jude: "Wie tief?" / Archie: "Weiss ich nicht." (ehrlich, kein Aufblaehen)
+- Finn: "Wie tief?" / Archie: "Weiss ich nicht." (ehrlich, kein Aufblaehen)
 
 Keine Adverbien in Inquit-Formeln. Deutsche Anfuehrungszeichen korrekt. Dialoge knapp und natuerlich — exakt wie die Regeln es verlangen.
 
@@ -82,7 +82,7 @@ Uebertrifft die Mindestanforderung (2 Sinne) deutlich.
 | Regel | Eingehalten? | Anmerkung |
 |-------|-------------|-----------|
 | Prateritum | Ja | Durchgehend. |
-| Dritte Person, enger POV (Jude) | Ja | Keine POV-Verletzung. Alles durch Judes Wahrnehmung. |
+| Dritte Person, enger POV (Finn) | Ja | Keine POV-Verletzung. Alles durch Finns Wahrnehmung. |
 | Satzlaenge (max. ~25 Woerter, max. 1 Nebensatz) | Weitgehend | Ein Satz ueberschreitet leicht: "Er musste den Griff wechseln, beide Haende, die Fuesze gegen den Beckenboden stemmen." — aber das ist Stilmittel (Aufzaehlung unter Anstrengung), kein Verstoss. |
 | Keine verbotenen Woerter | Ja | Kein "ploetzlich", "irgendwie", "bemerkte dass", "begann zu". |
 | Kein uebermasziger Adjektivgebrauch | Ja | Adjektive sind sparsam und praezise ("dumpfes Knirschen", "kalte Luft", "helles Holz"). |
@@ -96,7 +96,7 @@ Uebertrifft die Mindestanforderung (2 Sinne) deutlich.
 
 1. **Direkter Einstieg:** Die Szene beginnt mitten in der Handlung — kein Anlauf, keine Erklaerung, der Leser ist sofort im Badehaus. Exzellent.
 2. **Atmosphaere:** Der Abstieg ist sensorisch dicht und atmosphaerisch ueberzeugend, ohne in Ueberladung zu verfallen. Die Metapher "ein Laut wie ein langer Atemzug" fuer das Luke-Oeffnen ist originell und altersgerecht.
-3. **Figuren-Dynamik:** Die Szene zeigt die Gruppendynamik durch Handlung: Archie fuehrt (sein Fund), Jude draengt nach vorne, Priya sichert ab. Alle drei sind praesent, ohne dass jemand zu kurz kommt.
+3. **Figuren-Dynamik:** Die Szene zeigt die Gruppendynamik durch Handlung: Archie fuehrt (sein Fund), Finn draengt nach vorne, Priya sichert ab. Alle drei sind praesent, ohne dass jemand zu kurz kommt.
 4. **Hook:** "Die Luke ueber ihnen blieb offen. Ein schmales Rechteck aus Mondlicht, weit weg." — Doppelfunktion: atmosphaerisches Bild und Vorausdeutung (die offene Luke wird in S03 zur Konsequenz). Starker Szenenabschluss.
 5. **Kisten-Reveal:** Wird dramaturgisch gut aufgebaut (erst Wand, Biegung, dann Schwenk nach rechts) und wirkt durch das Detail der fehlenden Nummern 1-2 beunruhigend, ohne dass es ausgesprochen wird.
 
@@ -106,7 +106,7 @@ Uebertrifft die Mindestanforderung (2 Sinne) deutlich.
 
 2. **Priyas Zoeigern expliziter machen:** Laut Szenenplan soll Priya "kurz zoegern" (Sicherheitsbedenken). Ihr abgebrochener Satz "Wir sollten --" deutet das an, koennte aber eine Spur deutlicher sein — etwa durch eine koerperliche Reaktion (Hand hebt sich, faellt zurueck), die zeigt, dass sie einen Einwand hatte und ihn schluckt. Das wuerde ihren inneren Konflikt (Plan vs. Handlung) staerker transportieren.
 
-3. **Nummernluecke nutzen:** Die Kisten sind von drei bis neun nummeriert — wo sind eins und zwei? Diese Luecke ist ein wunderbares Detail, das aber leicht ueberlesen werden kann. Ein halber Satz von Jude (innerer Gedanke kursiv) koennte die Luecke fuer den Leser markieren, ohne sie zu erklaeren: *Drei bis neun. Nicht eins.* Das waere ein kleiner, aber effektiver Hinweis.
+3. **Nummernluecke nutzen:** Die Kisten sind von drei bis neun nummeriert — wo sind eins und zwei? Diese Luecke ist ein wunderbares Detail, das aber leicht ueberlesen werden kann. Ein halber Satz von Finn (innerer Gedanke kursiv) koennte die Luecke fuer den Leser markieren, ohne sie zu erklaeren: *Drei bis neun. Nicht eins.* Das waere ein kleiner, aber effektiver Hinweis.
 
 ## Gesamturteil
 

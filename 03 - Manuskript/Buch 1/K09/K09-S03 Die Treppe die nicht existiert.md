@@ -46,7 +46,7 @@ Im Cottage flimmerte der Fernseher. Ted saß im Sessel, den Kopf zur Seite genei
 
 Auf dem Bett legte er das Skizzenbuch auf die Knie und klappte es auf. Der Grundriss füllte jetzt zwei Seiten. Jeder Raum, jeder Gang, jede Tür — und mittendrin, am tiefen Ende des Beckens, ein kleines Rechteck mit einem Kreuz darin. Eine Treppe, die auf keinem Plan stand. Eine Treppe, die unter die dicke Wand führte, dorthin, wo die Tunnel sein mussten.
 
-Er nahm den Bleistift und schrieb an den unteren Rand: *Jude und Priya zeigen. Morgen.*
+Er nahm den Bleistift und schrieb an den unteren Rand: *Finn und Priya zeigen. Morgen.*
 
 Dann klappte er das Buch zu und löschte das Licht. Durch das Dachfenster fiel der halbe Mond auf die Decke, und das Skizzenbuch lag schwer und warm auf seiner Brust.
 

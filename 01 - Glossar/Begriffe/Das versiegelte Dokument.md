@@ -12,7 +12,7 @@ Ein altes, vergilbtes Dokument auf steifem Papier ("wie getrocknetes Leder"), mi
 
 ## Kontext
 
-In K15-S03 von Jude neben einer der Schmuggelkisten im Gras gefunden, nach der Polizeiaktion unter der Steinbrücke am Treidelpfad. Nicht verpackt, kein Zellophan, keine Nummer — gehört nicht zur regulären Schmuggelware. Jemand hat es zwischen Schmuggelware und Zellophan versteckt, "wo niemand es suchen würde." Priya legt es in die olivgrüne Metallkiste unter der Bank in der Magpie (wasserdicht, Schnappverschluss).
+In K15-S03 von Finn neben einer der Schmuggelkisten im Gras gefunden, nach der Polizeiaktion unter der Steinbrücke am Treidelpfad. Nicht verpackt, kein Zellophan, keine Nummer — gehört nicht zur regulären Schmuggelware. Jemand hat es zwischen Schmuggelware und Zellophan versteckt, "wo niemand es suchen würde." Priya legt es in die olivgrüne Metallkiste unter der Bank in der Magpie (wasserdicht, Schnappverschluss).
 
 ## Notizen
 

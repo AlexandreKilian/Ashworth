@@ -26,7 +26,7 @@ Die Szene ist jederzeit klar und nachvollziehbar. Die räumliche Orientierung st
 
 ### 2. Pacing — 5/5
 
-Das Tempo ist hervorragend. Die Szene beginnt mit dem nahenden Motor (Direktanschluss an K15-S01), steigert sich langsam über die Ankunft der Schmuggler, den Kisten-Ablad und die Erscheinung des Abholers. Der Zugriff kommt dann schnell und leise — genau richtig für eine Szene, die auf Understatement setzt. Das Nachbeben (Priyas Finger, die sich lösen, Archies Ausatmen, Judes Nicken) bekommt genau den Raum, den es braucht.
+Das Tempo ist hervorragend. Die Szene beginnt mit dem nahenden Motor (Direktanschluss an K15-S01), steigert sich langsam über die Ankunft der Schmuggler, den Kisten-Ablad und die Erscheinung des Abholers. Der Zugriff kommt dann schnell und leise — genau richtig für eine Szene, die auf Understatement setzt. Das Nachbeben (Priyas Finger, die sich lösen, Archies Ausatmen, Finns Nicken) bekommt genau den Raum, den es braucht.
 
 **Besonders gelungen:** „Es ging schnell. Es ging leise. Es war vorbei." — Drei Sätze, die den Zugriff perfekt zusammenfassen. Der Rhythmuswechsel von langen Beobachtungssätzen zu kurzen Schlagsätzen beim Zugriff funktioniert exakt wie in den Stilregeln gefordert.
 
@@ -36,7 +36,7 @@ Priya klingt wie Priya: analytisch, kontrolliert, die Beobachterin, die Planerin
 
 **Kleiner Abzug:** Der emotionale Moment am Ende — „Ihr Plan hatte funktioniert. Es fühlte sich leiser an, als sie erwartet hatte" — ist gelungen, aber der folgende Absatz mit dem Knoten-Bild tendiert leicht Richtung Tell. „Nur etwas, das sich löste — wie ein Knoten, den sie so lange gehalten hatte, dass sie vergessen hatte, dass er da war" ist eine schöne Metapher, aber die nachfolgenden Sätze („Ihre Schultern sanken einen Zentimeter tiefer. Ihr Atem ging langsamer.") zeigen bereits dasselbe körperlich. Eines von beiden reicht — zusammen ist es einen Tick redundant.
 
-**Archie und Jude** sind gut gezeichnet: Archies stiller Bleistift, Judes Nicken ohne Grinsen. Beide bleiben in ihrer etablierten Rolle, ohne Platz zu beanspruchen — richtig so, das ist Priyas Szene.
+**Archie und Finn** sind gut gezeichnet: Archies stiller Bleistift, Finns Nicken ohne Grinsen. Beide bleiben in ihrer etablierten Rolle, ohne Platz zu beanspruchen — richtig so, das ist Priyas Szene.
 
 ### 4. Spannung — 5/5
 
@@ -58,7 +58,7 @@ Die Spannungskurve sitzt. Der Aufbau (Lieferwagen, Standlicht, Kisten) erzeugt w
 - Altersgerecht: keine Gewalt, keine expliziten Inhalte, Festnahme sachlich und ruhig
 
 **Kleiner Abzug:**
-- „nicken" kommt dreimal vor (Schmuggler-Nicken, Hargreaves-Nicken, Judes Nicken). Das ist viel für eine Szene dieser Länge. Hargreaves' und Judes Nicken sind thematisch bedeutsam (stumme Kommunikation, Understatement), aber das Schmuggler-Nicken (Zeile 37) könnte variiert werden, um die Wiederholung zu entschärfen.
+- „nicken" kommt dreimal vor (Schmuggler-Nicken, Hargreaves-Nicken, Finns Nicken). Das ist viel für eine Szene dieser Länge. Hargreaves' und Finns Nicken sind thematisch bedeutsam (stumme Kommunikation, Understatement), aber das Schmuggler-Nicken (Zeile 37) könnte variiert werden, um die Wiederholung zu entschärfen.
 - „Es war vorbei" erscheint zweimal (Zeile 53 und Zeile 87). Als bewusstes Stilmittel (Rahmung) funktioniert es, aber es fällt auf — prüfen, ob die Wiederholung gewollt ist.
 
 ---
@@ -75,12 +75,12 @@ Die Spannungskurve sitzt. Der Aufbau (Lieferwagen, Standlicht, Kisten) erzeugt w
 | DS Hargreaves = weiblich | Korrekt: „Eine Frau", „sie/ihr" |
 | Zellophan-Referenz zu K08/K13 | Korrekt und gut eingebunden |
 | Archie zeichnet auf losem Papier (nicht Skizzenbuch) | Korrekt — Bleistift auf Knie, nicht zeichnend |
-| Judes Wachsjacke | Korrekt (Zeile 83) |
+| Finns Wachsjacke | Korrekt (Zeile 83) |
 | Archies Chucks | Korrekt (Zeile 83) |
 | Priyas Rucksack | Korrekt (Zeile 83) |
 | Zeitfenster vor 20:00 | Korrekt (19:50) |
 | „Nicht eingreifen" (zweimal gesagt, K14) | Referenziert in Priyas innerem Monolog |
-| Hargreaves weiß von den dreien (Jude hat sie informiert) | Korrekt — Nicken zur Böschung |
+| Hargreaves weiß von den dreien (Finn hat sie informiert) | Korrekt — Nicken zur Böschung |
 
 Keine Kontinuitätsfehler gefunden.
 
@@ -102,7 +102,7 @@ Keine Kontinuitätsfehler gefunden.
 
 ## Schwächen / Verbesserungsvorschläge
 
-1. **Dreifaches „nicken":** Das Schmuggler-Nicken in Zeile 37 („Ein kurzes Nicken") könnte ersetzt werden — z.B. durch eine Handbewegung, ein Kopfsenken, ein Zeichen. So bleiben die beiden bedeutsamen Nicken (Hargreaves, Jude) stärker.
+1. **Dreifaches „nicken":** Das Schmuggler-Nicken in Zeile 37 („Ein kurzes Nicken") könnte ersetzt werden — z.B. durch eine Handbewegung, ein Kopfsenken, ein Zeichen. So bleiben die beiden bedeutsamen Nicken (Hargreaves, Finn) stärker.
 
 2. **Knoten-Metapher + körperliches Zeigen:** Der Absatz ab Zeile 79 enthält sowohl die Metapher (Knoten, der sich löst) als auch das körperliche Äquivalent (Schultern sinken, Atem verlangsamt). Vorschlag: Entweder die Metapher streichen und nur die Körpersprache lassen — oder die Körpersprache-Sätze in den Metapher-Absatz integrieren, statt sie als Nachsatz anzufügen.
 

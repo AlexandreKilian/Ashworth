@@ -25,7 +25,7 @@ Priya klingt durchgehend authentisch. Ihr POV ist praktisch, organisiert, aber e
 - Der innere Kommentar über Ravi und die Quittungen — der Pflicht-Abenteuer-Konflikt lebt in einem einzigen Satz.
 - *„Nicht weil jemand im Laden stehen musste, sondern weil sie Priya war"* — trifft den Kern ihrer Entwicklung.
 
-Jude und Archie sind ebenfalls stimmig gezeichnet: Jude mit dem Bleistift zwischen den Zähnen und dem knappen Urteil; Archie mit der sorgfältigen Skizze und dem Halbnicken.
+Finn und Archie sind ebenfalls stimmig gezeichnet: Finn mit dem Bleistift zwischen den Zähnen und dem knappen Urteil; Archie mit der sorgfältigen Skizze und dem Halbnicken.
 
 ### 4. Spannung — 4/5
 
@@ -56,12 +56,12 @@ Weitgehend regelkonform. Im Detail:
 
 Die Szene setzt den Szenenplan exakt um: Funde sortieren, Pinnwand füllen, Theoriebildung („kein Geist"), nächsten Schritt planen (Keller beim nächsten Freitaglicht). Alle fünf Beweise aus S02 werden referenziert. Der Fun-and-Games-Beat wird eingelöst — die Ermittlung macht Spaß, die Gruppe funktioniert.
 
-Die Referenz auf K04 („Nächsten Freitag" — Judes Worte an Archie, nachts auf dem Kanalweg) ist korrekt und erzeugt einen schönen Bogen.
+Die Referenz auf K04 („Nächsten Freitag" — Finns Worte an Archie, nachts auf dem Kanalweg) ist korrekt und erzeugt einen schönen Bogen.
 
 ### Charakter-Konsistenz — Stimmt
 
 - **Priya:** Organisiert, fasst zusammen, plant. Pflicht-Konflikt (Laden/Ravi) lebendig. Rucksack wird leichter, weil Ausrüstung in der Kiste bleibt — logisch konsistent mit S01.
-- **Jude:** Bleistift zwischen den Zähnen (Markenzeichen), Edding-Schrift, Packpapier-Streifen (etabliert in K07). Sein knappes Urteil „Das ist kein Geist" passt zu seiner direkten Art.
+- **Finn:** Bleistift zwischen den Zähnen (Markenzeichen), Edding-Schrift, Packpapier-Streifen (etabliert in K07). Sein knappes Urteil „Das ist kein Geist" passt zu seiner direkten Art.
 - **Archie:** Skizze sauber heraustrennen (Perforation — etabliert in K07), enge Handschrift am Rand (etabliert in K03/K04). Halbnicken als wiederkehrendes Motiv. Kein Stottern in dieser Szene — plausibel, da er auf *The Magpie* sicher ist (K07 etabliert: in seinem Raum stottert er kaum).
 
 ### Ort-Konsistenz — Stimmt
@@ -72,20 +72,20 @@ Die Referenz auf K04 („Nächsten Freitag" — Judes Worte an Archie, nachts au
 
 Gelungene Show-Stellen:
 - *„Ihr Magen zog sich zusammen"* — körperliche Reaktion statt „sie hatte Angst".
-- *„Jude grinste. Es war schmal und kurz, aber es war da."* — zeigt Judes verhaltene Zustimmung.
+- *„Finn grinste. Es war schmal und kurz, aber es war da."* — zeigt Finns verhaltene Zustimmung.
 - *„Sein Halbnicken sagte genug"* — Archies Zustimmung durch Gestik.
 
 Die eine Tell-Stelle (*„Etwas Warmes breitete sich in Priyas Brust aus"*) ist im Kontext des inneren Monologs vertretbar, aber nicht die stärkste Lösung.
 
 ### Dialog-Qualität — Gut
 
-Die Dialoge sind knapp und unterscheidbar. Priya zählt auf, Jude urteilt, Archie fragt. Kein Dialog ist zu lang. Besonders gelungen: Archies „Wofür?" — ein Wort, das die zentrale offene Frage auf den Punkt bringt.
+Die Dialoge sind knapp und unterscheidbar. Priya zählt auf, Finn urteilt, Archie fragt. Kein Dialog ist zu lang. Besonders gelungen: Archies „Wofür?" — ein Wort, das die zentrale offene Frage auf den Punkt bringt.
 
 ---
 
 ## Positives Feedback
 
-1. **Der Rückbezug auf K04** — *„Nächsten Freitag"* als Echo von Judes Worten an Archie ist ein starker emotionaler Moment. Die Szene macht explizit, dass dieselben Worte in einem neuen Kontext eine andere Bedeutung bekommen. Das ist handwerklich sauber.
+1. **Der Rückbezug auf K04** — *„Nächsten Freitag"* als Echo von Finns Worten an Archie ist ein starker emotionaler Moment. Die Szene macht explizit, dass dieselben Worte in einem neuen Kontext eine andere Bedeutung bekommen. Das ist handwerklich sauber.
 
 2. **Die Pinnwand als visuelles Motiv** — Die Entwicklung von „fast leer" zu „der Anfang von etwas" ist ein elegantes Bild für den Fortschritt der Ermittlung und der Freundschaft.
 

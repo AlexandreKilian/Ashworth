@@ -32,7 +32,7 @@ Für eine Setup-Szene ist die Spannung gut dosiert. Der Zeitdruck (Schule vs. La
 ## Zusatzprüfungen
 
 ### Plot-Konsistenz mit Buchplot
-**Konsistent.** Die Szene erfüllt den Setup-Beat: Priya wird als überlastete, pflichtbewusste Protagonistin etabliert. Der Laden als Informationsknotenpunkt wird gezeigt. Kein Widerspruch zum Buchplot. Jude wird korrekterweise nicht erwähnt (die Protagonisten kennen sich noch kaum).
+**Konsistent.** Die Szene erfüllt den Setup-Beat: Priya wird als überlastete, pflichtbewusste Protagonistin etabliert. Der Laden als Informationsknotenpunkt wird gezeigt. Kein Widerspruch zum Buchplot. Finn wird korrekterweise nicht erwähnt (die Protagonisten kennen sich noch kaum).
 
 ### Charakter-Konsistenz mit Glossar
 **Konsistent.** Priya: praktisch, übernimmt zu viel, sagt nie Nein (sie stellt sich hinter die Theke statt zu gehen), Rucksack erwähnt (prall gefüllt mit Büchern, Pflaster, Taschenlampe — passt zum „legendären Rucksack"). Nani: Chai, Fensterplatz, Wollschal, scharfe Beobachterin, trockener Humor — alles glossarkonform. Einzige Anmerkung: Laut Glossar hat Priya „zwei ältere Brüder" (einer studiert, einer arbeitet im Laden). Der zweite Bruder wird nicht erwähnt, was für eine Morgenszene vor der Schule aber plausibel ist — er muss nicht zwingend anwesend sein.

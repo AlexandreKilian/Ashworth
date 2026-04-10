@@ -18,6 +18,20 @@ from fpdf import FPDF
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 MANUSKRIPT_DIR = os.path.join(SCRIPT_DIR, "03 - Manuskript")
+RESSOURCEN_DIR = os.path.join(SCRIPT_DIR, "08 - Ressourcen")
+
+# Serienweite Defaults
+DEFAULT_AUTHOR = "C. J. Whitmore"
+DEFAULT_SERIES = "Die Ashworth Drei"
+
+# Cover-Dateien pro Buch (Schlüssel = Ordnername unter 03 - Manuskript/)
+COVER_FILES = {
+    "Buch 1": "ashworth-book1.png",
+    "Buch 2": "book2.png",
+    "Buch 3": "buck3.png",
+    "Buch 4": "buch4.png",
+    "Buch 5": "buch5.png",
+}
 
 # --- Manuskript-Format-Einstellungen ---
 FONT_NAME = "CourierNew"
@@ -240,8 +254,35 @@ class ManuscriptPDF(FPDF):
             self.ln(LINE_HEIGHT * 0.5)
 
 
+def find_cover_image(book_filter: str | None) -> str | None:
+    """Findet das Cover-Bild für ein bestimmtes Buch."""
+    if book_filter and book_filter in COVER_FILES:
+        path = os.path.join(RESSOURCEN_DIR, COVER_FILES[book_filter])
+        if os.path.exists(path):
+            return path
+    for name, filename in COVER_FILES.items():
+        if book_filter and name != book_filter:
+            continue
+        path = os.path.join(RESSOURCEN_DIR, filename)
+        if os.path.exists(path):
+            return path
+    return None
+
+
 def build_pdf(output_path: str, title: str, author: str, book_filter: str | None = None):
     pdf = ManuscriptPDF(title)
+
+    # Cover-Bild als erste Seite
+    cover_path = find_cover_image(book_filter)
+    if cover_path:
+        pdf.add_page()
+        # Cover zentriert auf der Seite, Seitenverhältnis beibehalten
+        img_width = PAGE_WIDTH - MARGIN_LEFT - MARGIN_RIGHT
+        img_height = img_width * 1.5  # ~6:9 Verhältnis
+        y_offset = (PAGE_HEIGHT - img_height) / 2
+        pdf.image(cover_path, x=MARGIN_LEFT, y=y_offset, w=img_width)
+        print(f"Cover: {os.path.basename(cover_path)}")
+
     pdf.title_page(title, author)
 
     book_dirs = get_book_dirs()
@@ -305,17 +346,25 @@ def build_pdf(output_path: str, title: str, author: str, book_filter: str | None
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Manuskript zu PDF")
-    parser.add_argument("-o", "--output", default="Manuskript.pdf",
-                        help="Ausgabedatei (Standard: Manuskript.pdf)")
-    parser.add_argument("-t", "--title", default="MANUSKRIPT",
+    parser.add_argument("-o", "--output", default=None,
+                        help="Ausgabedatei (Standard: aus Titel abgeleitet)")
+    parser.add_argument("-t", "--title", default=DEFAULT_SERIES,
                         help="Titel auf der Titelseite")
-    parser.add_argument("-a", "--author", default="",
+    parser.add_argument("-a", "--author", default=DEFAULT_AUTHOR,
                         help="Autor auf der Titelseite")
     parser.add_argument("-b", "--book", default=None,
                         help="Nur ein bestimmtes Buch bauen (z.B. 'Buch 1')")
     args = parser.parse_args()
 
     output = args.output
+    if output is None:
+        safe_title = args.title
+        for old, new in [("ä", "ae"), ("ö", "oe"), ("ü", "ue"), ("ß", "ss"),
+                         ("Ä", "Ae"), ("Ö", "Oe"), ("Ü", "Ue")]:
+            safe_title = safe_title.replace(old, new)
+        safe_title = re.sub(r"[^\w\s-]", "", safe_title).strip()
+        safe_title = re.sub(r"[\s]+", "-", safe_title)
+        output = f"{safe_title}.pdf"
     if not os.path.isabs(output):
         output = os.path.join(SCRIPT_DIR, output)
 

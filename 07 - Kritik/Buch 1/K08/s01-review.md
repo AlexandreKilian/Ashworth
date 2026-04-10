@@ -13,8 +13,8 @@ ergebnis: Akzeptiert
 | Kriterium | Note | Kommentar |
 |-----------|------|-----------|
 | **Klarheit** | 4 | Die Szene ist durchgehend verständlich. Jede Handlung ist räumlich und zeitlich klar verortet. Der Leser weiß jederzeit, wer was tut und warum. Einziger minimaler Abzug: Der Übergang vom Grundriss-Durchgang zum Aufbruch geht sehr schnell — ein halber Satz mehr Orientierung wäre möglich, ist aber nicht nötig. |
-| **Pacing** | 4 | Gutes Tempo für eine Vorbereitungsszene. Der Einstieg über den Rucksack-Reißverschluss ist knapp und konkret. Das Inventar wird zügig abgehandelt, ohne aufzuzählen — jedes Objekt bekommt genau einen Satz. Der Konflikt Jude/Priya um den Keller bremst richtig, ohne die Szene zu verlangsamen. Der Aufbruch am Ende ist straff. Bei ~780 Wörtern liegt die Szene leicht über dem Ziel (~700), aber ohne Fett. |
-| **Charakterstimme** | 5 | Priyas POV ist hervorragend getroffen. Ihr Blick ist praktisch, ordnend, kontrolliert — sie sieht Dinge nach Funktion und Platz. Der Rucksack als verlängerter Arm ihrer Persönlichkeit wird nicht erklärt, sondern durch Handlung gezeigt (Handschuhe nach unten, Taschenlampe griffbereit oben). Ihr „Nein" gegenüber Jude ist ruhig und bestimmt, ohne belehrend zu wirken. Der Bleistift für Archie — „ohne Zahnspuren" — ist ein wunderbares Detail, das ihre Fürsorge zeigt, ohne sie auszusprechen. Jude und Archie sind aus Priyas Perspektive sauber gezeichnet: Jude kaut, drängelt, gibt nach. Archie zeichnet, schweigt, zuckt mit den Mundwinkeln. Alle drei verhalten sich glossarkonform. |
+| **Pacing** | 4 | Gutes Tempo für eine Vorbereitungsszene. Der Einstieg über den Rucksack-Reißverschluss ist knapp und konkret. Das Inventar wird zügig abgehandelt, ohne aufzuzählen — jedes Objekt bekommt genau einen Satz. Der Konflikt Finn/Priya um den Keller bremst richtig, ohne die Szene zu verlangsamen. Der Aufbruch am Ende ist straff. Bei ~780 Wörtern liegt die Szene leicht über dem Ziel (~700), aber ohne Fett. |
+| **Charakterstimme** | 5 | Priyas POV ist hervorragend getroffen. Ihr Blick ist praktisch, ordnend, kontrolliert — sie sieht Dinge nach Funktion und Platz. Der Rucksack als verlängerter Arm ihrer Persönlichkeit wird nicht erklärt, sondern durch Handlung gezeigt (Handschuhe nach unten, Taschenlampe griffbereit oben). Ihr „Nein" gegenüber Finn ist ruhig und bestimmt, ohne belehrend zu wirken. Der Bleistift für Archie — „ohne Zahnspuren" — ist ein wunderbares Detail, das ihre Fürsorge zeigt, ohne sie auszusprechen. Finn und Archie sind aus Priyas Perspektive sauber gezeichnet: Finn kaut, drängelt, gibt nach. Archie zeichnet, schweigt, zuckt mit den Mundwinkeln. Alle drei verhalten sich glossarkonform. |
 | **Spannung** | 3 | Die Szene ist konstruktionsbedingt keine Spannungsszene — sie bereitet vor. Trotzdem gibt es einen funktionalen Mikro-Konflikt (Keller ja/nein) und ein klares Vorwärtsmomentum. Der Hook am Ende („Richtung Badehaus. Bei Tageslicht. Zum ersten Mal als Team mit einem Plan.") erzeugt Vorfreude statt Spannung im engeren Sinn. Für eine Eröffnungsszene eines Fun-and-Games-Kapitels ist das angemessen. |
 | **Regelkonformität** | 4 | Überwiegend regelkonform. Im Detail: |
 
@@ -38,11 +38,11 @@ ergebnis: Akzeptiert
 
 1. **Der Bleistift „ohne Zahnspuren"** (Zeile 21) — Zeigt Priyas Aufmerksamkeit und Fürsorge für Archie in einem einzigen Detail, ohne ein Wort darüber zu verlieren. Bestes Show-don't-Tell der Szene.
 
-2. **Judes KEIN-KELLER-Zettel** (Zeile 65–66) — Judes widerwillige Akzeptanz wird nicht beschrieben, sondern in einer Handlung verdichtet: Er schreibt den Zettel in Großbuchstaben, betrachtet ihn „als hätte er etwas Bitteres geschluckt", und pinnt ihn neben das Wort TUNNEL. Perfekte Charakterisierung durch Aktion.
+2. **Finns KEIN-KELLER-Zettel** (Zeile 65–66) — Finns widerwillige Akzeptanz wird nicht beschrieben, sondern in einer Handlung verdichtet: Er schreibt den Zettel in Großbuchstaben, betrachtet ihn „als hätte er etwas Bitteres geschluckt", und pinnt ihn neben das Wort TUNNEL. Perfekte Charakterisierung durch Aktion.
 
 3. **Archies Durchstreichen des Kellers** (Zeile 63) — „Sauber, parallel." Zwei Worte, die Archies gesamten Charakter einfangen: präzise, kontrolliert, ohne Widerspruch. Exzellent.
 
-4. **Der Aufbruch** (Zeile 71–79) — Die Marschordnung (Priya vorne, Jude Hände in Taschen, Archie lautlos in Chucks) ist visuell stark und zeigt die Gruppendynamik ohne Erklärung.
+4. **Der Aufbruch** (Zeile 71–79) — Die Marschordnung (Priya vorne, Finn Hände in Taschen, Archie lautlos in Chucks) ist visuell stark und zeigt die Gruppendynamik ohne Erklärung.
 
 ## Verbesserungsvorschläge
 
@@ -56,11 +56,11 @@ ergebnis: Akzeptiert
 
 - **Rucksack-Inhalt:** Taschenlampe, Einweghandschuhe, Klebeband, Ziplock-Beutel — konsistent mit Priyas Ankündigung in K06 („richtige Ausrüstung") und ihrem Charakter-Profil (Glossar: „immer vollgepackt mit nützlichen Dingen").
 - **Grundriss an der Pinnwand:** In K07 von Archie aufgehängt, hier von Priya abgenommen — korrekt.
-- **Judes Bleistift-Kauen:** Etabliert seit K01, hier durch Priyas POV beobachtet — konsistent.
+- **Finns Bleistift-Kauen:** Etabliert seit K01, hier durch Priyas POV beobachtet — konsistent.
 - **Kellertreppe auf dem Grundriss:** In K07-Summary erwähnt (Archies Grundriss zeigt Kellertreppe) — korrekt referenziert.
-- **TUNNEL an der Wand:** In K07 von Jude geschrieben, hier neben Judes KEIN-KELLER-Zettel — korrekt.
+- **TUNNEL an der Wand:** In K07 von Finn geschrieben, hier neben Finns KEIN-KELLER-Zettel — korrekt.
 - **Zeitlicher Anschluss:** Samstagnachmittag nach K07, Ravi ab zwei im Laden — konsistent.
-- **Klebeband-Flicken an Judes Jacke:** Zeile 47, konsistent mit dem Riss aus K04 (repariert mit Klebeband, nicht genäht — passt zu Jude).
+- **Klebeband-Flicken an Finns Jacke:** Zeile 47, konsistent mit dem Riss aus K04 (repariert mit Klebeband, nicht genäht — passt zu Finn).
 
 ## Gesamturteil
 

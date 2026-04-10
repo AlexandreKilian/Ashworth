@@ -4,7 +4,7 @@ tags:
   - szene
 kapitel: K13
 szene: S02
-pov: Jude
+pov: Finn
 ort: Tunnel unter dem Badehaus / Raum hinter den Umkleidekabinen
 zeit: Freitagabend, unmittelbar nach S01
 status: entwurf
@@ -18,29 +18,29 @@ Nicht von hinten, wo der Tunnelausgang lag und das Gitter und der Kanal und alle
 
 Priyas Taschenlampe zuckte. Der Strahl traf die gemauerte Wand, glitt über Stein, über Schleifspuren, über nichts — und dann traf ihn das Licht.
 
-Nicht ein Licht. Drei. Vier. Taschenlampen, weiß und grell, direkt in seine Augen. Jude riss die Hand hoch, aber es half nicht. Das Licht war überall, bohrte sich durch seine Finger, brannte auf seiner Netzhaut, und hinter dem Licht waren Umrisse. Breit. Aufrecht. Erwachsene.
+Nicht ein Licht. Drei. Vier. Taschenlampen, weiß und grell, direkt in seine Augen. Finn riss die Hand hoch, aber es half nicht. Das Licht war überall, bohrte sich durch seine Finger, brannte auf seiner Netzhaut, und hinter dem Licht waren Umrisse. Breit. Aufrecht. Erwachsene.
 
-Priya machte einen Laut. Kein Schrei, kein Wort — etwas dazwischen, etwas, das in ihrer Kehle stecken blieb. Ihre Taschenlampe erlosch. Jude wusste nicht, ob sie sie ausgeschaltet hatte oder ob sie sie fallen gelassen hatte. Er hörte nur seinen eigenen Atem, zu schnell, und das Scharren von Archies Chucks auf dem Stein hinter ihm, und dann —
+Priya machte einen Laut. Kein Schrei, kein Wort — etwas dazwischen, etwas, das in ihrer Kehle stecken blieb. Ihre Taschenlampe erlosch. Finn wusste nicht, ob sie sie ausgeschaltet hatte oder ob sie sie fallen gelassen hatte. Er hörte nur seinen eigenen Atem, zu schnell, und das Scharren von Archies Chucks auf dem Stein hinter ihm, und dann —
 
 Stille.
 
-Die Taschenlampen senkten sich. Nicht alle. Zwei blieben auf ihren Gesichtern. Aber der Winkel änderte sich, von frontal zu schräg, und Jude konnte jetzt Formen erkennen. Kapuzen. Dunkle Jacken. Drei Männer, vielleicht vier. Einer stand vorn, die anderen dahinter, und keiner von ihnen bewegte sich hastig. Keiner rannte. Keiner schrie.
+Die Taschenlampen senkten sich. Nicht alle. Zwei blieben auf ihren Gesichtern. Aber der Winkel änderte sich, von frontal zu schräg, und Finn konnte jetzt Formen erkennen. Kapuzen. Dunkle Jacken. Drei Männer, vielleicht vier. Einer stand vorn, die anderen dahinter, und keiner von ihnen bewegte sich hastig. Keiner rannte. Keiner schrie.
 
 Sie hatten gewartet.
 
-Der Mann vorn senkte seine Taschenlampe auf Brusthöhe. Der Strahl fiel auf den Tunnelboden zwischen ihnen, und im Streulicht sah Jude sein Kinn. Rasiert. Ein schmaler Mund. Keine Maske, aber die Kapuze lag tief genug, dass die Augen im Schatten blieben.
+Der Mann vorn senkte seine Taschenlampe auf Brusthöhe. Der Strahl fiel auf den Tunnelboden zwischen ihnen, und im Streulicht sah Finn sein Kinn. Rasiert. Ein schmaler Mund. Keine Maske, aber die Kapuze lag tief genug, dass die Augen im Schatten blieben.
 
 „Handys."
 
-Ein Wort. Kein Ausrufezeichen, kein Fragezeichen. Ein Tonfall, den Jude kannte — von Lehrern, die nicht mehr fragen mussten, weil die Antwort feststand. Von Erwachsenen, die genau wussten, was als Nächstes passierte, weil sie es schon hundertmal erlebt hatten.
+Ein Wort. Kein Ausrufezeichen, kein Fragezeichen. Ein Tonfall, den Finn kannte — von Lehrern, die nicht mehr fragen mussten, weil die Antwort feststand. Von Erwachsenen, die genau wussten, was als Nächstes passierte, weil sie es schon hundertmal erlebt hatten.
 
-Jude griff in seine Jackentasche. Seine Finger zitterten. Das Handy lag schwer in seiner Hand, schwerer als sonst, und er hielt es dem Mann hin und der Mann nahm es, ohne hinzusehen, und steckte es in seine Jackentasche.
+Finn griff in seine Jackentasche. Seine Finger zitterten. Das Handy lag schwer in seiner Hand, schwerer als sonst, und er hielt es dem Mann hin und der Mann nahm es, ohne hinzusehen, und steckte es in seine Jackentasche.
 
 Neben ihm bewegte sich Priya. Ihr Handy. Ihre Finger, die losließen.
 
 „Der Rucksack."
 
-Priya zögerte. Eine Sekunde. Zwei. Dann streifte sie die Träger ab, und der Mann nahm den Rucksack, öffnete den Reißverschluss, leuchtete hinein. Jude sah, wie der Taschenlampenstrahl über Ziplock-Beutel und Klebeband und Einweghandschuhe glitt. Der Mann sagte nichts. Er machte den Rucksack zu und reichte ihn dem Mann hinter sich.
+Priya zögerte. Eine Sekunde. Zwei. Dann streifte sie die Träger ab, und der Mann nahm den Rucksack, öffnete den Reißverschluss, leuchtete hinein. Finn sah, wie der Taschenlampenstrahl über Ziplock-Beutel und Klebeband und Einweghandschuhe glitt. Der Mann sagte nichts. Er machte den Rucksack zu und reichte ihn dem Mann hinter sich.
 
 Dann wandte er sich nach rechts. Zu Archie.
 
@@ -54,7 +54,7 @@ Archie schüttelte den Kopf. Einmal. Klein. Kaum sichtbar.
 
 Die Hand blieb.
 
-Jude sah Archies Finger. Sah, wie sie sich um den Einband krampften, die Knöchel weiß, die Sehnen gespannt. Das Skizzenbuch mit den Zeichnungen von vier Wochen. Die Kisten mit Nummern, der Tunnelgrundriss, die Schlosstypen, die Daten am Rand in Archies enger Handschrift, die nur er lesen konnte. Alles darin.
+Finn sah Archies Finger. Sah, wie sie sich um den Einband krampften, die Knöchel weiß, die Sehnen gespannt. Das Skizzenbuch mit den Zeichnungen von vier Wochen. Die Kisten mit Nummern, der Tunnelgrundriss, die Schlosstypen, die Daten am Rand in Archies enger Handschrift, die nur er lesen konnte. Alles darin.
 
 Der Mann wartete.
 
@@ -62,7 +62,7 @@ Archies Zeigefinger löste sich. Dann der Mittelfinger. Dann der Ringfinger. Ein
 
 Das Skizzenbuch glitt in die offene Hand des Mannes.
 
-Archie machte keinen Laut. Er stand da, die Arme jetzt leer, die Hände an den Seiten, und seine Augen waren auf den Boden gerichtet, und Jude konnte nicht hinsehen. Nicht, weil es dunkel war. Weil etwas in seinem Magen sich umdrehte, heiß und schwer, und er wusste, was es war.
+Archie machte keinen Laut. Er stand da, die Arme jetzt leer, die Hände an den Seiten, und seine Augen waren auf den Boden gerichtet, und Finn konnte nicht hinsehen. Nicht, weil es dunkel war. Weil etwas in seinem Magen sich umdrehte, heiß und schwer, und er wusste, was es war.
 
 *Das war ich.*
 
@@ -74,9 +74,9 @@ Der Mann mit dem Skizzenbuch gab den anderen ein Zeichen — eine Kopfbewegung, 
 
 Nicht nach draußen. Nicht zum Gitter und zum Kanal. In die andere Richtung. Tiefer rein.
 
-Jude ging. Priya neben ihm, so nah, dass ihre Schultern sich berührten. Archie dahinter. Der Mann ging hinter ihnen, seine Schritte ruhig und gleichmäßig, und Jude dachte: *So klingt jemand, der keinen Grund hat zu rennen.*
+Finn ging. Priya neben ihm, so nah, dass ihre Schultern sich berührten. Archie dahinter. Der Mann ging hinter ihnen, seine Schritte ruhig und gleichmäßig, und Finn dachte: *So klingt jemand, der keinen Grund hat zu rennen.*
 
-Der Tunnel machte eine Biegung, dann noch eine. Dann eine niedrige Tür in der Wand, ein schmaler Durchgang, ein Knick nach rechts. Jude kannte diesen Weg. Archie hatte ihn bei seiner nächtlichen Erkundung entdeckt, hinter der sechsten Umkleidekabine. Der Raum dahinter.
+Der Tunnel machte eine Biegung, dann noch eine. Dann eine niedrige Tür in der Wand, ein schmaler Durchgang, ein Knick nach rechts. Finn kannte diesen Weg. Archie hatte ihn bei seiner nächtlichen Erkundung entdeckt, hinter der sechsten Umkleidekabine. Der Raum dahinter.
 
 Die Tür stand offen. Der Mann leuchtete hinein — kurz, wie zur Kontrolle, und der Strahl glitt über glatte Wände und einen sauberen Boden und nichts sonst. Drei mal vier Schritte. Keine Fenster.
 
@@ -86,11 +86,11 @@ Sie gingen hinein. Die Tür schloss sich hinter ihnen, und mit ihr das Licht.
 
 Dunkelheit.
 
-Nicht die Dunkelheit im Tunnel, in der es immer noch einen Unterschied gab zwischen oben und unten, zwischen Wand und Luft. Das hier war anders. Das hier war lückenlos. Jude hob die Hand vor sein Gesicht und sah nichts. Nur einen dünnen Lichtstreifen unter der Tür, schmal wie ein Bleistiftstrich, und auf der anderen Seite das leise Knirschen von Sohlen auf Stein. Jemand stand davor.
+Nicht die Dunkelheit im Tunnel, in der es immer noch einen Unterschied gab zwischen oben und unten, zwischen Wand und Luft. Das hier war anders. Das hier war lückenlos. Finn hob die Hand vor sein Gesicht und sah nichts. Nur einen dünnen Lichtstreifen unter der Tür, schmal wie ein Bleistiftstrich, und auf der anderen Seite das leise Knirschen von Sohlen auf Stein. Jemand stand davor.
 
 Er hörte Priya atmen. Schnell, aber regelmäßig, in einem Rhythmus, den sie sich selbst auferlegte. Ein, zwei, drei. Aus, zwei, drei. Wie jemand, der gegen etwas ankämpfte, das größer war als er.
 
-Archie atmete nicht. Oder so leise, dass Jude es nicht hörte.
+Archie atmete nicht. Oder so leise, dass Finn es nicht hörte.
 
 Er lehnte sich mit dem Rücken an die Wand. Der Stein war kühl und glatt, sauber gewischt, und er erinnerte sich an Archies Randnotiz im Skizzenbuch: *Sauber gewischt?* Das Fragezeichen. Die Verwunderung. Das Skizzenbuch, das jetzt in der Jackentasche eines Mannes steckte, der keine Fragen stellte, weil er die Antworten nicht brauchte.
 
@@ -114,6 +114,6 @@ Oder vielleicht gar nichts. Vielleicht brauchte sie nur etwas zum Festhalten.
 
 Dann ließ sie los.
 
-Jude stand in der Dunkelheit, die Hand noch warm, wo ihre Finger gewesen waren, und hörte Priya atmen und Archies Stille und den Lichtstreifen unter der Tür, der sich nicht bewegte.
+Finn stand in der Dunkelheit, die Hand noch warm, wo ihre Finger gewesen waren, und hörte Priya atmen und Archies Stille und den Lichtstreifen unter der Tür, der sich nicht bewegte.
 
 Vor der Tür: Schritte. Jemand kam zurück.

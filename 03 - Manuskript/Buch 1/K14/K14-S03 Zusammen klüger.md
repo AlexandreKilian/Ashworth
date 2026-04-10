@@ -5,7 +5,7 @@ tags:
 kapitel: K14
 szene: S03
 pov: Archie
-ort: Judes Zimmer
+ort: Finns Zimmer
 zeit: Freitagnachmittag, direkt nach S02
 status: entwurf
 ---
@@ -26,35 +26,35 @@ Priya trat an ihnen vorbei, als hätte sie das Zimmer schon hundertmal betreten,
 
 Archie nickte.
 
-Drei Fragen. Präzise, sachlich, keine überflüssige Silbe. Archie spürte, wie sich etwas in seinem Brustkorb löste — nicht viel, aber genug. Die Worte kamen leichter beim zweiten Mal, als hätte der erste Durchlauf mit Jude die scharfen Kanten abgeschliffen.
+Drei Fragen. Präzise, sachlich, keine überflüssige Silbe. Archie spürte, wie sich etwas in seinem Brustkorb löste — nicht viel, aber genug. Die Worte kamen leichter beim zweiten Mal, als hätte der erste Durchlauf mit Finn die scharfen Kanten abgeschliffen.
 
 Priya legte die Blätter nebeneinander, in der gleichen Reihenfolge, in der Archie sie hingelegt hatte. Ihre Finger strichen die Knicke glatt. Dann lehnte sie sich zurück, die Handflächen auf den Knien.
 
-„Die haben den Ort gewechselt", sagte sie. „Aber nicht die Lieferkette. Die Kisten müssen irgendwo hin, und jemand muss sie abholen. Wenn wir den neuen Punkt kennen und den Zeitpunkt —" Sie sah von Archie zu Jude. „Dann müssen wir die Polizei nicht überzeugen. Wir müssen sie nur hinbringen."
+„Die haben den Ort gewechselt", sagte sie. „Aber nicht die Lieferkette. Die Kisten müssen irgendwo hin, und jemand muss sie abholen. Wenn wir den neuen Punkt kennen und den Zeitpunkt —" Sie sah von Archie zu Finn. „Dann müssen wir die Polizei nicht überzeugen. Wir müssen sie nur hinbringen."
 
-Jude richtete sich auf. Die Schatten unter seinen Augen blieben, aber dahinter war etwas wach, das vorher geschlafen hatte. „Hargreaves."
+Finn richtete sich auf. Die Schatten unter seinen Augen blieben, aber dahinter war etwas wach, das vorher geschlafen hatte. „Hargreaves."
 
 „Hargreaves." Priya öffnete den Reißverschluss ihres Rucksacks — ein schneller, fester Zug, nicht Zahn um Zahn, nicht wie Glas. Sie zog einen gefalteten Zettel heraus und ein Stück Packpapier, das sie auf die Blätter zwischen ihnen legte. „Ich hab nachgedacht. Die ganze Woche."
 
 Archie sah auf das Packpapier. Priyas Handschrift, rund und groß, das Gegenteil seiner eigenen: *Timing. Position. Kontakt.*
 
-„Donnerstagabend", sagte Priya. „Vor acht. Wir sind vorher da — unter der Brücke, auf der gegenüberliegenden Seite des Treidelpfads. Beobachten. Nicht eingreifen." Sie sah Jude an. „Nicht eingreifen."
+„Donnerstagabend", sagte Priya. „Vor acht. Wir sind vorher da — unter der Brücke, auf der gegenüberliegenden Seite des Treidelpfads. Beobachten. Nicht eingreifen." Sie sah Finn an. „Nicht eingreifen."
 
-Jude hob die Hände. „Ich hab's gehört."
+Finn hob die Hände. „Ich hab's gehört."
 
-„Und Hargreaves." Priya tippte auf das Wort *Kontakt*. „Kein anonymer Brief. Keiner. Die ignoriert sie. Jude muss sie persönlich ansprechen."
+„Und Hargreaves." Priya tippte auf das Wort *Kontakt*. „Kein anonymer Brief. Keiner. Die ignoriert sie. Finn muss sie persönlich ansprechen."
 
-Stille. Jude runzelte die Stirn. „Woher soll ich —"
+Stille. Finn runzelte die Stirn. „Woher soll ich —"
 
-„Donnerstags", sagte Priya. „Sie kommt donnerstags in den Laden. Zwischen halb fünf und fünf. Kauft die *Evening Post* und Pfefferminztee. Jede Woche." Sie sah Jude an, ruhig, bestimmt. „Du wartest vor dem Laden. Du sagst ihr, dass du etwas gesehen hast, am Kanal, unter der Brücke. Du sagst nicht ‚Schmuggel'. Du sagst nicht ‚Kisten'. Du sagst: ‚Da passiert heute Abend etwas, und Sie sollten hinfahren.' Genug, damit sie neugierig wird. Nicht genug, dass sie uns aufhält."
+„Donnerstags", sagte Priya. „Sie kommt donnerstags in den Laden. Zwischen halb fünf und fünf. Kauft die *Evening Post* und Pfefferminztee. Jede Woche." Sie sah Finn an, ruhig, bestimmt. „Du wartest vor dem Laden. Du sagst ihr, dass du etwas gesehen hast, am Kanal, unter der Brücke. Du sagst nicht ‚Schmuggel'. Du sagst nicht ‚Kisten'. Du sagst: ‚Da passiert heute Abend etwas, und Sie sollten hinfahren.' Genug, damit sie neugierig wird. Nicht genug, dass sie uns aufhält."
 
-Jude kaute auf seiner Unterlippe. „Und wenn sie nicht kommt?"
+Finn kaute auf seiner Unterlippe. „Und wenn sie nicht kommt?"
 
 „Sie kommt. Jede Woche. Seit ich Quittungen schreibe."
 
 Archie sah auf seine Hände hinunter. Auf die leeren Finger, die seit einer Woche nichts gehalten hatten außer Teds abgekautem Bleistift und losen Blättern. Er sah auf die Skizze vor sich — den Kanal, die grobe Linie, den Bogen der Brücke. Die Zeichnung war hastig gewesen, ungenau, auf der Rückseite einer Gasrechnung.
 
-Er griff nach Judes Bleistift auf dem Schreibtisch. Zahnspuren bis zur Hälfte, die Spitze stumpf.
+Er griff nach Finns Bleistift auf dem Schreibtisch. Zahnspuren bis zur Hälfte, die Spitze stumpf.
 
 Archie zog ein unbeschriebenes Blatt aus dem Stapel und legte es zwischen Priyas Packpapier und seine eigenen Notizen. Der Bleistift berührte das Papier.
 
@@ -70,7 +70,7 @@ Priya beugte sich vor. „Die Böschung ist steil. Kann man da stehen?"
 
 „Hocken." Archie zeichnete eine Schräge ein. „Unter den Brombeeren. Man sieht den Pfad von dort, aber v-vom Pfad aus sieht man die Stelle nicht."
 
-Jude legte den Finger auf den Treidelpfad. „Und die kommen von welcher Seite?"
+Finn legte den Finger auf den Treidelpfad. „Und die kommen von welcher Seite?"
 
 „Von Westen. Vom Badehaus her." Archie zog einen Pfeil. „Da lang."
 

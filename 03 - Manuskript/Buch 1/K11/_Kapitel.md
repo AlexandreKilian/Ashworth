@@ -9,7 +9,7 @@ status: entwurf
 
 ## Zusammenfassung
 
-Die Konsequenzen der Tunnelflucht schlagen ein. Am Badehaus sind die Schlösser getauscht, der Zaun repariert, die Brennnesseln abgeschnitten — die Schmuggler haben schnell und professionell reagiert. Jude wurde von einer Unbekannten im Ort auf seine vielen Fragen angesprochen. Priya kommt zu spät in den Laden, ihre Eltern stellen sie zur Rede, und die Last ihres Doppellebens wird erdrückend. Nani sieht den Rucksack mit den Ermittlungswerkzeugen und fragt nicht danach — stattdessen benennt sie Priyas Überlastung: „Du trägst zu viel auf einmal, *dikri*." Stille Komplizenschaft statt Verhör.
+Die Konsequenzen der Tunnelflucht schlagen ein. Am Badehaus sind die Schlösser getauscht, der Zaun repariert, die Brennnesseln abgeschnitten — die Schmuggler haben schnell und professionell reagiert. Finn wurde von einer Unbekannten im Ort auf seine vielen Fragen angesprochen. Priya kommt zu spät in den Laden, ihre Eltern stellen sie zur Rede, und die Last ihres Doppellebens wird erdrückend. Nani sieht den Rucksack mit den Ermittlungswerkzeugen und fragt nicht danach — stattdessen benennt sie Priyas Überlastung: „Du trägst zu viel auf einmal, *dikri*." Stille Komplizenschaft statt Verhör.
 
 ## Szenen
 

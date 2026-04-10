@@ -25,14 +25,14 @@ Archie liegt im Bett, Skizzenbuch auf der Brust, und sieht durchs Dachfenster di
 ## Plot-Threads
 
 ### Geöffnet
-- Archie hat die Lichter schon öfter gesehen als Jude — regelmäßig, donnerstags/freitags
+- Archie hat die Lichter schon öfter gesehen als Finn — regelmäßig, donnerstags/freitags
 - Niedergetretene Brennnesseln am Seiteneingang: Jemand geht regelmäßig hinein
 - Tiefe Keller unter dem Badehaus (ehemaliges Lagerhaus) — vorbereitet für K09/K10
 - Archies Fähigkeit, Schlösser zu öffnen — Tschechows Gewehr für K06+
 
 ### Geschlossen/Vorangetrieben
 - Setup-Beat für Archie abgeschlossen: Charakter, Talent, Zuhause, Bezugsperson
-- Badehaus-Geheimnis verdichtet sich: drei unabhängige Beobachter (Jude, Sean Doherty, Archie), physische Spuren
+- Badehaus-Geheimnis verdichtet sich: drei unabhängige Beobachter (Finn, Sean Doherty, Archie), physische Spuren
 
 ## Emotionaler Zustand am Ende
 

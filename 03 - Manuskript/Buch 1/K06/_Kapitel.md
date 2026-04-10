@@ -9,7 +9,7 @@ status: entwurf
 
 ## Zusammenfassung
 
-Priya zeigt Jude und Archie den Zeitungsartikel über die gestoppten Abrisspläne. Die drei treffen sich zum ersten Mal bewusst am Kanalrand. Archie öffnet das Vorhängeschloss am Seiteneingang, und sie betreten das Badehaus. Drinnen: atmosphärische Erkundung, frische Spuren (Zigarettenstummel, Fußabdruck). Archie widerspricht Jude — nicht heute in den Keller. Die Gruppe einigt sich auf einen Plan.
+Priya zeigt Finn und Archie den Zeitungsartikel über die gestoppten Abrisspläne. Die drei treffen sich zum ersten Mal bewusst am Kanalrand. Archie öffnet das Vorhängeschloss am Seiteneingang, und sie betreten das Badehaus. Drinnen: atmosphärische Erkundung, frische Spuren (Zigarettenstummel, Fußabdruck). Archie widerspricht Finn — nicht heute in den Keller. Die Gruppe einigt sich auf einen Plan.
 
 ## Szenen
 

@@ -3,6 +3,10 @@
 Dies ist ein Roman-/Buchserien-Projekt. Alle Arbeit geschieht in Markdown (Obsidian-kompatibel).
 Alle Outputs auf Deutsch, es sei denn explizit anders gewünscht.
 
+- **Serientitel:** Die Ashworth Drei
+- **Pen-Name / Autor:** C. J. Whitmore
+- **Buch 1:** Das Licht im Badehaus
+
 ## Projektstruktur
 
 | Ordner | Inhalt | Anmerkung |
@@ -12,6 +16,7 @@ Alle Outputs auf Deutsch, es sei denn explizit anders gewünscht.
 | `02 - Plot/` | `Serienplot.md` + pro Buch: `Buchplot.md`, `Kapitelplan.md`, `Kapitel/` | Spiegelt Manuskript-Struktur |
 | `03 - Manuskript/` | Fertige Prosa: `Buch {n}/K{nn}/K{nn}-S{nn} Titel.md` | Szenen als einzelne Dateien |
 | `04 - Recherche/` | Notizen & Referenzmaterial | |
+| `08 - Ressourcen/` | Cover-Bilder, Charakter-Referenzen, visuelle Assets | Pro Buch: `ashworth-book{n}.png` |
 | `05 - Vorlagen/` | Templates: `Vorlage - Charakter.md`, `Vorlage - Ort.md`, etc. | Beim Anlegen neuer Einträge verwenden |
 | `06 - Regeln/` | Schreibregeln, Szene-Regeln, Kritik-Regeln, Stilregeln | **Verbindlich** — vor jeder Aufgabe lesen |
 | `07 - Kritik/` | Probelese-Ergebnisse, archivierte Reviews | Pro Buch/Kapitel strukturiert |

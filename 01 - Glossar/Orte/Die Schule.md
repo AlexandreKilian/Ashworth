@@ -14,7 +14,7 @@ typ: Schule
 
 ## Beschreibung
 
-Die weiterführende Schule von Ashworth Green, die Priya, Jude und Archie besuchen. Der Schulhof grenzt an eine Backsteinmauer der Turnhalle — ein üblicher Treffpunkt in der Pause. Montagspausen sind träge und ruhig.
+Die weiterführende Schule von Ashworth Green, die Priya, Finn und Archie besuchen. Der Schulhof grenzt an eine Backsteinmauer der Turnhalle — ein üblicher Treffpunkt in der Pause. Montagspausen sind träge und ruhig.
 
 ## Bedeutung für die Handlung
 
@@ -27,4 +27,4 @@ Ort des Informationsaustauschs zwischen den Protagonisten. Hier erfahren die Kin
 
 ## Notizen
 
-- K05: Jude erzählt Priya auf dem Schulhof in der Pause von seiner nächtlichen Beobachtung am Badehaus. Hektisch, flüsternd, dicht nebeneinander an der Backsteinmauer der Turnhalle.
+- K05: Finn erzählt Priya auf dem Schulhof in der Pause von seiner nächtlichen Beobachtung am Badehaus. Hektisch, flüsternd, dicht nebeneinander an der Backsteinmauer der Turnhalle.

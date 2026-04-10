@@ -8,7 +8,7 @@ Diese Datei muss vor Projektbeginn vom User ausgefüllt werden.
 - [x] Dritte Person, wechselnde POVs
 
 **Anmerkungen zur Perspektive:**
-- POV-Charaktere: Jude, Priya, Archie — gleichmäßig verteilt.
+- POV-Charaktere: Finn, Priya, Archie — gleichmäßig verteilt.
 - Jedes Kapitel hat einen festen POV. Kein POV-Wechsel innerhalb eines Kapitels.
 - Alle drei bekommen ungefähr gleich viele Kapitel pro Buch.
 

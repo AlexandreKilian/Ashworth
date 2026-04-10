@@ -6,7 +6,7 @@ kapitel: K11
 pov: Priya
 ort: Kanalweg, Badehaus (von außen)
 status: entwurf
-was_passiert: Die drei überprüfen das Badehaus aus sicherer Entfernung. Das Squire-Schloss ist weg, ein neues schweres Schloss hängt an der Tür, der Zaun ist repariert, die Brennnesseln abgeschnitten. Jude will näher, wird zurückgehalten. Er erwähnt, dass eine Frau ihn im Ort angesprochen hat. Priya erkennt: Aus Ermittlern sind Beobachtete geworden.
+was_passiert: Die drei überprüfen das Badehaus aus sicherer Entfernung. Das Squire-Schloss ist weg, ein neues schweres Schloss hängt an der Tür, der Zaun ist repariert, die Brennnesseln abgeschnitten. Finn will näher, wird zurückgehalten. Er erwähnt, dass eine Frau ihn im Ort angesprochen hat. Priya erkennt: Aus Ermittlern sind Beobachtete geworden.
 ziel: Bad Guys Close In — die Schmuggler reagieren schnell und professionell, die Gruppe wird zum Ziel
 ---
 
@@ -16,13 +16,13 @@ Das Erste, was Priya sah, waren die Brennnesseln. Genauer: ihr Fehlen.
 
 Sie stand am Kanalweg, zwanzig Meter vom Badehaus entfernt, die Hände in den Taschen ihres Hoodies, und starrte auf die Stelle, an der noch vor zwei Tagen ein kniehohes Dickicht den Seiteneingang halb verdeckt hatte. Niedergetretene Stängel, Schneisen im Grün, Spuren ihrer eigenen Schritte. Das alles war weg. Abgeschnitten, sauber bis auf den Boden, als hätte jemand mit einer Heckenschere gearbeitet. Kein Halm ragte über die Kante des Durchgangs.
 
-„Das war gestern noch nicht so", sagte Jude neben ihr. Seine Stimme war leise, aber Priya hörte die Schärfe darunter.
+„Das war gestern noch nicht so", sagte Finn neben ihr. Seine Stimme war leise, aber Priya hörte die Schärfe darunter.
 
 „Woher willst du das wissen?"
 
 „Weil ich gestern Abend hier war."
 
-Priya drehte den Kopf. Jude stand mit hochgezogenen Schultern, die Hände tief in der Wachsjacke vergraben. Der Klebeband-Flicken am Ellbogen war erneuert worden — frisches, silbernes Klebeband über dem alten.
+Priya drehte den Kopf. Finn stand mit hochgezogenen Schultern, die Hände tief in der Wachsjacke vergraben. Der Klebeband-Flicken am Ellbogen war erneuert worden — frisches, silbernes Klebeband über dem alten.
 
 „Allein?"
 
@@ -44,15 +44,15 @@ Er nahm den Bleistift aus dem Mund. „Ich seh's."
 
 „Kein Squire." Er legte den Kopf schief. „Von hier aus schwer zu sagen. Aber schwer. Gehärtet."
 
-Jude trat einen Schritt vor. Dann noch einen.
+Finn trat einen Schritt vor. Dann noch einen.
 
-„Jude." Priyas Hand schoss vor und schloss sich um seinen Unterarm. Dieselbe Stelle wie im Tunnel. Ihre Finger erinnerten sich.
+„Finn." Priyas Hand schoss vor und schloss sich um seinen Unterarm. Dieselbe Stelle wie im Tunnel. Ihre Finger erinnerten sich.
 
 „Ich will nur —"
 
 „Nein." Archie stand auf. Das Skizzenbuch klappte zu. „Nicht näher."
 
-Jude blieb stehen. Sein Kiefer mahlte, und Priya sah, wie er gegen den Impuls ankämpfte, sich loszureißen. Aber er blieb.
+Finn blieb stehen. Sein Kiefer mahlte, und Priya sah, wie er gegen den Impuls ankämpfte, sich loszureißen. Aber er blieb.
 
 „Sie haben das Schloss getauscht", sagte Priya. Sie hörte ihre eigene Stimme, ruhig und sachlich, als würde sie eine Inventurliste im Laden vorlesen. „Die Brennnesseln abgeschnitten. Den Zaun repariert. In einer Nacht."
 
@@ -60,13 +60,13 @@ Jude blieb stehen. Sein Kiefer mahlte, und Priya sah, wie er gegen den Impuls an
 
 Der Gedanke saß wie ein Splitter unter der Haut.
 
-Jude zog den Arm zurück. Nicht ruckartig — langsam, als müsste er sich dazu zwingen. „Das sind Profis", sagte er. „Keine Gelegenheits — was auch immer. Profis. Die haben jemanden geschickt, der aufräumt."
+Finn zog den Arm zurück. Nicht ruckartig — langsam, als müsste er sich dazu zwingen. „Das sind Profis", sagte er. „Keine Gelegenheits — was auch immer. Profis. Die haben jemanden geschickt, der aufräumt."
 
 Archie setzte sich wieder auf die Böschung. Sein Bleistift kratzte über das Papier — schnelle, kurze Striche. Priya wusste, ohne hinzusehen, dass er das neue Schloss skizzierte. Proportionen, Form, die Art der Befestigung. Details, die sie aus zwanzig Metern nicht erkennen konnte, aber Archie schon.
 
 Sie standen eine Weile schweigend da. Der Wind roch nach Kanal — Schlamm, Moos, das brackige Wasser, das sich kaum bewegte. Eine Amsel sang irgendwo in den Weiden am anderen Ufer, laut und ahnungslos.
 
-„Da ist noch was", sagte Jude.
+„Da ist noch was", sagte Finn.
 
 Priya wartete.
 
@@ -88,17 +88,17 @@ Nicht: Du bist ein neugieriges Kind. Nicht: Du nervst die Nachbarn. Sondern: Ich
 
 „Kanntest du sie wirklich nicht?", fragte Archie. Kein Stottern. Seine Stimme war leise und fest.
 
-Jude schüttelte den Kopf.
+Finn schüttelte den Kopf.
 
 Priya blickte zurück zum Badehaus. Es stand da wie immer — dunkel, massig, die Backsteinmauern feucht vom Nieselregen, der vor einer Stunde aufgehört hatte. Aber es sah anders aus. Abgesperrter. Das neue Schloss an der Tür, der reparierte Zaun, der saubere Durchgang ohne Brennnesseln — als hätte jemand eine Tür zugeschlagen und das Schloss zweimal umgedreht.
 
 „Wir gehen", sagte sie.
 
-Jude öffnete den Mund.
+Finn öffnete den Mund.
 
 „Jetzt."
 
-Sie drehte sich um und ging los, den Kanalweg entlang, weg vom Badehaus. Nach drei Schritten hörte sie Archies Chucks auf dem feuchten Kies. Nach fünf Schritten Judes schwere Schritte.
+Sie drehte sich um und ging los, den Kanalweg entlang, weg vom Badehaus. Nach drei Schritten hörte sie Archies Chucks auf dem feuchten Kies. Nach fünf Schritten Finns schwere Schritte.
 
 Sie ging, und in ihrem Kopf drehte sich ein einziger Gedanke, wieder und wieder, wie eine Münze, die nicht aufhören wollte zu kreiseln.
 

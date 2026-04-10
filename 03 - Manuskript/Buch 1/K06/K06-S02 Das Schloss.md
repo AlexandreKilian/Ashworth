@@ -14,7 +14,7 @@ ziel: Point of No Return — aus dem Beobachter wird ein Handelnder
 
 * * *
 
-Der Kanalweg lag still unter der Dämmerung. Archie ging voraus, das Skizzenbuch unter den Arm gepresst, die Augen auf den Boden gerichtet. Hinter ihm Judes Schritte — schnell, ungeduldig, als würden seine Füße schneller denken als sein Kopf. Und dahinter Priyas, gleichmäßig, ruhig, der Rucksack leise klappernd bei jedem Schritt.
+Der Kanalweg lag still unter der Dämmerung. Archie ging voraus, das Skizzenbuch unter den Arm gepresst, die Augen auf den Boden gerichtet. Hinter ihm Finns Schritte — schnell, ungeduldig, als würden seine Füße schneller denken als sein Kopf. Und dahinter Priyas, gleichmäßig, ruhig, der Rucksack leise klappernd bei jedem Schritt.
 
 Keiner sprach.
 
@@ -26,11 +26,11 @@ Archie blieb stehen.
 
 „Vorsicht", sagte er leise. „Da ist eine Planke im Boden. M-morsch. Rechte Seite."
 
-Hinter ihm stockten Judes Schritte. Eine kurze Stille.
+Hinter ihm stockten Finns Schritte. Eine kurze Stille.
 
-„Woher —" Jude brach ab. „Die Planke. Stimmt."
+„Woher —" Finn brach ab. „Die Planke. Stimmt."
 
-Archie hörte, wie Jude einen Schritt zur Seite machte, an die linke Wand, und sich vorbeitastete. Priya folgte wortlos. Ihre Sohlen schabten über den feuchten Grund.
+Archie hörte, wie Finn einen Schritt zur Seite machte, an die linke Wand, und sich vorbeitastete. Priya folgte wortlos. Ihre Sohlen schabten über den feuchten Grund.
 
 Die grüne Tür. Archie sah sie, bevor er sie berührte — der matte Schimmer abgeblätterter Farbe, heller als der Backstein ringsum. Die Holzmaserung darunter, aufgequollen vom Regen, rissig an den Kanten. Das Vorhängeschloss am Riegel. Squire. Messingbügel, angelaufen, nur aufgelegt.
 
@@ -48,7 +48,7 @@ Klick.
 
 Der Bügel sprang auf. Leichter als erwartet. Viel leichter. Grandpa Teds Übungsschlösser am Küchentisch hatten mehr Widerstand gehabt als dieses hier.
 
-„Ist es —", flüsterte Jude hinter ihm.
+„Ist es —", flüsterte Finn hinter ihm.
 
 „Auf." Archies Stimme war heiser. Er hob das Schloss vom Riegel und legte es auf den Boden, neben die Wand, genau dorthin, wo es jemand schnell wieder einhängen konnte. Eine Gewohnheit, die Ted ihm beigebracht hatte. *Lass alles so, wie du es vorgefunden hast.*
 
@@ -60,7 +60,7 @@ Dahinter: Schwärze. Dicht, vollständig, wie eine Wand aus Tinte. Und ein Geruc
 
 Hinter ihm ein Rascheln. Priya hatte ihren Rucksack geöffnet und zog etwas heraus. Ein Klicken, und ein Lichtkegel schnitt durch die Dunkelheit — schmal, weiß, ruhig. Der Strahl traf auf Fliesen. Grün und weiß, rissig, mit dunklen Fugen, in denen sich Moos kräuselte. Dahinter das Gerippe einer Umkleidekabine, die Holzwand nach innen gekippt, ein einzelner Haken an einem Querbalken.
 
-Jude trat vor. Sein Atem war warm an Archies Ohr.
+Finn trat vor. Sein Atem war warm an Archies Ohr.
 
 „Gehen wir."
 
@@ -74,7 +74,7 @@ Sein Herz schlug in seinen Fingerspitzen. In seiner Kehle. In seinen Schläfen.
 
 *Du kannst umdrehen. Zurückgehen. Die Tür schließen. Das Schloss wieder auflegen. Morgen vom Dachfenster aus zeichnen, wie immer, aus sicherer Entfernung.*
 
-Priyas Taschenlampe schwenkte über eine Wand. Fliesen, Moos, ein Wasserfleck in der Form einer Landkarte. Judes Silhouette, lang und dünn, bewegte sich durch den Lichtkegel. Er drehte sich nicht um.
+Priyas Taschenlampe schwenkte über eine Wand. Fliesen, Moos, ein Wasserfleck in der Form einer Landkarte. Finns Silhouette, lang und dünn, bewegte sich durch den Lichtkegel. Er drehte sich nicht um.
 
 Archie trat über die Schwelle.
 

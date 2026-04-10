@@ -16,7 +16,7 @@ Der Motor kam näher. Kein Diesel — etwas Leichteres, das sich durch die Still
 
 Er kam von Westen. Vom Badehaus her, den Feldweg entlang, der sich zwischen Brombeerhecken und dem Kanalrand wand. Die Scheinwerfer waren aus. Nur das Standlicht — zwei gelbe Punkte, die über den unebenen Boden hüpften und lange, zuckende Schatten über den Treidelpfad warfen.
 
-Priyas Finger krallten sich in die feuchte Erde. Neben ihr hatte Archie den Bleistift auf sein Knie gelegt. Still. Nicht einmal das leise Kratzen auf Papier. Jude atmete durch den Mund — flach, kontrolliert, als hätte er es geübt.
+Priyas Finger krallten sich in die feuchte Erde. Neben ihr hatte Archie den Bleistift auf sein Knie gelegt. Still. Nicht einmal das leise Kratzen auf Papier. Finn atmete durch den Mund — flach, kontrolliert, als hätte er es geübt.
 
 Der Lieferwagen hielt unter der Brücke. Motor aus. Stille, die sich anfühlte wie ein gehaltener Atemzug. Dann öffnete sich die Fahrertür — kein Knall, nur ein leises Klicken — und ein Mann stieg aus. Dunkle Jacke, Kapuze halb hochgezogen. Er ging zur Ladefläche, zog die Heckklappe auf. Ein zweiter Mann kam von der Beifahrerseite. Breite Schultern, Arbeitshandschuhe. Kein Wort zwischen ihnen.
 
@@ -56,7 +56,7 @@ Priyas Finger lösten sich aus der Erde. Einer nach dem anderen, langsam, als m�
 
 Neben ihr atmete Archie aus. Lang, gleichmäßig, als hätte er die ganze Zeit über die Luft angehalten. Sein Bleistift lag auf seinem Knie, unberührt. Seine Hand lag daneben, offen, die Finger entspannt. Er zeichnete nicht. Er musste nicht.
 
-Jude drehte den Kopf und sah Priya an. In der Dunkelheit konnte sie seine Augen kaum erkennen — nur den Schimmer, das Wache darin, das nie ganz verschwand. Kein Grinsen. Kein Triumph. Er nickte. Einmal, kurz.
+Finn drehte den Kopf und sah Priya an. In der Dunkelheit konnte sie seine Augen kaum erkennen — nur den Schimmer, das Wache darin, das nie ganz verschwand. Kein Grinsen. Kein Triumph. Er nickte. Einmal, kurz.
 
 Das reichte.
 
@@ -64,13 +64,13 @@ Unten auf dem Treidelpfad sicherten die Beamten die Kisten. Taschenlampen kreuzt
 
 Priya beobachtete, wie Hargreaves telefonierte. Wie sie das Handy sinken ließ und den Kopf hob. Wie ihr Blick über den Kanal wanderte, die Böschung hinauf, zu den Brombeeren.
 
-Sie konnte die drei nicht sehen. Das wusste Priya. Im Dunkeln, unter den Dornen, waren sie Schatten zwischen Schatten. Aber Hargreaves wusste, dass sie da waren. Sie wusste es, weil Jude es ihr gesagt hatte — vor dem Laden, über Pfefferminztee und die *Evening Post*.
+Sie konnte die drei nicht sehen. Das wusste Priya. Im Dunkeln, unter den Dornen, waren sie Schatten zwischen Schatten. Aber Hargreaves wusste, dass sie da waren. Sie wusste es, weil Finn es ihr gesagt hatte — vor dem Laden, über Pfefferminztee und die *Evening Post*.
 
 Hargreaves nickte. Kaum sichtbar. Eine Bewegung, die jemand anderes für ein Kopfschütteln oder eine Geste zum Telefon gehalten hätte. Aber Priya sah es. Und sie verstand.
 
 *Danke. Und jetzt geht nach Hause.*
 
-Jude beugte sich vor. Sein Atem kitzelte Priyas Ohr. „Wir sollten gehen."
+Finn beugte sich vor. Sein Atem kitzelte Priyas Ohr. „Wir sollten gehen."
 
 Priya blieb noch einen Moment. Sie sah die Kisten auf dem Treidelpfad, die Scheinwerfer, die blauen Lichter, die durch die Blätter pulsierten. Sie sah die Männer, die mit gesenkten Köpfen zu den Polizeifahrzeugen geführt wurden. Sie sah Hargreaves, die sich umdrehte und zu den Beamten ging, das Handy wieder am Ohr.
 
@@ -80,7 +80,7 @@ Es fühlte sich leiser an, als sie erwartet hatte. Kein Jubel in ihrer Brust, ke
 
 „Okay", sagte sie. Das Wort kam ruhig, fast tonlos. Für sich.
 
-Sie griff nach dem Rucksack, schob den Riemen über die Schulter und kroch rückwärts die Böschung hinauf. Jude folgte, die Wachsjacke an den Brombeeren zerrend. Archie kam als Letzter — lautlos, die Chucks tasteten sich über die feuchte Erde, ohne ein Geräusch.
+Sie griff nach dem Rucksack, schob den Riemen über die Schulter und kroch rückwärts die Böschung hinauf. Finn folgte, die Wachsjacke an den Brombeeren zerrend. Archie kam als Letzter — lautlos, die Chucks tasteten sich über die feuchte Erde, ohne ein Geräusch.
 
 Am oberen Rand der Böschung blieben sie stehen. Unter ihnen, durch das Geflecht der Brombeerzweige, flackerte blaues Licht über das schwarze Kanalwasser. Die Stimmen der Beamten waren nur noch ein Murmeln.
 

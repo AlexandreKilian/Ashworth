@@ -12,9 +12,9 @@ status: Akzeptiert
 
 | Kriterium | Note (1–5) | Kommentar |
 |-----------|------------|-----------|
-| **Klarheit** | 5 | Die Szene ist durchgehend verständlich. Der Leser weiß jederzeit, wo die Figuren sind, was sie tun und was auf dem Spiel steht. Der Informationsaustausch (Archies Skizzenbuch-Daten vs. Judes Sichtung der Gestalt) wird klar und logisch aufgebaut. |
+| **Klarheit** | 5 | Die Szene ist durchgehend verständlich. Der Leser weiß jederzeit, wo die Figuren sind, was sie tun und was auf dem Spiel steht. Der Informationsaustausch (Archies Skizzenbuch-Daten vs. Finns Sichtung der Gestalt) wird klar und logisch aufgebaut. |
 | **Pacing** | 4 | Guter Rhythmus: Die Szene beginnt atemlos (Nachwirkung der Flucht), verlangsamt sich zum tastenden Gespräch und endet mit einem offenen, stillen Moment. Der Dialog ist gut portioniert — keine zu langen Sprechblöcke. Kleiner Abzug: Der Mittelteil mit den vier Zeichnungen könnte minimal straffer sein (Zeilen 45–48 wiederholen das Systematische, das der Leser schon begriffen hat). |
-| **Charakterstimme** | 5 | Judes POV ist treffsicher. Sein analytischer Blick (Puzzleteile auf zwei Tischen), seine Zurückhaltung (innerer Monolog über das richtige Wort: *Danke* war falsch, *Lass uns das zusammen machen* war zu viel), sein Instinkt, Kontrolle zu behalten — alles glossar-konform. Archie ist ebenfalls exzellent gezeichnet: Das Stottern bei Nervosität, das Verschwinden des Stotterns, wenn er über seine Zeichnungen redet, die lautlosen Schritte, das Skizzenbuch als Schutzschild. Beide Figuren sind sofort erkennbar. |
+| **Charakterstimme** | 5 | Finns POV ist treffsicher. Sein analytischer Blick (Puzzleteile auf zwei Tischen), seine Zurückhaltung (innerer Monolog über das richtige Wort: *Danke* war falsch, *Lass uns das zusammen machen* war zu viel), sein Instinkt, Kontrolle zu behalten — alles glossar-konform. Archie ist ebenfalls exzellent gezeichnet: Das Stottern bei Nervosität, das Verschwinden des Stotterns, wenn er über seine Zeichnungen redet, die lautlosen Schritte, das Skizzenbuch als Schutzschild. Beide Figuren sind sofort erkennbar. |
 | **Spannung** | 4 | Die Spannung liegt hier nicht in Aktion, sondern im Zwischenmenschlichen — und das funktioniert. Der Leser will wissen, ob die beiden sich zusammentun. Das Ende ("Nächsten Freitag" + Archies halbes Nicken) ist ein starker, leiser Hook. Die offene Frage, ob die Person im Badehaus sie bemerkt hat, schwebt im Hintergrund. Leichter Abzug: Die Szene könnte einen Tick mehr Bedrohungsgefühl vertragen — ein kurzer Moment, in dem sie glauben, Schritte auf dem Weg zu hören, würde die Gefahr präsenter machen. |
 | **Regelkonformität** | 4 | Siehe Detailprüfung unten. Ein verbotenes Wort gefunden. |
 
@@ -29,7 +29,7 @@ status: Akzeptiert
 ### Dialog-Qualität
 
 - Dialoge sind knapp, natürlich und figurenspezifisch — gut.
-- Keine Adverbien in Inquit-Formeln. Korrekt: „sagte er", „sagte Jude", „fragte Jude" ohne Adverbien.
+- Keine Adverbien in Inquit-Formeln. Korrekt: „sagte er", „sagte Finn", „fragte Finn" ohne Adverbien.
 - Archies Stimme mit dem Stottern ("D-dasselbe wie du", "N-nie an anderen Tagen") ist konsistent und wird sinnvoll eingesetzt (stottert bei persönlichen Aussagen, nicht bei sachlichen).
 - Deutsche Anführungszeichen korrekt verwendet.
 
@@ -43,15 +43,15 @@ status: Akzeptiert
 
 | Detail | Glossar | Szene | OK? |
 |--------|---------|-------|-----|
-| Jude: Wachsjacke | ✓ | Z. 99: „Wachsjacke enger um die Schultern" | ✓ |
-| Jude: Bleistift | ✓ | Z. 53: „Bleistift in seiner Jackentasche" | ✓ |
-| Jude: hartnäckig/analytisch | ✓ | Innerer Monolog, will Antworten | ✓ |
+| Finn: Wachsjacke | ✓ | Z. 99: „Wachsjacke enger um die Schultern" | ✓ |
+| Finn: Bleistift | ✓ | Z. 53: „Bleistift in seiner Jackentasche" | ✓ |
+| Finn: hartnäckig/analytisch | ✓ | Innerer Monolog, will Antworten | ✓ |
 | Archie: schwarze Chucks | ✓ | Z. 79: „schwarzen Chucks" | ✓ |
 | Archie: Skizzenbuch | ✓ | Durchgehend präsent | ✓ |
 | Archie: stottert bei Nervosität | ✓ | Z. 34, 51 | ✓ |
 | Archie: lautlose Bewegung | ✓ | Z. 85: „Seine Schritte waren lautlos" | ✓ |
 | Archie: systematische Dokumentation | ✓ | Vier Zeichnungen mit Daten/Zeiten | ✓ |
-| Archie: kleiner/jünger als Jude | ✓ | Z. 79: „schmalen Schultern" | ✓ |
+| Archie: kleiner/jünger als Finn | ✓ | Z. 79: „schmalen Schultern" | ✓ |
 
 ### Sinneseindrücke
 
@@ -69,7 +69,7 @@ status: Akzeptiert
 | Archie zeigt Skizzenbuch | ✓ | |
 | Vier Beobachtungsnächte dokumentiert | ✓ | |
 | Do/Fr-Muster | ✓ | |
-| Jude teilt Sichtung der Gestalt | ✓ | |
+| Finn teilt Sichtung der Gestalt | ✓ | |
 | Informationen ergänzen sich | ✓ | |
 | Kein Versprechen, aber Andeutung | ✓ | „Nächsten Freitag" |
 | Trennung ohne explizites Bündnis | ✓ | |
@@ -79,17 +79,17 @@ status: Akzeptiert
 ### Tempus und Perspektive
 
 - Durchgehend Präteritum — korrekt.
-- Dritte Person, eng an Judes POV — korrekt. Kein Bruch. Alles wird durch Judes Wahrnehmung gefiltert.
+- Dritte Person, eng an Finns POV — korrekt. Kein Bruch. Alles wird durch Finns Wahrnehmung gefiltert.
 
 ### Übergang von K04-S02
 
-- Nahtlos. Die Szene setzt direkt nach dem Zusammenstoß ein: „Jude starrte ihn an. Archie Wynn starrte zurück. Keiner von ihnen stand auf." Das Knie brennt vom Aufprall (Kontinuität zu S02). Der Riss in der Wachsjacke (Z. 99) verweist auf den Zaun aus S02. Sauber.
+- Nahtlos. Die Szene setzt direkt nach dem Zusammenstoß ein: „Finn starrte ihn an. Archie Wynn starrte zurück. Keiner von ihnen stand auf." Das Knie brennt vom Aufprall (Kontinuität zu S02). Der Riss in der Wachsjacke (Z. 99) verweist auf den Zaun aus S02. Sauber.
 
 ## Positives Feedback
 
 1. **Der Schluss ist hervorragend.** „Nächsten Freitag" — zwei Worte, kein Versprechen, keine Frage. Archies halbes Nicken. Das ist exakt der richtige Ton: Understatement, britische Zurückhaltung, zwei Jungen, die nicht wissen, wie man Vertrauen anbietet. Atmosphärisch-britisch, wie die Stilregeln verlangen.
 2. **Archies Stotter-Dynamik** ist klug gehandhabt. Er stottert bei „D-dasselbe wie du" und „N-nie an anderen Tagen", aber nicht bei den sachlichen Informationen über das Badehaus. Das zeigt Charaktertiefe ohne es zu erklären.
-3. **Judes innerer Monolog in Z. 83** (*Danke war falsch. Lass uns das zusammen machen war zu viel.*) ist einer der besten Momente der Szene — zeigt seine soziale Unbeholfenheit und gleichzeitig sein Denken in Optionen.
+3. **Finns innerer Monolog in Z. 83** (*Danke war falsch. Lass uns das zusammen machen war zu viel.*) ist einer der besten Momente der Szene — zeigt seine soziale Unbeholfenheit und gleichzeitig sein Denken in Optionen.
 4. **Der Riss in der Wachsjacke** (Z. 99) als letztes Detail ist eine schöne Klammer zum Kapitel und macht die Nacht spürbar real.
 
 ## Änderungsvorschläge

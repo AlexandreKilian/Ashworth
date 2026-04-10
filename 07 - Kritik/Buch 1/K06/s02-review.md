@@ -59,7 +59,7 @@ ergebnis: Akzeptiert
 
 - **Squire-Vorhängeschloss, nur aufgelegt:** Konsistent mit K03 und K04. Korrekt.
 - **Geölte Scharniere:** Konsistent mit K04 (Seitentür "fällt lautlos zu"). Korrekt.
-- **Morsche Planke:** Callback zu K04 (Jude trat drauf). Archie warnt Jude — zeigt, dass Archie aufmerksamer ist. Korrekt.
+- **Morsche Planke:** Callback zu K04 (Finn trat drauf). Archie warnt Finn — zeigt, dass Archie aufmerksamer ist. Korrekt.
 - **Grandpa Teds Schloss-Unterricht:** Konsistent mit K03 (Übungsschloss am Küchentisch). Korrekt.
 - **Skizzenbuch:** Archie presst es unter den Arm (konsistent mit K04: "presst es schützend an die Brust"). Korrekt.
 - **Zeitliche Einordnung:** Freitag, Dämmerung, ca. 17:15 — konsistent mit Szenenplan und K04-Verabredung ("Nächsten Freitag").

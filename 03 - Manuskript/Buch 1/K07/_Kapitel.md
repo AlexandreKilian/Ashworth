@@ -9,15 +9,15 @@ status: entwurf
 
 ## Zusammenfassung
 
-Archie zeigt Jude und Priya *The Magpie* — das halbverfallene Narrowboat am toten Ende des Kanals. Sie richten es als Hauptquartier ein: Kissen, Pinnwand, Beweis-Kiste. Grandpa Ted bringt Tee und erzählt beiläufig, dass das Lagerhaus unter dem Badehaus Tunnel zum Kanal hatte — und dass manche sagen, die Tunnel gehen weiter. Die drei lernen einander kennen. Vorsichtig, tastend, aber echt.
+Archie zeigt Finn und Priya *The Magpie* — das halbverfallene Narrowboat am toten Ende des Kanals. Sie richten es als Hauptquartier ein: Kissen, Pinnwand, Beweis-Kiste. Grandpa Ted bringt Tee und erzählt beiläufig, dass das Lagerhaus unter dem Badehaus Tunnel zum Kanal hatte — und dass manche sagen, die Tunnel gehen weiter. Die drei lernen einander kennen. Vorsichtig, tastend, aber echt.
 
 ## Szenen
 
 | Nr. | Szene | POV | Ort | Status |
 | --- | ----- | --- | --- | ------ |
-| 1 | [[K07-S01 Die Elster am toten Ende]] | Jude | The Magpie | entwurf |
-| 2 | [[K07-S02 Einrichten]] | Jude | The Magpie | entwurf |
-| 3 | [[K07-S03 Tee und alte Geschichten]] | Jude | The Magpie | entwurf |
+| 1 | [[K07-S01 Die Elster am toten Ende]] | Finn | The Magpie | entwurf |
+| 2 | [[K07-S02 Einrichten]] | Finn | The Magpie | entwurf |
+| 3 | [[K07-S03 Tee und alte Geschichten]] | Finn | The Magpie | entwurf |
 
 ## Ziel des Kapitels
 
@@ -26,5 +26,5 @@ Archie zeigt Jude und Priya *The Magpie* — das halbverfallene Narrowboat am to
 ## Notizen
 
 - **Beat:** B-Story
-- **POV:** Jude
+- **POV:** Finn
 - **~Wörter:** 2.600

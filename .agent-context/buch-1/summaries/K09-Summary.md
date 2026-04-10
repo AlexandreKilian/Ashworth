@@ -17,11 +17,11 @@ Am Schwimmbecken vergleicht er Maße und stellt fest: Die **Wand am tiefen Ende 
 
 Am Beckenrand findet er eine Kante im Boden — Holz, nicht Fliese. Er klettert ins Becken und legt eine **Holzluke** frei: massives, genarbtes Holz aus dem 18. Jahrhundert, handgeschmiedeter Eisenring. Darunter steile Steinstufen, abgetreten von Jahrhunderten. Die Luft riecht nach feuchtem Stein — nicht nach dem chemischen Geruch der bekannten Kellertreppe. Das hier ist älter, ein Überbleibsel der Lagerhauszeit. Eine zweite Kellertreppe, die auf keinem Plan steht.
 
-Archie kämpft gegen den Impuls hinunterzusteigen. Priyas Stimme („Nicht heute") und Teds Stimme („Lass alles so, wie du es vorgefunden hast") halten ihn zurück. Er legt die Luke zurück, verteilt den Schutt, zeichnet alles ein und geht heim. Letzte Notiz im Skizzenbuch: „Jude und Priya zeigen. Morgen."
+Archie kämpft gegen den Impuls hinunterzusteigen. Priyas Stimme („Nicht heute") und Teds Stimme („Lass alles so, wie du es vorgefunden hast") halten ihn zurück. Er legt die Luke zurück, verteilt den Schutt, zeichnet alles ein und geht heim. Letzte Notiz im Skizzenbuch: „Finn und Priya zeigen. Morgen."
 
 ## Charakter-Entwicklung
 
-**Archie** in seinem Element: lautlos, geduldig, kompetent. Das Squire-Schloss öffnet er in drei Sekunden (Routine seit K03). Kein Stottern — er ist allein, niemand da, vor dem er nervös sein müsste. Sein größter Moment: Er findet die Luke und entscheidet sich, nicht hinunterzusteigen. Neugier vs. Gruppenloyalität — er wählt die Gruppe. Das zeigt, wie wichtig ihm Jude und Priya geworden sind.
+**Archie** in seinem Element: lautlos, geduldig, kompetent. Das Squire-Schloss öffnet er in drei Sekunden (Routine seit K03). Kein Stottern — er ist allein, niemand da, vor dem er nervös sein müsste. Sein größter Moment: Er findet die Luke und entscheidet sich, nicht hinunterzusteigen. Neugier vs. Gruppenloyalität — er wählt die Gruppe. Das zeigt, wie wichtig ihm Finn und Priya geworden sind.
 
 ## Plot-Threads
 

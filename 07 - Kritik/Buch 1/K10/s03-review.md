@@ -15,7 +15,7 @@ status: akzeptiert
 |-----------|------------|-----------|
 | Klarheit | 5 | Jeder Moment der Szene ist glasklar: Stimmen, Entscheidung zur Flucht, Bewegung durch den Tunnel, Gitter, Entkommen, Erkenntnis. Keine Verwirrung trotz absoluter Dunkelheit. |
 | Pacing | 5 | Herausragend. Kurze, abgehackte Sätze in der Panik-Phase, langsames Ausdehnen der stillen Momente (30 Sekunden, eine Minute), perfekter Rhythmus zwischen Stillstand und Bewegung. Die Szene liest sich atemlos. |
-| Charakterstimme | 4 | Judes POV ist stark: sein analytisches Denken unter Druck (drei Gedanken gleichzeitig), sein reflexhaftes Handeln (Taschenlampe aus, bevor er nachdenkt). Archie wird treffend durch Judes Wahrnehmung gezeichnet — die lautlosen Chucks, das Skizzenbuch an der Brust. Priya ist etwas weniger profiliert als in den Vorgängerszenen; ihr Griff nach Judes Arm und der finale Satz funktionieren, aber sie bleibt passiver als gewohnt. |
+| Charakterstimme | 4 | Finns POV ist stark: sein analytisches Denken unter Druck (drei Gedanken gleichzeitig), sein reflexhaftes Handeln (Taschenlampe aus, bevor er nachdenkt). Archie wird treffend durch Finns Wahrnehmung gezeichnet — die lautlosen Chucks, das Skizzenbuch an der Brust. Priya ist etwas weniger profiliert als in den Vorgängerszenen; ihr Griff nach Finns Arm und der finale Satz funktionieren, aber sie bleibt passiver als gewohnt. |
 | Spannung | 5 | Die Klimax des Midpoints liefert genau das, was sie soll. Der Spannungsbogen Schock → Lähmung → kontrollierte Flucht → Erleichterung → neue Angst (offene Luke) ist makellos. Das Schlussbild — „Etwas, das zurückschauen konnte" — ist ein exzellenter Hook. |
 | Regelkonformität | 4 | Schreibregeln und Stilregeln werden konsequent eingehalten. Minimaler Abzug, siehe Details unten. |
 
@@ -44,7 +44,7 @@ Emotionen werden konsequent durch Handlung und Körper gezeigt:
 Kein einziges Tell-Vergehen.
 
 ### Archie als Fluchtführer
-Der Rollentausch — Archie führt, Jude folgt — ist die emotionale Kernaussage der Szene. „Archie verstand immer im Dunkeln" ist ein Satz, der auf Charakter- und Plot-Ebene gleichzeitig funktioniert. Seine lautlosen Chucks, sein Führungsgriff am Handgelenk (leicht, bestimmt, kein Zögern) — perfekt vorbereitet durch K09 und die Glossar-Einträge.
+Der Rollentausch — Archie führt, Finn folgt — ist die emotionale Kernaussage der Szene. „Archie verstand immer im Dunkeln" ist ein Satz, der auf Charakter- und Plot-Ebene gleichzeitig funktioniert. Seine lautlosen Chucks, sein Führungsgriff am Handgelenk (leicht, bestimmt, kein Zögern) — perfekt vorbereitet durch K09 und die Glossar-Einträge.
 
 ### Pacing und Satz-Varianz
 Die Szene nutzt bewusst die Stilregel „Spannungsszenen: kürzere Sätze". Beispiele:
@@ -62,9 +62,9 @@ Kontrastiert mit längeren, fließenden Sätzen in den ruhigeren Passagen (Tunne
 ## Schwächen und Verbesserungsvorschläge
 
 ### 1. Priyas Passivität (gering)
-**Stelle:** Priya ist in dieser Szene vor allem reaktiv — sie greift Judes Arm, ihr Atem geht stoßweise, sie spricht den Schluss-Satz. Verglichen mit K10-S02 (wo sie die Kisten systematisch untersucht) und ihrer Glossar-Beschreibung als „Die Macherin" fehlt ein Moment, in dem sie aktiv handelt oder eine Entscheidung beeinflusst.
+**Stelle:** Priya ist in dieser Szene vor allem reaktiv — sie greift Finns Arm, ihr Atem geht stoßweise, sie spricht den Schluss-Satz. Verglichen mit K10-S02 (wo sie die Kisten systematisch untersucht) und ihrer Glossar-Beschreibung als „Die Macherin" fehlt ein Moment, in dem sie aktiv handelt oder eine Entscheidung beeinflusst.
 
-**Vorschlag:** Könnte vertretbar bleiben, da die Szene Archies Kompetenz im Dunkeln zeigt (laut Szenenplan: „Jude muss Archie führen lassen"). Priyas Stärken liegen in Planung und Organisation, nicht in Dunkelheit und Flucht. Dennoch: Ein kleines Detail — z.B. dass sie den Rucksack lautlos schließt, bevor sie losrennen, oder dass sie Jude am Arm zurückhält, als er zu schnell wird — würde ihre Rolle stärken, ohne von Archie abzulenken.
+**Vorschlag:** Könnte vertretbar bleiben, da die Szene Archies Kompetenz im Dunkeln zeigt (laut Szenenplan: „Finn muss Archie führen lassen"). Priyas Stärken liegen in Planung und Organisation, nicht in Dunkelheit und Flucht. Dennoch: Ein kleines Detail — z.B. dass sie den Rucksack lautlos schließt, bevor sie losrennen, oder dass sie Finn am Arm zurückhält, als er zu schnell wird — würde ihre Rolle stärken, ohne von Archie abzulenken.
 
 **Priorität:** Niedrig. Kein strukturelles Problem.
 
@@ -88,7 +88,7 @@ Kontrastiert mit längeren, fließenden Sätzen in den ruhigeren Passagen (Tunne
 
 | Prüfpunkt | Ergebnis |
 |-----------|----------|
-| POV durchgängig Jude | Ja. Keine Wahrnehmung außerhalb seiner Sinne. |
+| POV durchgängig Finn | Ja. Keine Wahrnehmung außerhalb seiner Sinne. |
 | Tempus Präteritum | Ja, durchgängig. |
 | Deutsche Anführungszeichen | Ja. |
 | Kursiv für innere Gedanken | Ja (*Weg*, *Wenn sie sie offenließen...*). |
@@ -97,11 +97,11 @@ Kontrastiert mit längeren, fließenden Sätzen in den ruhigeren Passagen (Tunne
 | Archies schwarze Chucks | Ja, erwähnt: „seine schwarzen Chucks auf dem Steinboden so leise wie auf Teppich". |
 | Archies Skizzenbuch | Ja, an der Brust gepresst durch die gesamte Flucht. Konsistent mit K04/K06/K09. |
 | Priyas Rucksack | Ja, erwähnt beim Durchquetschen durch das Gitter. |
-| Luke offen (Plot-Konsequenz) | Ja, explizit thematisiert: Priya spricht es aus, Jude visualisiert es. Treibt K11. |
+| Luke offen (Plot-Konsequenz) | Ja, explizit thematisiert: Priya spricht es aus, Finn visualisiert es. Treibt K11. |
 | Schmuggler via viktorianische Treppe | Ja, korrekt: Schritte kommen die Kellertreppe herunter, nicht die Luke. |
 | Tunnelausgang am Kanal | Ja, konsistent mit Glossar (Kanaltunnel) und Teds Hinweis (K07). |
 | Gitter am Kanalrand | Ja, im Glossar erwähnt: „Der Haupteingang ist mit einem Gitter verschlossen." Hier als loses, vergittertes Seitenausstiegsgitter — plausibel. |
-| Archie führt Flucht (Szenenplan) | Ja, explizit umgesetzt: Archie übernimmt von Jude. |
+| Archie führt Flucht (Szenenplan) | Ja, explizit umgesetzt: Archie übernimmt von Finn. |
 | Chemischer Geruch vs. feuchter Stein | Nicht direkt kontrastiert, aber der Zellophan-Geruch der Kisten wird erwähnt. Konsistent mit K09/K10-S02. |
 | Zeitleiste | Freitagabend, ca. 21:30–22:00 — konsistent mit S01/S02. Nacht mit Sternen draußen passt. |
 | Wortanzahl | ~830 Wörter (Ziel: ~1.000). Leicht unter dem Ziel, aber innerhalb der 800–2.500-Spanne der Szene-Regeln. |

@@ -27,7 +27,7 @@ status: Akzeptiert
 ## Zusätzliche Prüfpunkte
 
 ### Plot-Konsistenz
-**Bestanden.** Die Szene erfüllt den Setup-Beat laut Buchplot (Beat 3): Archie zeichnet am Kanal, beobachtet das Badehaus, ist noch isoliert. Archies Wissen über die Lichter (donnerstags/freitags, seit drei Wochen) ist konsistent mit Judes Donnerstag-Sichtung (K01) und Sean Dohertys Bericht (K02). Die Entdeckung der niedergetretenen Brennnesseln bereitet den Catalyst (K04) vor, ohne ihm vorzugreifen. Kein vorzeitiger Kontakt mit Jude oder Priya.
+**Bestanden.** Die Szene erfüllt den Setup-Beat laut Buchplot (Beat 3): Archie zeichnet am Kanal, beobachtet das Badehaus, ist noch isoliert. Archies Wissen über die Lichter (donnerstags/freitags, seit drei Wochen) ist konsistent mit Finns Donnerstag-Sichtung (K01) und Sean Dohertys Bericht (K02). Die Entdeckung der niedergetretenen Brennnesseln bereitet den Catalyst (K04) vor, ohne ihm vorzugreifen. Kein vorzeitiger Kontakt mit Finn oder Priya.
 
 ### Charakter-Konsistenz
 **Bestanden.** Alle Glossar-Details korrekt umgesetzt:
@@ -51,7 +51,7 @@ status: Akzeptiert
 - Tauben unter dem offenen Dach — Glossar
 - Treidelpfad am Kanal — K01
 
-Neue, ergänzende Details (kein Widerspruch): Brennnesseln am Seiteneingang, Brauereimauer, Seiteneingang mit grüner Holztür und Vorhängeschloss. Perspektivisch unterschiedlich zu K01 (Archie sitzt gegenüber auf der Kanalmauer, Jude stand direkt am Zaun).
+Neue, ergänzende Details (kein Widerspruch): Brennnesseln am Seiteneingang, Brauereimauer, Seiteneingang mit grüner Holztür und Vorhängeschloss. Perspektivisch unterschiedlich zu K01 (Archie sitzt gegenüber auf der Kanalmauer, Finn stand direkt am Zaun).
 
 ### Show don't Tell
 **Bestanden.** Emotionen werden durchgehend durch Handlungen und Körpersprache gezeigt:

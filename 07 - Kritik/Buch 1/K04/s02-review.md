@@ -12,9 +12,9 @@ ergebnis: Akzeptiert
 
 | Kriterium | Note (1–5) | Kommentar |
 |-----------|:----------:|-----------|
-| **Klarheit** | 5 | Jede Aktion ist nachvollziehbar. Der Leser weiß jederzeit, wo Jude ist, was er tut und warum. Der räumliche Aufbau (Durchgang → Tür → Flucht → Kanalweg → Trauerweiden) ist präzise und leicht zu folgen. |
+| **Klarheit** | 5 | Jede Aktion ist nachvollziehbar. Der Leser weiß jederzeit, wo Finn ist, was er tut und warum. Der räumliche Aufbau (Durchgang → Tür → Flucht → Kanalweg → Trauerweiden) ist präzise und leicht zu folgen. |
 | **Pacing** | 5 | Hervorragender Rhythmus. Langsamer Aufbau beim Schleichen (längere Sätze, sensorische Details), dann der Bruch — „Die Planke brach" als eigener Satz, gefolgt von Stakkato-Flucht. Der Zusammenstoß bringt alles zum Stillstand. Genau wie im Szenenplan vorgesehen: „Schnell, hart, atemlos." |
-| **Charakterstimme** | 4 | Judes POV ist durchgehend stimmig: aufmerksam, körperlich, impulsiv. Schöne Details (Bleistift als Talisman, Zahnspuren). Die Flucht ist reines Reagieren — passt zu Jude, der erst handelt und dann denkt. Archies Einführung (Stottern, Skizzenbuch, schwarze *Chucks*, kleiner als Jude) ist glossar-konform. **Kleiner Abzug:** Während der Fluchtsequenz (Abs. 9–12) fehlt Judes innere Stimme fast vollständig — ein kurzer Gedankenfetzen („*Nicht umdrehen*" o.ä.) könnte den POV noch enger machen. |
+| **Charakterstimme** | 4 | Finns POV ist durchgehend stimmig: aufmerksam, körperlich, impulsiv. Schöne Details (Bleistift als Talisman, Zahnspuren). Die Flucht ist reines Reagieren — passt zu Finn, der erst handelt und dann denkt. Archies Einführung (Stottern, Skizzenbuch, schwarze *Chucks*, kleiner als Finn) ist glossar-konform. **Kleiner Abzug:** Während der Fluchtsequenz (Abs. 9–12) fehlt Finns innere Stimme fast vollständig — ein kurzer Gedankenfetzen („*Nicht umdrehen*" o.ä.) könnte den POV noch enger machen. |
 | **Spannung** | 5 | Der Spannungsbogen ist makellos: konzentrierte Annäherung → akustischer Schock (Planke) → Licht erlischt → Schritte hinter der Tür → Flucht → Zusammenstoß aus dem Nichts. Der letzte Satz — „Ich weiß" — ist ein perfekter Hook, der Dringlichkeit und Verbindung gleichzeitig herstellt. |
 | **Regelkonformität** | 5 | Keine Verstöße gefunden (siehe Details unten). |
 
@@ -30,7 +30,7 @@ ergebnis: Akzeptiert
 | Adverbien in Inquit-Formeln | OK | Nur zwei Dialogzeilen: „sagte er" / „flüsterte Archie" — kein Adverb |
 | Show don't Tell | OK | Emotionen durchgängig durch Körpersprache gezeigt: „Sein Magen sackte ab", „Seine Hände zitterten", „das Herz in der Kehle, Kies in den Handflächen" |
 | Tempus (Präteritum) | OK | Durchgängig eingehalten |
-| POV-Konsistenz | OK | Eng an Jude, keine Information außerhalb seiner Wahrnehmung |
+| POV-Konsistenz | OK | Eng an Finn, keine Information außerhalb seiner Wahrnehmung |
 | Deutsche Anführungszeichen | OK | „..." korrekt verwendet |
 | Satzlänge | OK | Guter Mix; in der Fluchtsequenz dominieren kurze Sätze (≤10 Wörter), beim Schleichen längere |
 | Sinneseindrücke (mind. 2) | OK | Tasten (feuchte Wand, Splitter, Matsch, Kies), Hören (Knall, Echo, Schritte, Gluckern), Sehen (Umrisse, Lichtstriche, Archies Gesicht) |
@@ -52,25 +52,25 @@ ergebnis: Akzeptiert
 | Zaun mit eingerolltem Blech | K04-S01, Glossar | „Die Lücke im Metall [...] das eingerollte Blech riss an seiner Wachsjacke" | OK |
 | Trauerweiden am Kanalweg | Szenenplan, K04-S01 | „Die Trauerweiden tauchten auf. Dunkle Vorhänge" | OK |
 | Archie: kleiner, Skizzenbuch, Chucks, stottert | Szenenplan, Glossar | „Kleiner als er [...] ein Skizzenbuch [...] Schwarze *Chucks* [...] D-das Licht" | OK |
-| Jude: Wachsjacke | Glossar | „riss an seiner Wachsjacke" | OK |
+| Finn: Wachsjacke | Glossar | „riss an seiner Wachsjacke" | OK |
 | Archie aus Jahrgangsstufe darunter | Glossar (implizit: jünger) | „der stille Junge aus der Jahrgangsstufe darunter" | OK |
-| Übergang von S01 | S01 endet: Jude geht auf die Seitentür zu | S02 beginnt: Jude im Durchgang zur Seitentür | OK |
+| Übergang von S01 | S01 endet: Finn geht auf die Seitentür zu | S02 beginnt: Finn im Durchgang zur Seitentür | OK |
 
 ---
 
 ## Positives Feedback
 
 - **Der Planken-Moment** (Abs. 6–7) ist herausragend: „Kein Knirschen, kein Warnen. Ein Knall, trocken und scharf, der durch den Durchgang schoss wie ein Schuss." Die Abwesenheit von Warnung macht den Moment physisch spürbar.
-- **Rhythmuswechsel:** Der Übergang von langsamer Annäherung zu Stakkato-Flucht ist handwerklich stark. „Jude rannte." als eigener Absatz — perfekt.
+- **Rhythmuswechsel:** Der Übergang von langsamer Annäherung zu Stakkato-Flucht ist handwerklich stark. „Finn rannte." als eigener Absatz — perfekt.
 - **„Das Licht hinter der Tür erlosch."** — Einer der besten Sätze der Szene. Minimalistisch, maximale Wirkung.
 - **Archies Einführung** über physische Details (Sommersprossengesicht, helle Augen, Skizzenbuch, Chucks) statt Beschreibung seines Charakters — reines Show.
-- **Schlussdialog:** Archies „D-das Licht [...] Hast du das L-Licht gesehen?" und Judes knappes „Ich weiß" — perfekter Hook, der beide Figuren mit einer Zeile verbindet.
+- **Schlussdialog:** Archies „D-das Licht [...] Hast du das L-Licht gesehen?" und Finns knappes „Ich weiß" — perfekter Hook, der beide Figuren mit einer Zeile verbindet.
 
 ---
 
 ## Verbesserungsvorschläge (optional, nicht bewertungsrelevant)
 
-1. **Innere Stimme in der Flucht:** In der Fluchtsequenz (Abs. 9–12) agiert Jude rein körperlich. Ein einzelner, abgehackter Gedankenfetzen — z.B. *Nicht umdrehen* oder *Die Tür* — könnte den POV noch enger binden, ohne das Pacing zu bremsen.
+1. **Innere Stimme in der Flucht:** In der Fluchtsequenz (Abs. 9–12) agiert Finn rein körperlich. Ein einzelner, abgehackter Gedankenfetzen — z.B. *Nicht umdrehen* oder *Die Tür* — könnte den POV noch enger binden, ohne das Pacing zu bremsen.
 2. **Wortwiederholung „Matsch/matschig":** Kommt dreimal vor (Abs. 2: „matschig", Abs. 8: „im Matsch", Abs. 12: „im Matsch"). Die dritte Verwendung könnte variiert werden (z.B. „im nassen Gras" oder „auf dem Boden").
 
 ---

@@ -36,7 +36,7 @@ Der Hook funktioniert: Das Badehaus-Gerücht wird atmosphärisch eingeführt, un
 ## Zusätzliche Prüfungen
 
 ### Plot-Konsistenz mit Buchplot
-Passt exakt zum Setup-/Debate-Beat: Priya erfährt im Laden vom Badehaus-Gerücht, Kunden reden, Nani kommentiert. Die Szene bereitet den Debate-Beat vor (innerer Konflikt Pflicht vs. Neugier). Mrs. Dohertys Sohn hat die Lichter „abends" gesehen — korrespondiert mit Judes Donnerstagabend-Sichtung aus K01. Keine Widersprüche.
+Passt exakt zum Setup-/Debate-Beat: Priya erfährt im Laden vom Badehaus-Gerücht, Kunden reden, Nani kommentiert. Die Szene bereitet den Debate-Beat vor (innerer Konflikt Pflicht vs. Neugier). Mrs. Dohertys Sohn hat die Lichter „abends" gesehen — korrespondiert mit Finns Donnerstagabend-Sichtung aus K01. Keine Widersprüche.
 
 ### Charakter-Konsistenz mit Glossar
 - **Priya:** Praktisch, überlastet, neugierig — alles vorhanden. Rucksack wird erwähnt (Z. 83: „Taschenlampe, Bücher, Pflaster, die halbe Welt in einer Tasche"). Jeans und Hoodie erwähnt (Z. 83). Passt.

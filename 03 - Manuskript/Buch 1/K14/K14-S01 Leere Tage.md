@@ -34,7 +34,7 @@ Das Brett lag noch da. Von der Böschung zum Deck, schief und grau, genau so, wi
 
 Er blieb nicht stehen. Er ging weiter, den Blick auf den Treidelpfad gerichtet, und die *Magpie* blieb hinter ihm zurück, dunkel und geschlossen, wie ein Buch, das jemand zugeschlagen hatte.
 
-Er dachte nicht an Jude. Er dachte nicht an Priya. Das war das Schlimme — er dachte an nichts. Sein Kopf war still, und die Stille war nicht die gute Art, nicht die, die kam, wenn er zeichnete und die Linien das Durcheinander ordneten. Es war die andere Stille. Die leere.
+Er dachte nicht an Finn. Er dachte nicht an Priya. Das war das Schlimme — er dachte an nichts. Sein Kopf war still, und die Stille war nicht die gute Art, nicht die, die kam, wenn er zeichnete und die Linien das Durcheinander ordneten. Es war die andere Stille. Die leere.
 
 Am Donnerstagabend saß Ted im Sessel, die Quizshow lief leise, und sein Schnarchen kam langsam und schwer und gleichmäßig, wie immer nach dem dritten Tee. Archie saß am Küchentisch. Die Küchenuhr tickte. Der Wasserhahn tropfte — ein, zwei, Pause, ein, zwei.
 

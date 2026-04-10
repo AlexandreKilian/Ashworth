@@ -9,7 +9,7 @@ status: fertig
 
 ## Handlung
 
-Montagmorgen, große Pause. Jude erzählt Priya auf dem Schulhof von Freitagnacht: das Licht im Keller des Badehauses, die Gestalt mit Kapuze an der Seitentür, die morsche Planke, der Zusammenstoß mit Archie. Er zeigt den Riss in seiner Wachsjacke als Beweis. Priya stellt sofort die richtigen Fragen — Zeitpunkt, Häufigkeit, Details — aber als Jude sagt, dass er und Archie am Freitag zurückgehen wollen, zögert sie. Freitagabend ist Lieferungstag im Laden.
+Montagmorgen, große Pause. Finn erzählt Priya auf dem Schulhof von Freitagnacht: das Licht im Keller des Badehauses, die Gestalt mit Kapuze an der Seitentür, die morsche Planke, der Zusammenstoß mit Archie. Er zeigt den Riss in seiner Wachsjacke als Beweis. Priya stellt sofort die richtigen Fragen — Zeitpunkt, Häufigkeit, Details — aber als Finn sagt, dass er und Archie am Freitag zurückgehen wollen, zögert sie. Freitagabend ist Lieferungstag im Laden.
 
 Am Nachmittag steht Priya hinter der Theke in Sharma's News. Der Laden ist leer, Montags-Flaute. Sie erledigt mechanisch ihre Aufgaben, aber ihre Gedanken kreisen ums Badehaus. Sie rechnet ihre Woche durch: Dienstag Hausaufgaben, Mittwoch Inventur, Donnerstag Nanis Arzttermin, Freitag Lieferung. Kein Tag ist frei. Nani beobachtet sie vom Fenstersessel — "Du wischst denselben Fleck seit fünf Minuten, dikri." — und Priya weicht aus. Mr. Sharma schickt sie ins Lager, alte Zeitungen sortieren.
 
@@ -19,14 +19,14 @@ Im Lager findet Priya beim Durchblättern alter Ausgaben der Ashworth Green Gaze
 
 - **Priya:** Zerrissen zwischen Pflicht und Neugier. Ihre Woche ist ein Käfig — jeder Tag verplant, kein Spielraum. Der Zeitungsartikel gibt ihr eine eigene Rolle: Nicht die, die mitläuft, sondern die, die recherchiert. Der Moment, in dem sie die Seite herausreißt, ist ihre Entscheidung — leise, aber endgültig.
 - **Nani:** Beobachtet Priyas Unruhe mit trockenem Humor und schweigendem Warten. Bemerkt den Artikel in der Hosentasche, sagt nichts. Ihre stille Komplizenschaft deutet an, dass sie mehr versteht als sie zeigt.
-- **Jude:** Aufgedreht und mitteilsam — ein neuer Ton für ihn. Zeigt den Riss in der Jacke, was für ihn ein großer Schritt ist. Überredet Priya nicht, was es schwerer macht.
+- **Finn:** Aufgedreht und mitteilsam — ein neuer Ton für ihn. Zeigt den Riss in der Jacke, was für ihn ein großer Schritt ist. Überredet Priya nicht, was es schwerer macht.
 
 ## Plot-Threads
 
 ### Geöffnet
 - Wer hat den Einspruch im Gemeinderat eingelegt? (Nicht namentlich genanntes Mitglied)
 - Warum sollte das Badehaus erhalten bleiben? ("historisch schützenswert" als offizielle Begründung — aber was war das wahre Motiv?)
-- Priya hat den Artikel, muss ihn Jude zeigen → K06
+- Priya hat den Artikel, muss ihn Finn zeigen → K06
 
 ### Geschlossen/Vorangetrieben
 - Debate-Beat abgeschlossen: Priya hat sich entschieden mitzumachen — auf ihre eigene Weise
@@ -43,5 +43,5 @@ Priya ist entschlossen und ruhig. Zum ersten Mal an diesem Tag lächelt sie echt
 - Ein einzelnes, namentlich nicht genanntes Gemeinderatsmitglied hat den Abriss durch Einspruch gestoppt ("historisch schützenswert")
 - Das Badehaus hätte seit acht Jahren nicht mehr stehen sollen
 - Priya hat den Originalartikel aus der Ashworth Green Gazette (die Zeitung existiert seit drei Jahren nicht mehr)
-- Archie hat Jude vier Zeichnungen gezeigt (systematisches Beobachtungsprotokoll über drei Wochen) — Priya weiß das jetzt
-- Jude und Archie planen, am Freitag zum Badehaus zurückzukehren
+- Archie hat Finn vier Zeichnungen gezeigt (systematisches Beobachtungsprotokoll über drei Wochen) — Priya weiß das jetzt
+- Finn und Archie planen, am Freitag zum Badehaus zurückzukehren

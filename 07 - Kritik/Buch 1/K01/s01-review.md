@@ -1,7 +1,7 @@
 # Review — K01-S01: Flackern im Nebel
 
 **Szene:** K01-S01
-**POV:** Jude Calloway
+**POV:** Finn Calloway
 **Reviewer-Datum:** 2026-04-09
 **Wortanzahl:** ~1.468 (Ziel: ~1.500)
 
@@ -11,32 +11,32 @@
 
 ### 1. Klarheit — 5/5
 
-Die Szene ist durchgehend verständlich. Der Leser weiß jederzeit, wo Jude ist, was er tut und was passiert. Die räumliche Orientierung (Kanal → Badehaus → Rückweg → Zuhause → Bett) ist klar und natürlich aufgebaut. Der zentrale Vorfall — das Flackern im Fenster — wird präzise und unmissverständlich beschrieben.
+Die Szene ist durchgehend verständlich. Der Leser weiß jederzeit, wo Finn ist, was er tut und was passiert. Die räumliche Orientierung (Kanal → Badehaus → Rückweg → Zuhause → Bett) ist klar und natürlich aufgebaut. Der zentrale Vorfall — das Flackern im Fenster — wird präzise und unmissverständlich beschrieben.
 
 ### 2. Pacing — 4/5
 
-Das Pacing ist stark: Der langsame, atmosphärische Aufbau passt zum Opening Image und gibt dem Leser Zeit, in Ashworth Green anzukommen. Die Spannung steigt organisch zum Flackern hin und bleibt durch den Rückweg und die Betszene erhalten. Kleiner Abzug: Der Mittelteil (Absätze über Judes Alltag, Schule, Zuhause, Zeilen 19–23) ist einen Hauch lang — drei Absätze Exposition, bevor das Badehaus auftaucht. Für ein Jugendbuch (Zielgruppe 10–14) könnte der Einstieg ins Geschehen einen Tick schneller kommen.
+Das Pacing ist stark: Der langsame, atmosphärische Aufbau passt zum Opening Image und gibt dem Leser Zeit, in Ashworth Green anzukommen. Die Spannung steigt organisch zum Flackern hin und bleibt durch den Rückweg und die Betszene erhalten. Kleiner Abzug: Der Mittelteil (Absätze über Finns Alltag, Schule, Zuhause, Zeilen 19–23) ist einen Hauch lang — drei Absätze Exposition, bevor das Badehaus auftaucht. Für ein Jugendbuch (Zielgruppe 10–14) könnte der Einstieg ins Geschehen einen Tick schneller kommen.
 
 ### 3. Charakterstimme — 5/5
 
-Jude klingt exakt wie sein Glossar-Eintrag: ein Beobachter, der nicht loslassen kann, getrieben von Fragen, die er nicht stellt. Die Wachsjacke des Vaters, das Bleistiftkauen, die rastlose Neugier — alles ist organisch eingebaut, ohne aufgesetzt zu wirken. Besonders gelungen: „Das Problem war nur, dass es in letzter Zeit nichts zu denken gab." — das trifft Judes Charakter auf den Punkt.
+Finn klingt exakt wie sein Glossar-Eintrag: ein Beobachter, der nicht loslassen kann, getrieben von Fragen, die er nicht stellt. Die Wachsjacke des Vaters, das Bleistiftkauen, die rastlose Neugier — alles ist organisch eingebaut, ohne aufgesetzt zu wirken. Besonders gelungen: „Das Problem war nur, dass es in letzter Zeit nichts zu denken gab." — das trifft Finns Charakter auf den Punkt.
 
 ### 4. Spannung — 5/5
 
-Für ein Opening Image herausragend. Die Szene schafft es, aus Nichts Spannung zu bauen: Nebel, Stille, Routine — und dann das Flackern, das alles unterbricht. Der Hook am Ende (Jude im Bett, das Flackern hinter seinen Lidern) ist stark und macht neugierig auf S02/K02. Die Stelle „Aber hinter seinen Lidern flackerte es noch" ist ein sehr guter Schluss.
+Für ein Opening Image herausragend. Die Szene schafft es, aus Nichts Spannung zu bauen: Nebel, Stille, Routine — und dann das Flackern, das alles unterbricht. Der Hook am Ende (Finn im Bett, das Flackern hinter seinen Lidern) ist stark und macht neugierig auf S02/K02. Die Stelle „Aber hinter seinen Lidern flackerte es noch" ist ein sehr guter Schluss.
 
 ### 5. Regelkonformität — 4/5
 
 **Eingehalten:**
 - Präteritum durchgehend korrekt.
-- Dritte Person, enger POV auf Jude, keine Brüche.
+- Dritte Person, enger POV auf Finn, keine Brüche.
 - Show don't Tell wird sehr gut umgesetzt (Fäuste ballen, Bleistift zwischen Zähnen, Rost an den Fingern).
 - Keine verbotenen Wörter gefunden (kein „plötzlich", „irgendwie", „bemerkte, dass", „begann zu").
 - Englische Begriffe kursiv gesetzt (*High Street*, *Canal Road*, *Hillcrest Lane*, *Blackthorn Road*, *News & Convenience*, *Danger — Keep Out*).
 - Eigennamen (Ashworth Green, Sharma's) nicht kursiv — korrekt.
 - Mindestens 4 Sinne aktiv: Geruch (Kanal, Kartoffelsuppe, Waschmittel, Wachs), Geräusch (Kiesel, Hund, Taube, Tastatur), Tastsinn (feuchter Zaun, Rost, kalter Tropfen), Sicht (Nebel, Flackern). Hervorragend.
 - Altersgerechte Sprache, kein Horror, angemessene Spannung.
-- Kein Dialog (wie erwartet, Jude ist allein).
+- Kein Dialog (wie erwartet, Finn ist allein).
 
 **Kleinere Punkte:**
 - Zeile 17: „Die Dämmerung hatte sich über Ashworth Green gelegt wie ein feuchtes Tuch" — der Vergleich „wie ein feuchtes Tuch" ist grenzwertig klischeehaft. Nicht schlimm, aber es gibt stärkere Bilder.
@@ -47,7 +47,7 @@ Für ein Opening Image herausragend. Die Szene schafft es, aus Nichts Spannung z
 ## Konsistenzprüfung
 
 ### Plot-Konsistenz
-Stimmt vollständig mit dem Buchplot (Opening Image) und dem Szenenplan überein. Jude geht am Kanal entlang, sieht das Flackern, geht nach Hause, kann es nicht vergessen. Der Hook am Ende bereitet S02 vor.
+Stimmt vollständig mit dem Buchplot (Opening Image) und dem Szenenplan überein. Finn geht am Kanal entlang, sieht das Flackern, geht nach Hause, kann es nicht vergessen. Der Hook am Ende bereitet S02 vor.
 
 ### Charakter-Konsistenz
 Vollständig glossarkonform. Wachsjacke des Vaters, Bleistiftkauen, Beobachtungsgabe, Einzelgänger-Verhalten, rastloser Kopf — alles da. Die Familie (Mum, Bea, abwesender Vater) wird subtil eingeführt. Alter 13 passt zur Darstellung.
@@ -70,7 +70,7 @@ Durchgehend stark. Emotionen werden nie benannt, sondern gezeigt:
 
 2. **Das Badehaus-Bild:** „als hätte jemand einem alten Gesicht die Augen zugenäht" — stark, originell, leicht unheimlich, genau der richtige Ton für die Zielgruppe.
 
-3. **Judes Stimme:** Die Szene klingt nicht nach einem Erwachsenen, der über ein Kind schreibt, sondern nach einem 13-Jährigen, der die Welt beobachtet. „Konnten Tauben Licht machen? Nein. Das war Unsinn." — das ist genau Judes Denkweise.
+3. **Finns Stimme:** Die Szene klingt nicht nach einem Erwachsenen, der über ein Kind schreibt, sondern nach einem 13-Jährigen, der die Welt beobachtet. „Konnten Tauben Licht machen? Nein. Das war Unsinn." — das ist genau Finns Denkweise.
 
 4. **Strukturelle Sicherheit:** Opening Image, emotionaler Bogen, Hook — alles sitzt. Kein Gramm Fett an der Szene.
 
@@ -92,7 +92,7 @@ Oder ganz ohne Vergleich:
 
 ### 2. Mittelteil leicht straffen (Priorität: niedrig)
 
-Die drei aufeinanderfolgenden Absätze (Zeilen 19–23) über Judes Routine (Warum er abends geht / Lärm in der Schule / Nichts zu denken) könnten um 1–2 Sätze gekürzt werden, um schneller zum Badehaus zu kommen. Der Schulabsatz („In der Schule war es zu laut, dreißig Stimmen ...") wiederholt inhaltlich, was bereits durch das Verhalten gezeigt wird. Vorschlag: Den Schulabsatz streichen oder auf einen Satz verdichten — die Schule kommt in S02 ausführlich.
+Die drei aufeinanderfolgenden Absätze (Zeilen 19–23) über Finns Routine (Warum er abends geht / Lärm in der Schule / Nichts zu denken) könnten um 1–2 Sätze gekürzt werden, um schneller zum Badehaus zu kommen. Der Schulabsatz („In der Schule war es zu laut, dreißig Stimmen ...") wiederholt inhaltlich, was bereits durch das Verhalten gezeigt wird. Vorschlag: Den Schulabsatz streichen oder auf einen Satz verdichten — die Schule kommt in S02 ausführlich.
 
 ### 3. „Blind und gleichgültig" (Priorität: sehr niedrig)
 
@@ -115,4 +115,4 @@ Die drei aufeinanderfolgenden Absätze (Zeilen 19–23) über Judes Routine (War
 
 ### Ergebnis: Akzeptiert
 
-Alle Kategorien >= 3, Durchschnitt 4,6. Die Szene erfüllt ihren Zweck als Opening Image hervorragend: Sie etabliert Jude als Charakter, baut Ashworth Green als Ort atmosphärisch auf und setzt mit dem Flackern den ersten Hook. Die drei Verbesserungsvorschläge sind Feinschliff, keine strukturellen Probleme.
+Alle Kategorien >= 3, Durchschnitt 4,6. Die Szene erfüllt ihren Zweck als Opening Image hervorragend: Sie etabliert Finn als Charakter, baut Ashworth Green als Ort atmosphärisch auf und setzt mit dem Flackern den ersten Hook. Die drei Verbesserungsvorschläge sind Feinschliff, keine strukturellen Probleme.
