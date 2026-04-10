@@ -15,7 +15,7 @@ status: lebend
 - **Herkunft:** Ashworth Green, lebt dort seit Jahrzehnten
 
 ## Erscheinung
-Freundlicher älterer Mann. Unauffällig, gepflegt, aber nicht auffallend. Der Typ Nachbar, den man grüßt, ohne viel über ihn zu wissen.
+Freundlicher älterer Mann. Unauffällig, gepflegt, aber nicht auffallend. Schmale Schultern, Tweedjacke über einem Hemd mit Kragen, Haar dünn und silbern, über den Kopf gekämmt. Trägt bei Regen einen Regenschirm, den er sorgfältig ausschüttelt, bevor er eintritt. Der Typ Nachbar, den man grüßt, ohne viel über ihn zu wissen — „wie eine Figur aus einem Buch, das in der Schule keiner lesen wollte."
 
 ## Persönlichkeit
 Höflich, zurückhaltend, freundlich. Erzählt nie viel von sich. Stammkunde bei Sharma's News. Wirkt harmlos — aber sein Schweigen hat Gründe. Unter Druck wird er nervös und verschlossen.
@@ -42,3 +42,4 @@ Hat offenbar eine Verbindung zur Geschichte von Ashworth Green und insbesondere 
 ## Notizen
 - Erstes Auftreten: Buch 2, K04
 - Verbindung zum Sammler-Strang: Colworths Sammlung ist das, was der Sammler haben will
+- B2-K04: Stammkunde bei Sharma's — jeden Morgen gegen Viertel nach sieben, *Bristol Post* unter dem Arm, fünfzig Pence für eine Rolle Pfefferminzbonbons, Betrag immer passend. Kommt ins Gemeindezentrum, bringt Plastiktüte mit Büchern, Messingkerzenständer und Jagdmotiv-Untersetzern. Identifiziert seinen Bilder-Karton (gestern bei Mrs. Alcott abgegeben). Reagiert subtil eigenartig auf das Ölgemälde: Blick bleibt hängen, Augen verengen sich, Lächeln kommt eine Sekunde zu spät zurück. Behauptet, es sei „wahrscheinlich vom Flohmarkt" — antwortet zu schnell (Priya bemerkt den Unterschied). Schlägt den Kragen der Tweedjacke gegen den Nieselregen hoch.

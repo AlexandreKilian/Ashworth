@@ -26,25 +26,23 @@ Archies Atem ging flach und leise, irgendwo rechts von ihm. Finn hörte ihn nur,
 
 Die Stimmen wurden lauter.
 
-Nicht, weil sie schrien. Weil sie näherkamen. Schritte, schwerer jetzt, und ein Geräusch, das Finn nach einem Herzschlag einordnete: jemand kam die Treppe herunter. Die viktorianische Kellertreppe — die staubfreie, die nach Chemie roch, die sie vor zwei Wochen nicht hinuntergegangen waren, weil Priya gesagt hatte: *Nicht heute.*
+Nicht, weil sie schrien. Weil sie näherkamen. Schritte, schwerer jetzt, und ein Geräusch, das Finn nach einem Herzschlag einordnete: jemand kam die Treppe herunter. Die viktorianische Kellertreppe — die staubfreie, die nach Chemie roch, die sie vor zwei Wochen nicht hinuntergegangen waren, weil Priya gesagt hatte: _Nicht heute._
 
 Ein Lichtschein fraß sich in den Tunnel. Schwach, vom anderen Ende, wo der Keller in den gemauerten Gang überging. Kein Taschenlampenstrahl, eher das diffuse Flackern einer Arbeitsleuchte. Es leckte um die Biegung des Tunnels und warf lange, zitternde Schatten auf die Steinwände.
 
 Die Kisten neben ihnen. Die Nummern auf dem hellen Holz. Der Zellophan-Geruch.
 
-Finn dachte drei Gedanken gleichzeitig, und alle drei sagten dasselbe: *Weg.*
+Finn dachte drei Gedanken gleichzeitig, und alle drei sagten dasselbe: _Weg._
 
 Nicht zurück zur Luke. Die Luke lag in Richtung der Stimmen, oben am Beckenrand, offen, ein Loch im Boden, das alles verriet. Wenn sie zur Luke gingen, liefen sie den Stimmen entgegen. Wenn sie die Luke schlossen, hörte man es. Wenn sie sie offenließen —
 
-*Wenn sie sie offenließen, wussten die Schmuggler, dass jemand da gewesen war.*
+_Wenn sie sie offenließen, wussten die Schmuggler, dass jemand da gewesen war._
 
 Das spielte jetzt keine Rolle. Jetzt spielte nur eine Sache eine Rolle.
 
 Er drehte den Kopf in die Richtung, aus der es zog. Kalt und feucht, ein dünner Luftstrom, der nach Kanal roch — Schlamm und Moos und die brackige Kühle von stehendem Wasser. Der Tunnel führte dorthin. Zum Kanal. Zum Ausgang.
 
 Finn streckte die Hand aus und fand Archies Schulter. Mager und knochig unter dem dünnen Stoff. Er drückte einmal. Archie verstand.
-
-Archie verstand immer im Dunkeln.
 
 Er schob sich an Finn vorbei, lautlos. Finn spürte die Bewegung mehr als er sie hörte — eine Verschiebung der Luft, das Rascheln von Stoff an Stein, dann nichts. Archies Hand fand Finns Handgelenk und zog. Leicht, bestimmt, eine Richtung, kein Zögern.
 

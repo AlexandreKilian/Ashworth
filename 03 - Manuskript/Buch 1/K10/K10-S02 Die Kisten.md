@@ -64,8 +64,6 @@ Stille. Das Tropfen des Wassers irgendwo in der Dunkelheit. Archies Atem.
 
 Dann lächelte Priya. Ein langsames, breites Lächeln, das sie drei Wochen lang aufgespart hatte — seit dem Tag, an dem Finn auf dem Schulhof von dem wandernden Licht erzählt und sie gesagt hatte: _Ich weiß nicht, ob ich kann._
 
-„Ja", sagte sie. „Hatten wir."
-
 Archie klappte sein Skizzenbuch zu und presste es gegen die Brust. Er sagte nichts, aber er nickte — ein ganzes, volles Nicken, nicht halb, nicht vorsichtig. Das Nicken eines Jungen, der drei Wochen lang im Dunkeln gezeichnet und gezählt und beobachtet hatte und der jetzt zum ersten Mal sah, wozu das alles gut gewesen war.
 
 Finn sah von einem zum anderen. Priyas Lächeln. Archies Nicken. Die Kisten hinter ihnen, nummeriert und verpackt und _real_. Ein Beweis, den niemand wegreden konnte. Sie hatten gesucht, und sie hatten gefunden. Drei Dreizehnjährige — na gut, ein Zwölfjähriger und zwei Dreizehnjährige — in einem Tunnel unter einem verlassenen Badehaus, und sie hatten recht gehabt. Die ganze Zeit.
