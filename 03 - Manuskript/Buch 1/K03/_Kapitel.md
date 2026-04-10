@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 03 — Der Zeichner am Kanal
+# Der Zeichner am Kanal
 
 ## Zusammenfassung
 

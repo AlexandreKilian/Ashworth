@@ -24,7 +24,7 @@ Der Kanal roch nach Herbst. Nach nassem Laub, nach Schlamm, nach dem metallische
 
 Er kaute auf dem Bleistift. Die Zahnspuren passten genau in die alten Rillen. Ein Rhythmus, der zum Gehen gehörte.
 
-Er hatte sich das die ganze Woche vorgenommen. Seit Donnerstag, seit dem Flackern hinter dem zugemauerten Fenster, das ihm nicht mehr aus dem Kopf ging. *Kein Autoscheinwerfer. Kein Reflex. Von innen.* Er hatte es sich wieder und wieder vorgesagt, abends im Bett, morgens unter der Dusche, in der Schule, wenn Mr. Pemberton über Bruchrechnung redete und Finns Gedanken längst am Kanal entlangliefen.
+Er hatte sich das vorgenommen. Seit gestern, seit dem Flackern hinter dem zugemauerten Fenster, das ihm nicht mehr aus dem Kopf ging. *Kein Autoscheinwerfer. Kein Reflex. Von innen.* Er hatte es sich wieder und wieder vorgesagt, abends im Bett, morgens unter der Dusche, in der Schule, wenn Mr. Pemberton über Bruchrechnung redete und Finns Gedanken längst am Kanal entlangliefen.
 
 Das Badehaus materialisierte sich aus der Dunkelheit. Erst das Dach — die Skelette der Eisenstreben, die sich gegen den wolkenverhangenen Himmel abzeichneten. Dann die Fassade, dunkler Backstein, fast schwarz. Die zugemauerten Bogenfenster, die blinden Augen. Der Efeu an der Nordseite, der sich im schwachen Licht nicht von Schatten unterschied.
 

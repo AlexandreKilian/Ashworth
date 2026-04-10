@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 08 — Spuren lesen
+# Spuren lesen
 
 ## Zusammenfassung
 

@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 02 — Hinter der Theke
+# Hinter der Theke
 
 ## Zusammenfassung
 

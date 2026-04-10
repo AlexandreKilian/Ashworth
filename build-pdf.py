@@ -83,7 +83,9 @@ def get_chapter_title(chapter_dir: str) -> str:
         content = f.read()
     m = re.search(r"^# (.+)$", content, re.MULTILINE)
     if m:
-        return m.group(1).strip()
+        title = m.group(1).strip()
+        title = re.sub(r"^Kapitel\s+\d+\s*[—–-]\s*", "", title)
+        return title
     return os.path.basename(chapter_dir)
 
 
@@ -102,6 +104,7 @@ def extract_scene_text(filepath: str) -> str:
     text = strip_frontmatter(text)
     text = strip_footer_meta(text)
     text = re.sub(r"^# .+\n+", "", text)
+    text = re.sub(r"^\* \* \*\s*\n*", "", text)
     return text.strip()
 
 
@@ -180,7 +183,7 @@ class ManuscriptPDF(FPDF):
         self.ln(30)
         self.set_font(FONT_NAME, "B", 14)
         self.cell(0, LINE_HEIGHT, title, align="C", new_x="LMARGIN", new_y="NEXT")
-        self.ln(15)
+        self.ln(25)
         self.set_font(FONT_NAME, "", FONT_SIZE)
 
     def scene_separator(self):

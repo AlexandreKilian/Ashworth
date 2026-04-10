@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 14 — Stille Striche
+# Stille Striche
 
 ## Zusammenfassung
 

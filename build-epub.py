@@ -49,7 +49,7 @@ body {
 h1 {
     text-align: center;
     margin-top: 3em;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
     page-break-before: always;
 }
 h2 {
@@ -109,7 +109,9 @@ def get_chapter_title(chapter_dir: str) -> str:
         content = f.read()
     m = re.search(r"^# (.+)$", content, re.MULTILINE)
     if m:
-        return m.group(1).strip()
+        title = m.group(1).strip()
+        title = re.sub(r"^Kapitel\s+\d+\s*[—–-]\s*", "", title)
+        return title
     return os.path.basename(chapter_dir)
 
 
@@ -125,6 +127,7 @@ def extract_scene_text(filepath: str) -> str:
     text = strip_frontmatter(text)
     text = strip_footer_meta(text)
     text = re.sub(r"^# .+\n+", "", text)
+    text = re.sub(r"^\* \* \*\s*\n*", "", text)
     return text.strip()
 
 

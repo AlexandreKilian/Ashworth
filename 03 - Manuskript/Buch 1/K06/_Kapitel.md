@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 06 — Drei am Kanal
+# Drei am Kanal
 
 ## Zusammenfassung
 

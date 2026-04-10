@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 09 — Grundriss
+# Grundriss
 
 ## Zusammenfassung
 

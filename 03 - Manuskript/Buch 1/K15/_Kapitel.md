@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 15 — Die Falle
+# Die Falle
 
 ## Zusammenfassung
 

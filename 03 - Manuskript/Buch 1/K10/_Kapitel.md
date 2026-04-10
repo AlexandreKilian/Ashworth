@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 10 — Unter dem Becken
+# Unter dem Becken
 
 ## Zusammenfassung
 

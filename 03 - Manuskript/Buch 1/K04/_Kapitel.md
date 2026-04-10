@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 04 — Die morsche Planke
+# Die morsche Planke
 
 ## Zusammenfassung
 

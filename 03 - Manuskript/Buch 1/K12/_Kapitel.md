@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 12 — Der Mann auf der Straße
+# Der Mann auf der Straße
 
 ## Zusammenfassung
 

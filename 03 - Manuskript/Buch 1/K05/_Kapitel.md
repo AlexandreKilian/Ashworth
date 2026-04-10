@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 05 — Kein Platz für Neugier
+# Kein Platz für Neugier
 
 ## Zusammenfassung
 

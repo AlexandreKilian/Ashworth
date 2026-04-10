@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 01 — Nebel am Kanal
+# Nebel am Kanal
 
 ## Zusammenfassung
 

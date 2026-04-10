@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 07 — Die Elster
+# Die Elster
 
 ## Zusammenfassung
 

@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 13 — Eingesperrt
+# Eingesperrt
 
 ## Zusammenfassung
 

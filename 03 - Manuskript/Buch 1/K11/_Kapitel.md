@@ -5,7 +5,7 @@ tags:
 status: entwurf
 ---
 
-# Kapitel 11 — Zu viele Fragen
+# Zu viele Fragen
 
 ## Zusammenfassung
 
