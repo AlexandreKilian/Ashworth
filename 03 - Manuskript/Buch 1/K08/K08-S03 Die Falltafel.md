@@ -30,7 +30,7 @@ Finn nahm den Bleistift aus dem Mund. „Das ist kein Geist." Sein Blick war sch
 
 Archie stand auf. Er strich sich das Haar aus der Stirn. „Wofür?"
 
-Keiner antwortete. Das Kratzen der Taubenkrallen war das einzige Geräusch.
+Keiner antwortete.
 
 „Noch nicht", sagte Priya.
 
@@ -58,6 +58,6 @@ Die Worte kamen leicht, als hätte sie sie schon hundertmal gesagt. Aber es war 
 
 Finn hob den Bleistift wie einen Gruß. Archie sah auf und nickte — kein halbes Nicken diesmal, ein ganzes.
 
-Priya stieg die schmalen Stufen hoch, über den knarrenden Steg ans Ufer. Die Sonne stand tief, und das Kanalwasser glänzte kupfern. Sie ging schnell, die Hände an den Rucksackträgern, Richtung Laden.
+Priya stieg an Deck und über den Steg ans Ufer. Die Sonne stand tief, und das Kanalwasser glänzte kupfern. Sie ging schnell, die Hände an den Rucksackträgern, Richtung Laden.
 
 Hinter ihr lag *The Magpie*, still und dunkelgrün im Schatten der Uferbäume. Und darin eine Pinnwand, die voller wurde.

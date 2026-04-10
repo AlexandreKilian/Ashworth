@@ -14,7 +14,7 @@ ziel: Archies Konfrontationsangst auf dem Höhepunkt zeigen. Setup für seinen R
 
 Der Treidelpfad war leer.
 
-Archie ging mit gesenktem Kopf, die Hände in den Jackentaschen, das Skizzenbuch unter den Arm geklemmt. Seine Chucks machten keinen Laut auf dem feuchten Schotter. Hinter ihm lag die *Magpie*, und er drehte sich nicht um.
+Archie ging mit gesenktem Kopf, die Hände in den Jackentaschen, das Skizzenbuch unter den Arm geklemmt. Seine Schritte waren lautlos auf dem Schotter. Hinter ihm lag die *Magpie*, und er drehte sich nicht um.
 
 *Und deine Freunde auch.*
 

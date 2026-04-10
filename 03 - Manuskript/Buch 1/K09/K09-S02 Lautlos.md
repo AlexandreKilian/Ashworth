@@ -22,7 +22,7 @@ Sechs. Vier. Elf. Richtig.
 
 Das Tropfen kam von überall und nirgends. Wasser, das irgendwo durch das offene Dach sickerte und auf Fliesen fiel — ein unregelmäßiger Rhythmus, der die Stille nicht brach, sondern vertiefte. Tauben raschelten in den Stahlstreben, leises Gurren, das Geräusch von Krallen auf Metall. Sein eigener Atem. Sonst nichts.
 
-Archie ging weiter. Die Chucks machten keinen Laut auf den feuchten Fliesen.
+Archie ging weiter. Kein Laut auf den feuchten Fliesen.
 
 Im Schwimmbeckenraum war es heller. Das offene Dach ließ den Himmel herein — keine Wolken, ein halber Mond, der die Stahlstreben als dünne Schatten auf den Beckenboden zeichnete. Die grün-weißen Fliesen schimmerten grau im Mondlicht, das Schachbrettmuster verzerrt durch Risse und die Farnwedel, die in den Fugen wuchsen. Am tiefen Ende stand die Pfütze Regenwasser wie ein schwarzer Spiegel.
 
@@ -46,7 +46,7 @@ Er richtete sich auf und wiederholte es an einer anderen Stelle. Dasselbe. Jeman
 
 Archie stand reglos und horchte. Tropfen. Tauben. Sein Atem, der schneller ging als vorhin. Er zwang ihn langsamer.
 
-Er zog das Skizzenbuch heraus und zeichnete blind — den Durchgang hinter den Kabinen, die Abknickung, die niedrige Tür, den Raum. Die Proportionen würde er später korrigieren. Die Tatsache, dass es diesen Raum gab, war wichtiger als seine Maße.
+Er zog das Buch heraus und zeichnete blind — den Durchgang hinter den Kabinen, die Abknickung, die niedrige Tür, den Raum. Die Proportionen würde er später korrigieren. Die Tatsache, dass es diesen Raum gab, war wichtiger als seine Maße.
 
 *Sauber gewischt*, notierte er am Rand. Dann ein Fragezeichen.
 
@@ -66,7 +66,7 @@ Vier Meter minus einen halben. Dreieinhalb Meter, die nirgendwo hingehörten.
 
 Er zeichnete die Zahlen neben den Grundriss, klein und eng, seine Handschrift, die nur er lesen konnte. Dann schraffierte er den Bereich hinter der Wand am tiefen Ende. Ein Hohlraum. Oder ein Raum, der nicht auf dem Grundriss existierte. Wie der Nebenraum hinter den Umkleiden — nur größer.
 
-Die feuchte Kälte kroch durch seine Jacke. Er merkte es erst jetzt, weil er stillstand. Im Gehen hatte er sie nicht gespürt. Ein Tropfen fiel irgendwo links von ihm, laut in der Stille, und eine Taube flatterte auf, ein Schatten, der über die Mondstreifen am Boden huschte.
+Die feuchte Kälte kroch durch seine Jacke. Er merkte es erst jetzt, weil er stillstand. Im Gehen hatte er sie nicht gespürt. Ein Tropfen fiel irgendwo links von ihm, laut in der Stille, und etwas raschelte oben im Stahlgerippe.
 
 Archie wartete. Zählte. Dreißig Sekunden. Keine weiteren Geräusche. Nur das Tropfen und sein Atem.
 

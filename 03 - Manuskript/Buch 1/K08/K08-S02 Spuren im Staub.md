@@ -42,7 +42,7 @@ Finn grinste. „Nummer zwei sind die Reifenspuren."
 
 „Dafür haben wir Archie."
 
-Archie klappte das Skizzenbuch zu und stand auf. Kein Kommentar, aber seine Mundwinkel zuckten.
+Archie klappte das Buch zu und stand auf. Kein Kommentar, aber seine Mundwinkel zuckten.
 
 Dann der Seiteneingang. Archie ging voraus, durch den engen Durchgang zwischen Badehaus und Brauereimauer. Er warnte Finn mit einer Handbewegung vor der morschen Planke, und Finn stieg darüber, ohne zu zögern. Am Seiteneingang kniete Archie sich vor das Squire-Vorhängeschloss. Daumen am Bügel, Zeigefinger am Korpus. Er brauchte keine zehn Sekunden. Kein Zittern diesmal, keine zögernden Finger. Seine Hände arbeiteten ruhig, als würde er einen Schnürsenkel binden.
 
@@ -74,11 +74,11 @@ Finn stand neben ihr. Er kaute nicht mehr auf dem Bleistift. „Zwischen Freitag
 
 Stille. Das Gurren der Tauben klang auf einmal sehr laut.
 
-Archie war weitergelaufen, lautlos in seinen schwarzen *Chucks*. Er stand am hinteren Ende der Eingangshalle, vor einer Tür, die Priya letzte Woche kaum beachtet hatte. Ein Nebenraum — Hausmeisterbüro oder Lager, schwer zu sagen. Archie stand reglos davor und starrte auf den Türriegel.
+Archie war weitergelaufen, lautlos. Er stand am hinteren Ende der Eingangshalle, vor einer Tür, die Priya letzte Woche kaum beachtet hatte. Ein Nebenraum — Hausmeisterbüro oder Lager, schwer zu sagen. Archie stand reglos davor und starrte auf den Türriegel.
 
 „Kommt mal her."
 
-Priya und Finn gingen zu ihm. Archie zeigte auf das Schloss am Riegel. Kein Squire. Dieses Schloss war kleiner und schwerer, aus blankem Metall, das im Sonnenlicht glänzte. Kein Rost, kein Schmutz, keine Kratzer. Priya konnte die Prägung auf dem Korpus lesen: *ABUS*.
+Priya und Finn gingen zu ihm. Archie zeigte auf das Schloss am Riegel. Kein Squire. Dieses Schloss war kleiner und schwerer, aus blankem Metall, das im Sonnenlicht glänzte. Kein Rost, kein Schmutz, keine Kratzer. Priya konnte die Prägung auf dem Korpus lesen: _ABUS_.
 
 „Das ist neu", sagte Archie. Seine Stimme war leise, aber sicher. „H-höchstens ein paar Monate." Er beugte sich vor und betrachtete das Schloss, ohne es zu berühren. „Nicht Squire. ABUS. Teurer. Schwerer zu öffnen."
 

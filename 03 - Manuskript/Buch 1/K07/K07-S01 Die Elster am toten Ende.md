@@ -52,7 +52,7 @@ Archie setzte sich auf die Bank, das Skizzenbuch auf den Knien. „Letzten S-Som
 
 Er redete. Nicht viel, nicht schnell — aber mehr als sonst. Zeigte ihnen, wo das Dach dicht war und wo nicht. Wo man auftreten durfte und wo besser nicht. Wie das Wasser gegen den Rumpf schlug, wenn ein Lastkahn weiter oben im Kanal wendete, und wie man das Geräusch von Regen auf dem Dach unterschied. Seine Stimme war ruhig und gleichmäßig. Das Stottern kam nur einmal, als er erklärte, warum er ihnen das Boot zeigte, und dann brach er den Satz ab und zeigte stattdessen auf die Pinnwand aus Kork, die er an die Kabinenwand geschraubt hatte. Leer. Bereit.
 
-Finn lehnte sich gegen die gegenüberliegende Wand. Das Holz war kühl durch die Wachsjacke hindurch. Er sah Archie an, der auf der Bank saß, das Skizzenbuch auf den Knien wie einen Schild, und zum ersten Mal nicht wegsah.
+Finn lehnte sich gegen die gegenüberliegende Wand. Das Holz war kühl durch die Wachsjacke hindurch. Er sah Archie an, der auf der Bank saß, das Buch auf den Knien wie einen Schild, und zum ersten Mal nicht wegsah.
 
 Das hier war nicht irgendein Versteck. Nicht irgendein Ort, den Archie zufällig gefunden hatte. Das hier war sein Ort. Sein Rückzugsort. Und er hatte sie hergebracht.
 

@@ -72,7 +72,7 @@ Finn öffnete den Mund. Er wollte etwas sagen — es tut mir leid, oder wir find
 
 Archie drehte sich um.
 
-Er ging den Kanalweg entlang, Richtung Cottage, und seine Chucks machten keinen Laut auf dem feuchten Asphalt. Er drehte sich nicht um. Nicht nach fünf Schritten. Nicht nach zehn. Er ging, und die Dunkelheit nahm ihn auf, und er blieb nicht stehen.
+Er ging den Kanalweg entlang, Richtung Cottage, lautlos. Er drehte sich nicht um. Nicht nach fünf Schritten. Nicht nach zehn. Er ging, und die Dunkelheit nahm ihn auf, und er blieb nicht stehen.
 
 Priya stand neben Finn. Ihr Rucksack hing an einer Schulter, schief und halb offen, und sie sah Archie nach, bis er nicht mehr zu sehen war.
 
@@ -88,7 +88,7 @@ Der Kanalweg war leer. Das Wasser lag schwarz und still, und das Badehaus stand 
 
 Es war fertig mit ihnen.
 
-Er stand da, die Wachsjacke durchnässt, die Hände in den Taschen, und in den Taschen war nur sein Handy mit der leeren Galerie und ein Bleistift mit Zahnspuren und sonst nichts.
+Er stand da, die Jacke durchnässt, die Hände in den Taschen, und in den Taschen war nur sein Handy mit der leeren Galerie und ein Bleistift mit Zahnspuren und sonst nichts.
 
 *Ich habe sie hergebracht.*
 

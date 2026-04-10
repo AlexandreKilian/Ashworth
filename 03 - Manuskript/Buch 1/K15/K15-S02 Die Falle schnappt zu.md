@@ -80,7 +80,7 @@ Es fühlte sich leiser an, als sie erwartet hatte. Kein Jubel in ihrer Brust, ke
 
 „Okay", sagte sie. Das Wort kam ruhig, fast tonlos. Für sich.
 
-Sie griff nach dem Rucksack, schob den Riemen über die Schulter und kroch rückwärts die Böschung hinauf. Finn folgte, die Wachsjacke an den Brombeeren zerrend. Archie kam als Letzter — lautlos, die Chucks tasteten sich über die feuchte Erde, ohne ein Geräusch.
+Sie griff nach dem Rucksack, schob den Riemen über die Schulter und kroch rückwärts die Böschung hinauf. Finn folgte, die Wachsjacke an den Brombeeren zerrend. Archie kam als Letzter, lautlos über die feuchte Erde.
 
 Am oberen Rand der Böschung blieben sie stehen. Unter ihnen, durch das Geflecht der Brombeerzweige, flackerte blaues Licht über das schwarze Kanalwasser. Die Stimmen der Beamten waren nur noch ein Murmeln.
 

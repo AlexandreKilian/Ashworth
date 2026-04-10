@@ -74,6 +74,6 @@ Archie klappte das Skizzenbuch zu und stand auf.
 
 Finn war schon an der Tür.
 
-Die drei stiegen die schmalen Stufen hoch, über den knarrenden Steg ans Ufer und den Kanalweg entlang. Die Sonne stand schräg über den Bäumen, und das Licht fiel in langen Streifen über das Wasser. Irgendwo rief eine Krähe. Priya ging voraus, den Rucksack auf beiden Schultern, die Hände an den Trägern. Hinter ihr Finn, Hände in den Jackentaschen, und Archie, lautlos in seinen schwarzen *Chucks*.
+Die drei stiegen die schmalen Stufen hoch, über den knarrenden Steg ans Ufer und den Kanalweg entlang. Die Sonne stand schräg über den Bäumen, und das Licht fiel in langen Streifen über das Wasser. Irgendwo rief eine Krähe. Priya ging voraus, den Rucksack auf beiden Schultern, die Hände an den Trägern. Hinter ihr Finn, Hände in den Jackentaschen, und Archie, lautlos wie immer.
 
 Richtung Badehaus. Bei Tageslicht. Zum ersten Mal als Team mit einem Plan.

@@ -92,7 +92,7 @@ Er hörte Priya atmen. Schnell, aber regelmäßig, in einem Rhythmus, den sie si
 
 Archie atmete nicht. Oder so leise, dass Finn es nicht hörte.
 
-Er lehnte sich mit dem Rücken an die Wand. Der Stein war kühl und glatt, sauber gewischt, und er erinnerte sich an Archies Randnotiz im Skizzenbuch: *Sauber gewischt?* Das Fragezeichen. Die Verwunderung. Das Skizzenbuch, das jetzt in der Jackentasche eines Mannes steckte, der keine Fragen stellte, weil er die Antworten nicht brauchte.
+Er lehnte sich mit dem Rücken an die Wand. Der Stein war kühl und glatt, sauber gewischt, und er erinnerte sich an Archies Randnotiz im Skizzenbuch: *Sauber gewischt?* Das Fragezeichen. Die Verwunderung. Das Buch, das jetzt in der Jackentasche eines Mannes steckte, der keine Fragen stellte, weil er die Antworten nicht brauchte.
 
 *Meine Schuld.*
 

@@ -18,7 +18,7 @@ Priyas Taschenlampe wanderte über die Wände, und das Badehaus öffnete sich wi
 
 Die Eingangshalle. Archie blieb stehen und ließ seinen Blick kreisen, so wie er es tat, bevor er den Stift ansetzte — Proportionen zuerst, dann Details. Der Raum war höher, als er erwartet hatte. Sechs, vielleicht sieben Meter bis zur Decke. Links ein Kassenhäuschen aus Gusseisen, der Lack abgeblättert bis auf rostbraunes Metall, das Fensterchen eine dunkle Öffnung wie ein geschlossenes Auge. Rechts eine Wand, an der sich die Farbe in langen Bahnen löste — cremeweiß über moosgrün über nacktem Putz. Wie Baumrinde, dachte Archie. Wie die Schichten eines Baumstamms, nur umgekehrt.
 
-Unter seinen Sohlen knirschte Putzstaub. Die Luft war schwer und feucht, mit dem süßlichen Geruch von Taubendreck und dem scharfen Hauch, den er schon an der Tür bemerkt hatte. Hier drinnen war er stärker. Nicht viel, aber genug, um falsch zu sein.
+Unter seinen Sohlen knirschte Putzstaub. Die Luft war schwer und feucht, mit dem scharfen Hauch, den er schon an der Tür bemerkt hatte. Hier drinnen war er stärker. Nicht viel, aber genug, um falsch zu sein.
 
 Finn war schon voraus. Sein Schatten glitt durch den Lichtkegel, lang und schmal, und verschwand hinter einem Bogen. Priya folgte in gleichmäßigem Schritt, den Rucksack über beide Schultern gezogen, die Taschenlampe ruhig wie ein dritter Arm.
 
@@ -104,4 +104,4 @@ Drei Wochen lang hatte er dieses Gebäude allein gezeichnet, aus der Ferne, durc
 
 Jetzt war er drin gewesen. Und er wusste: Das, was in diesem Gebäude schlief, konnte er nicht allein zeichnen. Dafür brauchte er die anderen.
 
-Er klemmte das Skizzenbuch unter den Arm und ging ihnen nach.
+Er klemmte das Buch unter den Arm und ging ihnen nach.

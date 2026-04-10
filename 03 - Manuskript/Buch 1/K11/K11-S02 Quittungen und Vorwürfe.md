@@ -70,7 +70,7 @@ Priya nickte. Ihre Kehle war zu eng für Worte.
 
 „Geh hoch", sagte ihr Vater. „Wir reden morgen."
 
-Sie ging. An ihrer Mutter vorbei, die zur Seite trat, ohne sie zu berühren. Die Treppe hoch, dritte Stufe, Knarren, vierte Stufe, fünfte. Der Flur roch nach Abendessen — Daal und Reis, der Geruch, der sonst Heimat bedeutete und heute nach Schuld roch. Ravis Zimmertür war geschlossen, Musik dahinter, gedämpfter Bass.
+Sie ging. An ihrer Mutter vorbei, die zur Seite trat, ohne sie zu berühren. Die Treppe hoch, jede Stufe laut unter ihren Füßen. Der Flur roch nach Abendessen — Daal und Reis, der Geruch, der sonst Heimat bedeutete und heute nach Schuld roch. Ravis Zimmertür war geschlossen, Musik dahinter, gedämpfter Bass.
 
 Ihr Zimmer. Die Tür fiel ins Schloss.
 

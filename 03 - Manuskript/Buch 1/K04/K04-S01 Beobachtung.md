@@ -36,7 +36,7 @@ Zehn Schritte vom Gebäude entfernt fand er seine Position. Hinter einer Gruppe 
 
 Jetzt warten.
 
-Die Minuten krochen. Finn spürte die Kälte durch die Wachsjacke, durch den Pullover darunter, bis auf die Haut. Sein Atem bildete kleine Wolken, die der Wind sofort zerriss. Er starrte auf die Fassade, auf die zugemauerten Fenster, auf die Seitentür, die er von hier aus gerade erkennen konnte — der schmale Durchgang zwischen Badehaus und Brauereimauer, die grüne Tür mit der abgeblätterten Farbe, das Vorhängeschloss am Riegel. Alles dunkel. Alles still.
+Die Minuten krochen. Finn spürte die Kälte durch den Stoff, durch den Pullover darunter, bis auf die Haut. Sein Atem bildete kleine Wolken, die der Wind sofort zerriss. Er starrte auf die Fassade, auf die zugemauerten Fenster, auf die Seitentür, die er von hier aus gerade erkennen konnte — der schmale Durchgang zwischen Badehaus und Brauereimauer, die grüne Tür mit der abgeblätterten Farbe, das Vorhängeschloss am Riegel. Alles dunkel. Alles still.
 
 Fünf Minuten. Zehn.
 

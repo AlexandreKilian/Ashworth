@@ -68,7 +68,7 @@ Archie blieb stehen. Die Frauen sahen ihn an. Der Hund bellte. Eine der Frauen h
 
 Er drehte sich um, ging zurück zur Mauer, nahm den Rucksack und schulterte ihn. Seine Hände zitterten, aber das lag nicht an der Kälte.
 
-Die Kanalmauer war kalt geworden unter seinen Fingern. Er ging los, Richtung Cottage, den Treidelpfad entlang. Seine Chucks machten kein Geräusch auf dem Schotter.
+Die Kanalmauer war kalt geworden unter seinen Fingern. Er ging los, Richtung Cottage, den Treidelpfad entlang. Seine Schritte machten kein Geräusch auf dem Schotter.
 
 Auf halber Strecke blieb er stehen. Drehte sich um.
 

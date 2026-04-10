@@ -40,7 +40,7 @@ Ted drehte das Skizzenbuch zu sich und betrachtete die Zeichnung mit zusammengek
 
 Archie hob den Blick. „K-keine?"
 
-„Keine." Ted legte das Skizzenbuch zurück und griff wieder zum Schloss. „Das war kein Bad, als sie es gebaut haben. Das war ein Lagerhaus. Achtzehntes Jahrhundert, als der Kanal noch in Betrieb war. Waren kamen mit den *Narrowboats* rein, Kohle, Wolle, Werkzeug, wurden dort gelagert, und Kutschen haben es auf der anderen Seite abgeholt." Er drehte den Schraubenzieher eine halbe Umdrehung. „Kanal auf der einen Seite, Straße auf der anderen. Deshalb steht das Ding da, wo es steht."
+„Keine." Ted legte es zurück und griff wieder zum Schloss. „Das war kein Bad, als sie es gebaut haben. Das war ein Lagerhaus. Achtzehntes Jahrhundert, als der Kanal noch in Betrieb war. Waren kamen mit den *Narrowboats* rein, Kohle, Wolle, Werkzeug, wurden dort gelagert, und Kutschen haben es auf der anderen Seite abgeholt." Er drehte den Schraubenzieher eine halbe Umdrehung. „Kanal auf der einen Seite, Straße auf der anderen. Deshalb steht das Ding da, wo es steht."
 
 Die Bohnen auf Archies Teller waren kalt geworden. Ein dünner Film hatte sich auf der Soße gebildet, orange und glänzend.
 
@@ -78,7 +78,7 @@ Ted lachte leise. Es war das gleiche Vielleicht, das Archie für alles benutzte,
 
 Archies Zimmer lag unterm Dach, schräge Wände, ein Bett, ein Stuhl, ein Regal voller Skizzenbücher. An den Wänden hingen Zeichnungen, der Kanal bei Sonnenuntergang, *The Magpie* an ihrem Liegeplatz, eine Krähe auf dem Zaun vor dem Cottage. Die Dachschräge drückte den Raum klein, aber das war in Ordnung. Archie mochte kleine Räume.
 
-Er lag auf dem Bett, das Skizzenbuch auf der Brust. Es drückte ein wenig, das Gewicht von hundert Zeichnungen.
+Er lag auf dem Bett, das Buch auf der Brust. Es drückte ein wenig, das Gewicht von hundert Zeichnungen.
 
 Durch das Dachfenster sah er den Himmel, dunkelblau, fast schwarz, und den schwachen Schimmer des Kanals. Wenn er den Kopf drehte, nach rechts, Kinn zur Schulter, konnte er die Silhouette des Badehauses sehen.
 

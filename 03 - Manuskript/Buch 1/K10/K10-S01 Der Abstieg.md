@@ -16,9 +16,9 @@ Das Squire-Schloss klickte, und Archie schob es in seine Jackentasche, als wäre
 
 Die Seitentür schwang lautlos auf — geölte Angeln, kein Quietschen, wie jedes Mal. Archie trat zur Seite und ließ Finn und Priya vor. Dann zog er die Tür hinter sich zu und wartete, bis der Riegel sauber einrastete.
 
-Drinnen roch es nach feuchtem Stein und Taubendreck. Das Mondlicht fiel durch das offene Stahlstreben-Gerippe, wo früher das Glasdach gewesen war, und zeichnete dünne Streifen auf die Fliesen der Eingangshalle. Das Kassenhäuschen warf einen harten Schatten über den Boden. Alles wie beim letzten Mal — und doch anders, weil sie diesmal nicht hier stehen bleiben würden.
+Drinnen roch es nach feuchtem Stein. Das Mondlicht fiel durch das offene Stahlstreben-Gerippe, wo früher das Glasdach gewesen war, und zeichnete dünne Streifen auf die Fliesen der Eingangshalle. Das Kassenhäuschen warf einen harten Schatten über den Boden. Alles wie beim letzten Mal — und doch anders, weil sie diesmal nicht hier stehen bleiben würden.
 
-Archie ging voraus. Seine Chucks machten kein Geräusch auf den Fliesen, und im Halbdunkel war er kaum mehr als ein Umriss, der sich zwischen den Schatten bewegte. Am Beckenrand blieb er stehen und drehte sich um.
+Archie ging voraus. Im Halbdunkel war er kaum mehr als ein Umriss, der sich zwischen den Schatten bewegte. Am Beckenrand blieb er stehen und drehte sich um.
 
 „H-hier."
 

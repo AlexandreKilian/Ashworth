@@ -34,7 +34,7 @@ Archie zog die Schultern hoch. „D-dasselbe wie du."
 
 „Du hast das Badehaus beobachtet."
 
-Es war keine Frage. Archie antwortete trotzdem — ein kurzes Kopfschütteln, dann ein Zögern, dann ein Nicken. Seine Finger pressten sich fester um das Skizzenbuch.
+Es war keine Frage. Archie antwortete trotzdem — ein kurzes Kopfschütteln, dann ein Zögern, dann ein Nicken. Seine Finger pressten sich fester um den Einband.
 
 „Wie lange?", fragte Finn.
 
@@ -76,9 +76,9 @@ Finn lehnte sich zurück gegen den Stamm. Er dachte nach. Vier Nächte. Donnerst
 
 Archie wusste mehr als er. Aber Archie hatte nie die Gestalt gesehen. Die Puzzleteile lagen auf zwei verschiedenen Tischen, und keiner hatte das vollständige Bild.
 
-Finn sah den Jungen neben sich an. Die schwarzen *Chucks*, das Skizzenbuch, die schmalen Schultern. Archie saß da und wartete. Er sah aus, als wollte er am liebsten aufstehen und verschwinden — zurück in sein Cottage, in sein Dachzimmer, hinter sein Fenster, wo er beobachten konnte, ohne dass jemand ihn beobachtete. Aber er blieb.
+Finn sah den Jungen neben sich an. Die schwarzen *Chucks*, das Skizzenbuch, die schmalen Schultern. Archie saß da und wartete. Er sah aus, als wollte er am liebsten aufstehen und verschwinden. Aber er blieb.
 
-„Ich muss los", sagte Archie. Er stand auf, klopfte das Laub von seinen Jeans. Das Skizzenbuch verschwand unter seinem Arm.
+„Ich muss los", sagte Archie. Er stand auf, klopfte das Laub von seinen Jeans. Das Buch verschwand unter seinem Arm.
 
 Finn stand ebenfalls auf. Er wusste nicht, was er sagen sollte. *Danke* war falsch. *Lass uns das zusammen machen* war zu viel. Sie kannten sich nicht. Ein Zusammenstoß auf einem Kanalweg machte sie nicht zu Verbündeten.
 

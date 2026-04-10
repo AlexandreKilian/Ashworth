@@ -26,7 +26,7 @@ Archie presste das Skizzenbuch gegen seine Brust. Die Kante drückte gegen sein 
 
 Schritte. Schnell, unregelmäßig, als nähme jemand die Stufen an der Kanalbrücke zwei auf einmal.
 
-Finn tauchte hinter der Biegung auf, die Hände in den Taschen seiner Wachsjacke, den Riss am Ärmel mit einem Streifen Klebeband geflickt. Sein Haar stand in alle Richtungen ab, als hätte er sich mit beiden Händen durchgefahren. Er grinste, als er Archie auf der Mauer sah — kurz, schief, als wäre er erleichtert.
+Finn tauchte hinter der Biegung auf, die Hände in den Taschen, den Riss am Ärmel mit einem Streifen Klebeband geflickt. Sein Haar stand in alle Richtungen ab, als hätte er sich mit beiden Händen durchgefahren. Er grinste, als er Archie auf der Mauer sah — kurz, schief, als wäre er erleichtert.
 
 „Du bist schon da."
 
@@ -36,7 +36,7 @@ Finn setzte sich nicht. Er lehnte sich gegen die Mauer, die Schultern angespannt
 
 „Sie kommt gleich", sagte Finn. „Hat mir heute Morgen eine Nachricht geschickt."
 
-*Sie.* Archie wusste, wen Finn meinte. Priya Sharma. Er kannte sie vom Sehen — dunkler Zopf, schnelles Lächeln, der Rucksack, der aussah, als packe sie für eine Expedition. In der Schule hatten sie nie miteinander geredet. Er wusste nicht, was sie über ihn dachte, ob sie überhaupt etwas über ihn dachte.
+*Sie.* Archie hatte die beiden oft genug auf dem Schulhof zusammen gesehen, um sich denken zu können, wen Finn meinte. Priya Sharma. Er kannte sie vom Sehen — dunkler Zopf, schnelles Lächeln, der Rucksack, der aussah, als packe sie für eine Expedition. In der Schule hatten sie nie miteinander geredet. Er wusste nicht, was sie über ihn dachte, ob sie überhaupt etwas über ihn dachte.
 
 Sein Magen zog sich wieder zusammen.
 
@@ -60,7 +60,7 @@ Finn beugte sich über die Mauer, die Augenbrauen zusammengezogen. Er las, die L
 
 Priya verschränkte die Arme. „Vor acht Jahren. Und jetzt schleicht jemand mit einer Taschenlampe durch den Keller."
 
-Stille. Das Wasser gluckste leise unter der Mauer. Eine Taube landete auf dem Dach des nächsten *Narrowboat* und putzte sich das Gefieder, unbeteiligt an allem.
+Stille. Das Wasser gluckste leise unter der Mauer.
 
 Finn kaute auf dem Bleistift. „Das ist kein Zufall. Die Lichter, die Gestalt, der gestoppte Abriss — das hängt zusammen."
 
@@ -74,7 +74,7 @@ Finn drehte sich zu ihm. Grauer Blick, direkt, ohne Ausweichen.
 
 Zwei Augenpaare auf ihm. Finns — wartend, ernst. Priyas — ruhig, ohne Druck, aber da. Die Kanalmauer unter seinen Handflächen fühlte sich rau an, kalt, jede Pore im Stein spürbar. Sein Herz schlug in seiner Kehle.
 
-Er konnte den Kopf schütteln. Aufstehen, das Skizzenbuch unter den Arm klemmen, den Treidelpfad zurückgehen. Es war nur ein Nicken, das ihn davon trennte. Nur eine Bewegung.
+Er konnte den Kopf schütteln. Aufstehen, den Treidelpfad zurückgehen. Es war nur ein Nicken, das ihn davon trennte. Nur eine Bewegung.
 
 Archie nickte.
 

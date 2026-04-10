@@ -32,7 +32,7 @@ Sie warteten. Dreißig Sekunden. Eine Minute. Das Wasser im Kanal lag dunkel und
 
 Finn schob sich durch die Öffnung. Schultern einziehen, Kopf ducken, die Wachsjacke schabte über den Stein. Das Klebeband am Ellbogen fing an einer Kante und riss ein Stück weiter auf, aber er spürte es kaum. Dahinter: Dunkelheit. Der Geruch von feuchtem Stein und nassem Moos und darunter, schwächer als vor einer Woche, dieser andere Geruch. Chemisch. Süßlich. Wie Reinigungsmittel, das jemand verschüttet und nicht richtig aufgewischt hatte.
 
-Er machte Platz. Priya kam als Nächste, den Rucksack voraus, die Schultern schmal gemacht. Dann Archie, der sich durch die sechzig Zentimeter schob wie durch einen Bilderrahmen — lautlos, ohne irgendwo anzustoßen. Seine Chucks machten keinen Laut auf dem Tunnelboden.
+Er machte Platz. Priya kam als Nächste, den Rucksack voraus, die Schultern schmal gemacht. Dann Archie, der sich durch die sechzig Zentimeter schob wie durch einen Bilderrahmen — lautlos, ohne irgendwo anzustoßen.
 
 Priya holte die Taschenlampe aus dem Rucksack. Der Strahl schnitt weiß und schmal durch die Dunkelheit, glitt über gemauerte Wände, über Stein ohne Mörtel, über den glatten, abgetretenen Boden. Tropfendes Wasser, irgendwo vor ihnen. Ein einzelner, gleichmäßiger Ton, wie eine Uhr, die niemand aufzog.
 

@@ -46,7 +46,7 @@ Finn streckte die Hand aus und fand Archies Schulter. Mager und knochig unter de
 
 Archie verstand immer im Dunkeln.
 
-Er schob sich an Finn vorbei, lautlos, seine schwarzen Chucks auf dem Steinboden so leise wie auf Teppich. Finn spürte die Bewegung mehr als er sie hörte — eine Verschiebung der Luft, das Rascheln von Stoff an Stein, dann nichts. Archies Hand fand Finns Handgelenk und zog. Leicht, bestimmt, eine Richtung, kein Zögern.
+Er schob sich an Finn vorbei, lautlos. Finn spürte die Bewegung mehr als er sie hörte — eine Verschiebung der Luft, das Rascheln von Stoff an Stein, dann nichts. Archies Hand fand Finns Handgelenk und zog. Leicht, bestimmt, eine Richtung, kein Zögern.
 
 Priya ließ Finns Arm nicht los. Die drei bewegten sich als Kette durch die Dunkelheit: Archie vorne, Finn in der Mitte, Priya hinten. Schritt für Schritt. Archies Tempo war quälend langsam und genau richtig — jeder Fuß tastete den Boden ab, bevor er das Gewicht verlagerte. Kein Knirschen. Kein Stolpern. Finn versuchte es nachzumachen und trat auf etwas Feuchtes, das unter seiner Sohle glitschte. Er hielt die Luft an. Hinter ihm tat Priya dasselbe.
 
