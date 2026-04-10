@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python3 build-epub.py -b \"Buch 1\" -t \"Ashworth\")",
+      "Bash(python build-epub.py -b \"Buch 1\" -t \"Ashworth\")",
+      "Read(//wsl.localhost/Ubuntu/home/alex/Ashworth/01 - Glossar/**)",
+      "Read(///wsl.localhost/Ubuntu/home/alex/Ashworth/01 - Glossar/**)",
+      "Bash(wsl ls:*)"
+    ],
+    "additionalDirectories": [
+      "\\home\\alex\\Ashworth",
+      "\\\\wsl.localhost\\Ubuntu\\home\\alex\\Ashworth"
+    ]
+  },
+  "sandbox": {
+    "enabled": true,
+    "autoAllowBashIfSandboxed": true
+  }
+}
