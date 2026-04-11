@@ -36,7 +36,7 @@ Keiner antwortete.
 
 Sie stand auf und trat vor die Pinnwand. Vor einer Woche war die Korkplatte fast leer gewesen — Finns Karte, Archies Grundriss, das Wort TUNNEL. Jetzt hingen dort die Reifenspuren-Skizze, fünf beschriftete Streifen, der durchgestrichene Keller, KEIN KELLER daneben. Die Pinnwand sah aus wie der Anfang von etwas.
 
-„Wir beobachten das Lichtmuster weiter", sagte Priya. „Donnerstag, Freitag, wie bisher. Und beim nächsten bestätigten Freitaglicht gehen wir zurück." Sie tippte auf den durchgestrichenen Keller auf Archies Grundriss. „Diesmal der Keller."
+„Wir beobachten das Lichtmuster weiter", sagte Priya. „Donnerstag, Freitag, wie bisher. Und beim nächsten bestätigten Donnerstaglicht gehen wir zurück." Sie tippte auf den durchgestrichenen Keller auf Archies Grundriss. „Diesmal der Keller."
 
 Finn richtete sich auf. Sein Blick ging zu dem Zettel mit KEIN KELLER, und er zog eine Augenbraue hoch.
 
@@ -52,7 +52,7 @@ An der Tür drehte sie sich um. Die Pinnwand leuchtete im schrägen Nachmittagsl
 
 Etwas Warmes breitete sich in Priyas Brust aus. Nicht wegen der Ermittlung. Wegen *diesem hier* — diesem Ort, diesen beiden. Dem Gefühl, dass sie gebraucht wurde, nicht weil jemand im Laden stehen musste, sondern weil sie *Priya* war.
 
-„Nächsten Freitag", sagte sie.
+„Nächsten Donnerstag", sagte sie.
 
 Die Worte kamen leicht, als hätte sie sie schon hundertmal gesagt. Aber es war das erste Mal. Finn hatte sie zu Archie gesagt, vor Wochen, nachts auf dem Kanalweg — kein Versprechen, nur zwei Wörter in der Dunkelheit. Jetzt sagte Priya sie im Nachmittagslicht, und sie klangen anders. Sie klangen wie ein Versprechen.
 

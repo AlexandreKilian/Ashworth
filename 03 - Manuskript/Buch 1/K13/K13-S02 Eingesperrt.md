@@ -54,7 +54,7 @@ Archie schüttelte den Kopf. Einmal. Klein. Kaum sichtbar.
 
 Die Hand blieb.
 
-Finn sah Archies Finger. Sah, wie sie sich um den Einband krampften, die Knöchel weiß, die Sehnen gespannt. Das Skizzenbuch mit den Zeichnungen von vier Wochen. Die Kisten mit Nummern, der Tunnelgrundriss, die Schlosstypen, die Daten am Rand in Archies enger Handschrift, die nur er lesen konnte. Alles darin.
+Finn sah Archies Finger. Sah, wie sie sich um den Einband krampften, die Knöchel weiß, die Sehnen gespannt. Das Skizzenbuch mit den Zeichnungen von vier Wochen. Die Kisten mit Nummern, der Tunnelgrundriss, die Schlosstypen, die Daten am Rand in Archies enger Handschrift. Alles darin.
 
 Der Mann wartete.
 
@@ -64,9 +64,9 @@ Das Skizzenbuch glitt in die offene Hand des Mannes.
 
 Archie machte keinen Laut. Er stand da, die Arme jetzt leer, die Hände an den Seiten, und seine Augen waren auf den Boden gerichtet, und Finn konnte nicht hinsehen. Nicht, weil es dunkel war. Weil etwas in seinem Magen sich umdrehte, heiß und schwer, und er wusste, was es war.
 
-*Das war ich.*
+_Das war ich._
 
-*Ich habe gesagt, wir gehen nochmal hin. Ich habe an seine Tür geklopft. Ich habe sein Nicken genommen.*
+_Ich habe gesagt, wir gehen nochmal hin. Ich habe an seine Tür geklopft. Ich habe sein Nicken genommen._
 
 Der Mann mit dem Skizzenbuch gab den anderen ein Zeichen — eine Kopfbewegung, kurz und sachlich, wie jemand, der eine Lieferung in Empfang nimmt. Dann drehte er sich um, und die Taschenlampen richteten sich nach vorn, Richtung Kellertreppe, und einer der anderen Männer trat zur Seite und deutete in den Tunnel.
 
@@ -74,7 +74,7 @@ Der Mann mit dem Skizzenbuch gab den anderen ein Zeichen — eine Kopfbewegung, 
 
 Nicht nach draußen. Nicht zum Gitter und zum Kanal. In die andere Richtung. Tiefer rein.
 
-Finn ging. Priya neben ihm, so nah, dass ihre Schultern sich berührten. Archie dahinter. Der Mann ging hinter ihnen, seine Schritte ruhig und gleichmäßig, und Finn dachte: *So klingt jemand, der keinen Grund hat zu rennen.*
+Finn ging. Priya neben ihm, so nah, dass ihre Schultern sich berührten. Archie dahinter. Der Mann ging hinter ihnen, seine Schritte ruhig und gleichmäßig, und Finn dachte: _So klingt jemand, der keinen Grund hat zu rennen._
 
 Der Tunnel machte eine Biegung, dann noch eine. Dann eine niedrige Tür in der Wand, ein schmaler Durchgang, ein Knick nach rechts. Finn kannte diesen Weg. Archie hatte ihn bei seiner nächtlichen Erkundung entdeckt, hinter der sechsten Umkleidekabine. Der Raum dahinter.
 
@@ -92,23 +92,23 @@ Er hörte Priya atmen. Schnell, aber regelmäßig, in einem Rhythmus, den sie si
 
 Archie atmete nicht. Oder so leise, dass Finn es nicht hörte.
 
-Er lehnte sich mit dem Rücken an die Wand. Der Stein war kühl und glatt, sauber gewischt, und er erinnerte sich an Archies Randnotiz im Skizzenbuch: *Sauber gewischt?* Das Fragezeichen. Die Verwunderung. Das Buch, das jetzt in der Jackentasche eines Mannes steckte, der keine Fragen stellte, weil er die Antworten nicht brauchte.
+Er lehnte sich mit dem Rücken an die Wand. Der Stein war kühl und glatt, sauber gewischt, und er erinnerte sich an Archies Randnotiz im Skizzenbuch: _Sauber gewischt?_ Das Fragezeichen. Die Verwunderung. Das Buch, das jetzt in der Jackentasche eines Mannes steckte, der keine Fragen stellte, weil er die Antworten nicht brauchte.
 
-*Meine Schuld.*
+_Meine Schuld._
 
 Die Worte lagen in seinem Kopf wie Steine. Schwer und rund und glatt, und sie rollten nicht weg, egal wie oft er versuchte, an etwas anderes zu denken.
 
-*Ich habe gesagt, wir gehen. Nicht Priya. Nicht Archie. Ich.*
+_Ich habe gesagt, wir gehen. Nicht Priya. Nicht Archie. Ich._
 
-*Archie hat in der Magpie gesagt, er kann nicht. Hat gesagt, wir sind zwölf und dreizehn. Und ich habe an seine Tür geklopft, und er hat genickt, weil er mir vertraut, und jetzt —*
+_Archie hat in der Magpie gesagt, er kann nicht. Und ich habe an seine Tür geklopft, und er hat genickt, weil er mir vertraut, und jetzt —_
 
 Er schluckte. Sein Mund war trocken. Der chemische Geschmack, der im Tunnel noch schwach gewesen war, war hier stärker — oder vielleicht bildete er sich das ein. Vielleicht war es nur die Angst, die auf seiner Zunge lag, metallisch und dünn.
 
 In der Dunkelheit bewegte sich etwas. Ein Rascheln, leise, und dann berührte etwas seine Hand. Finger. Schmal und kühl und bestimmt. Priyas Hand schloss sich um seine, und sie drückte einmal. Kurz und fest. Wie ein Satz ohne Worte.
 
-*Ich bin hier.*
+_Ich bin hier._
 
-Oder vielleicht: *Du bist nicht allein.*
+Oder vielleicht: _Du bist nicht allein._
 
 Oder vielleicht gar nichts. Vielleicht brauchte sie nur etwas zum Festhalten.
 

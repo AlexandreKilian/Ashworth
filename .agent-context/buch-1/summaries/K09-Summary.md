@@ -9,7 +9,7 @@ status: fertig
 
 ## Handlung
 
-Freitagabend, eine Woche nach K08. Archie hat am Donnerstag das Lichtmuster vom Dachfenster bestätigt und entscheidet sich, allein zum Badehaus zu gehen — nicht in den Keller, nur den Grundriss vervollständigen. Er schleicht an dem schlafenden Ted vorbei, folgt dem Kanalweg und öffnet routiniert das Squire-Schloss.
+Donnerstagabend, eine Woche nach K08. Archie hat das Lichtmuster mehrfach vom Dachfenster bestätigt und entscheidet sich, am ersten Tag des Schmugglerfensters allein zum Badehaus zu gehen — nicht in den Keller, nur den Grundriss vervollständigen. Er schleicht an dem schlafenden Ted vorbei, folgt dem Kanalweg und öffnet routiniert das Squire-Schloss.
 
 Im Badehaus kartiert er bei Nacht ohne Taschenlampe, nur mit Mondlicht. Er zählt Schritte, tastet Wände ab, zeichnet blind. Hinter den Umkleidekabinen entdeckt er einen **zweiten Nebenraum** — klein, fensterlos, Boden sauber gewischt. Jemand nutzt mehr vom Gebäude als gedacht.
 

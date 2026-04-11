@@ -19,7 +19,7 @@ Am Nebenraum (ehemals Hausmeisters Büro oder Lager) hängt ein **neues ABUS-Vor
 
 Die **Kellertreppe** ist staubfrei — regelmäßiger Verkehr nach unten. Priya leuchtet die ersten Stufen ab, verbietet aber den Abstieg. Noch nicht.
 
-Zurück auf *The Magpie* werten sie aus. Archie pinnt die Reifenspuren-Skizze an die Pinnwand. Finn beschriftet neue Streifen: ABUS, Nebenraum, verwischter Fußabdruck. Finn spricht es zuerst aus: „Das ist kein Geist." Archie fragt leise: „Wofür?" Keine Antwort — noch nicht. Priya plant den nächsten Schritt: beim nächsten bestätigten Freitaglicht zurückkehren, diesmal in den Keller.
+Zurück auf *The Magpie* werten sie aus. Archie pinnt die Reifenspuren-Skizze an die Pinnwand. Finn beschriftet neue Streifen: ABUS, Nebenraum, verwischter Fußabdruck. Finn spricht es zuerst aus: „Das ist kein Geist." Archie fragt leise: „Wofür?" Keine Antwort — noch nicht. Priya plant den nächsten Schritt: beim nächsten bestätigten Donnerstaglicht zurückkehren, diesmal in den Keller.
 
 ## Charakter-Entwicklung
 
@@ -41,7 +41,7 @@ Zurück auf *The Magpie* werten sie aus. Archie pinnt die Reifenspuren-Skizze an
 - Geistertheorie endgültig widerlegt — organisierte menschliche Aktivität bestätigt
 - Fun-and-Games-Beat eingeleitet: Ermittlung macht Spaß, Teamwork funktioniert
 - Priyas Rolle als Organisatorin gefestigt
-- Nächster Schritt definiert: Keller bei nächstem Freitaglicht (→ K09)
+- Nächster Schritt definiert: Keller bei nächstem Donnerstaglicht (→ K09)
 
 ## Emotionaler Zustand am Ende
 

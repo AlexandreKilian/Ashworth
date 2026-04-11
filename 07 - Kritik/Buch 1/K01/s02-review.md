@@ -1,129 +1,74 @@
-# Review — K01-S02: Nicht dein Problem
-
-**Szene:** K01-S02
-**Datei:** `03 - Manuskript/Buch 1/K01/K01-S02 Nicht dein Problem.md`
-**Reviewer:** Scene Reviewer Agent
-**Datum:** 2026-04-09
-**Wortanzahl:** ~1.223 (Ziel: ~1.100 — leicht drüber, vertretbar)
-
+---
+buch: 1
+kapitel: 1
+szene: 2
+typ: review
+datum: 2026-04-11
+status: akzeptiert
 ---
 
-## Bewertung (1–5)
+# Review -- K01-S02: Nicht dein Problem
 
-### 1. Klarheit — 5/5
+## Bewertung
 
-Die Szene ist durchgehend verständlich. Der Leser weiß jederzeit, wo Finn ist, was er tut und was er will. Der Übergang von Unterricht → Gespräch mit Pemberton → Schulhof ist sauber gegliedert. Keine Verwirrung über Zeitabläufe oder Figurenkonstellationen.
+| Kriterium | Note | Begründung |
+|-----------|------|------------|
+| Klarheit | 5 | Die Szene ist glasklar aufgebaut: Finn sitzt im Unterricht, kann das Flackern nicht vergessen, spricht nach der Stunde den Lehrer an, wird abgewiesen, und beschließt zurückzugehen. Jeder Schritt ist nachvollziehbar, keine Verwirrung. |
+| Pacing | 4 | Das Tempo ist insgesamt gut -- die Unterrichtsszene etabliert Finns Unruhe, der Dialog ist straff, der Nachhall am Flur wirkt. Der Mittelteil (Zeile 21-31, Finns innere Rekapitulation der letzten Nacht) ist minimal lang, rechtfertigt sich aber durch die Verankerung in sensorischen Details. |
+| Charakterstimme | 5 | Finn klingt exakt wie im Glossar beschrieben: hartnäckig, beobachtend, getrieben von Fragen. Sein analytisches Denken zeigt sich im Sezieren von Pembertons Antwort (Zeile 75: "Er hatte nicht gesagt, dass es unmöglich war. Er hatte gesagt, es gehe Finn nichts an. Das war etwas anderes."). Das ist Finn pur. |
+| Spannung | 4 | Der Szene-Hook am Ende (Zeile 81-83: Finn plant zurückzukehren) zieht weiter. Pembertons Reaktion -- die nicht Ärger, sondern Vorsicht zeigt -- legt ein zweites Geheimnis an. Leichter Abzug, weil die Szene selbst eher Setup als Eskalation ist, was aber der Position im Buch entspricht. |
+| Regelkonformität | 5 | Keine verbotenen Wörter. Keine Adverbien in Inquit-Formeln. Deutsche Anführungszeichen durchgehend. Präteritum korrekt. Dritte Person, eng an Finn. Kein POV-Bruch. Satzlängen variiert. Kein Passiv-Missbrauch. |
 
-### 2. Pacing — 4/5
+**Durchschnitt: 4,6**
 
-Das Tempo stimmt im Großen und Ganzen. Der Unterricht wird nicht ausgewalzt, der Dialog mit Pemberton hat eine gute Spannung, und der Schulhof-Abschluss gibt dem Kapitel einen ruhigen, entschlossenen Ausklang. Leichter Abzug: Der letzte Abschnitt auf dem Schulhof (ab „Finn ging an ihnen vorbei") könnte minimal gestrafft werden — die atmosphärische Beschreibung wiederholt teilweise, was schon im Fensterblick-Absatz gesagt wurde (Dächer, Bäume, Kanal, Badehaus nicht sichtbar).
+## Kontinuitätsprüfung (Bezug zu K01-S01)
 
-### 3. Charakterstimme — 5/5
+| Element | S01 | S02 | Konsistent? |
+|---------|-----|-----|-------------|
+| Flackern im Badehaus | Finn sieht Licht im Spalt des zweiten Bogenfensters | Finn rekapituliert: "warm, gelblich, von innen" (Z. 21) | Ja |
+| Rost am Zaun | Rost färbt Finns Finger orangebraun (S01, Z. 51) | Referenz: "Rost an dem Zaun, der seine Finger orangebraun gefärbt hatte" (Z. 75) | Ja |
+| Bea schläft / Mum arbeitet | S01 etabliert Beas Einschlafen und Mums Laptop | S02 Ende: "wenn Bea eingeschlafen war und Mum am Laptop saß" (Z. 83) | Ja |
+| Zeitrahmen | Donnerstagabend (S01) | "Am nächsten Morgen" impliziert -- Schulszene passt zu Freitag | Ja, stimmig mit Buchplot Beat 2 |
+| Badehaus-Entfernung | Kanal-Weg beschrieben | "Zehn Minuten zu Fuß. Vielleicht acht, wenn er rannte." (Z. 29) | Ja, plausibel |
+| Wachsjacke | Jacke des Vaters, prominent in S01 | Nicht erwähnt in S02 | Kein Fehler -- Finn ist in der Schule, Jacke wäre dort deplatziert |
 
-Finn klingt authentisch und konsistent mit dem Glossar-Eintrag. Seine Hartnäckigkeit, sein Beobachterblick und sein innerer Antrieb kommen klar durch, ohne dass sie benannt werden müssen. Besonders gelungen:
-- Das unbewusste Zeichnen des Badehauses im Heft — zeigt, wie sehr es ihn beschäftigt, ohne es zu erzählen.
-- Der Bleistift zwischen den Zähnen (Markenzeichen aus dem Glossar, natürlich eingebaut).
-- Die Wachsjacke des Vaters (dreimal erwähnt, aber jeweils mit neuem Detail — nie redundant).
+## Leitmotiv-Prüfung
 
-### 4. Spannung — 4/5
+| Motiv | Vorkommen | Bewertung |
+|-------|-----------|-----------|
+| Bleistift (Finn) | 0x | Kein Vorkommen. Das ist in Ordnung -- Finn ist in der Schule, im Gespräch, nicht im Denk-/Ermittlungsmodus. Stattdessen zeichnet er unbewusst das Badehaus ins Heft (Z. 31), was als visuelles Äquivalent funktioniert. |
+| Stille / Schweigen | 1x | Neonröhren-Summen nach dem Klingeln (Z. 37). Gut dosiert. |
 
-Für eine Theme-Stated-Szene ist die Spannung gut. Der Leser will wissen, ob Finn zurückgeht. Mr. Pembertons Reaktion ist subtil bedrohlich — er wiegelt nicht nur ab, sondern formuliert fast wie eine Warnung. Der Schluss-Hook funktioniert: „Er würde zurückgehen." Leichter Abzug, weil die Szene naturgemäß dialoglastig-reflektiv ist und keine äußere Eskalation hat (was aber dem Beat entspricht).
-
-### 5. Regelkonformität — 4/5
-
-**Eingehalten:**
-- Präteritum durchgängig ✓
-- Dritte Person, enger POV (Finn) ✓
-- Deutsche Anführungszeichen ✓
-- Englische Begriffe kursiv (*Hillcrest Lane*, *Danger — Keep Out*) ✓
-- Keine verbotenen Wörter (plötzlich, irgendwie, bemerkte dass, begann zu) ✓
-- Mindestens 2 Sinne: Geräusche (Kreide, Klingeln, Neonröhre), Geruch (Kaffee, Kopierer, Putzmittel, Wachs), Tast (Wind, Kragen), visuell ✓
-- Show don't Tell überwiegend eingehalten ✓
-- Keine Adverbien bei Dialogattribution ✓
-- Satzlängen-Varianz gut ✓
-
-**Kleine Verstöße:**
-- „Er bemerkte es erst, als er fertig war" (Zeile 31) — nah an der verbotenen Wendung „bemerkte, dass". Hier ist es grammatisch ein anderer Fall (bemerkte + Objekt, nicht „bemerkte, dass"), aber es könnte eleganter gelöst werden.
-- Leichte Häufung von „nicken" (Zeile 68: „Finn nickte") — laut Stilregeln ist übermäßiger Gebrauch von „nicken" verboten. Hier nur einmal, also vertretbar, aber ein alternativer Ausdruck stiller Zustimmung wäre stärker.
-
----
-
-## Zusätzliche Prüfungen
-
-### Plot-Konsistenz ✓
-
-Die Handlung stimmt exakt mit dem Buchplot-Beat „Theme Stated" überein. Finn erwähnt die Lichter in der Schule, ein Lehrer weist ihn ab, und der Schlüsselsatz „Manche Häuser sollen leer bleiben, Finn. Nicht alles, was interessant aussieht, geht dich etwas an" wird wörtlich aus dem Buchplot übernommen. Finns wachsende Entschlossenheit bereitet K04 (Catalyst) vor.
-
-### Charakter-Konsistenz ✓
-
-Finn verhält sich exakt gemäß Glossar: Er beobachtet, stellt Fragen, kann nicht loslassen, trägt die Wachsjacke, kaut auf dem Bleistift. Seine Art, die Frage an Pemberton „beiläufig" zu formulieren, zeigt sein taktisches Denken. Sein Rückzug nach der Abweisung (nach außen ruhig, innen trotzig) passt zur Beschreibung „Hartnäckig bis zur Sturheit".
-
-### Show don't Tell ✓ (mit kleinem Vorbehalt)
-
-Überwiegend hervorragend. Emotionen werden durch Handlungen gezeigt:
-- Unruhe → Bleistiftkauen, Badehaus-Zeichnung im Heft
-- Trotz → gerader Rücken, gleichmäßige Schritte beim Rausgehen
-- Entschlossenheit → Blick über die Dächer, Kragen hochziehen
-
-Ein kleiner Tell-Moment: „Nicht Ärger. Etwas anderes. Müdigkeit vielleicht. Oder Vorsicht." (Zeile 57) — das ist Finns Interpretation von Pembertons Blick und funktioniert im POV-Modus, ist aber grenzwertig. Es funktioniert, weil Finn als Beobachter-Charakter etabliert ist und hier aktiv analysiert.
-
-### Dialog-Qualität ✓
-
-Mr. Pembertons Satz als Theme Stated ist stark. Er klingt natürlich — wie ein Lehrer, der genervt ist, aber auch etwas Bestimmtes meint. Die Metapher vom Türschloss („wie ein Türschloss, das einrastete") ist frisch und passt zum Thema Verschlossenheit/Geheimnisse. Die Dialogpassage insgesamt ist knapp, realistisch und figurenspezifisch. Pemberton redet wie ein Lehrer — kurze Anweisungen, leichte Herablassung, Kaffeetasse als Requisit.
-
-### Verbotene Wörter ✓
-
-Keine verbotenen Wörter gefunden.
-
-### Englische Begriffe ✓
-
-*Hillcrest Lane* und *Danger — Keep Out* korrekt kursiv gesetzt.
-
----
-
-## Konkrete Verbesserungsvorschläge
-
-### 1. Dopplung der Badehaus-Verortung straffen (Pacing)
-
-Die Information „Das Badehaus ist von hier nicht sichtbar, aber Finn weiß wo es steht" kommt zweimal:
-
-> „Den Kanal konnte er nicht sehen. Das Badehaus konnte er nicht sehen. Aber er wusste, wo es stand — hinter den Häusern, hinter den Gärten, hinter der Biegung, an der die Weiden ins Wasser hingen."
-
-und dann:
-
-> „Das Badehaus war nicht zu sehen. Aber er wusste, wo es stand. Hinter der Biegung, hinter den Weiden, stumm und schwer, mit seinen blinden Fenstern und dem Schild, das *Danger — Keep Out* sagte."
-
-**Vorschlag:** Die erste Passage (Fensterblick) kann die geographische Verortung übernehmen. Die zweite Passage (Schulhof) sollte stattdessen stärker auf die emotionale Wirkung fokussieren — Finn steht jetzt näher dran und seine Entschlossenheit wächst. Die Wiederholung von „er wusste, wo es stand" vermeiden.
-
-### 2. „Finn nickte" ersetzen (Stilregeln)
-
-> „Finn nickte. ‚Okay', sagte er. ‚Danke.'"
-
-**Vorschlag:** Stärker durch eine Handlung ersetzen, die Finns stillen Trotz zeigt, z.B.: „‚Okay', sagte Finn. ‚Danke.'" — das Nicken streichen, das knappe „Okay" reicht als Zustimmungsgeste. Oder eine kleine physische Aktion, die zeigt, dass er sich bereits innerlich abwendet.
-
----
+Keine Überschreitung der 2x-pro-Szene-Regel.
 
 ## Positives Feedback
 
-- **Sensorische Dichte:** Die Szene riecht, klingt und fühlt sich an. Kreide, Kaffee, Kopierer, Putzmittel, Gummisohlen, Wachs — das ist ein Schulgebäude, das man riechen kann. Hervorragend.
-- **Pembertons Kaffeetasse:** Das Detail, dass er einen Schluck nimmt, obwohl der Kaffee „längst kalt sein musste", ist ein perfektes Show-Detail. Es sagt mehr über den Mann (Gewohnheit, Müdigkeit, Gleichgültigkeit) als jede Beschreibung.
-- **Das Heft-Detail:** Finn zeichnet unbewusst das Badehaus — Bogenfenster, Spalt im Mörtel — und klappt das Heft zu, als er es bemerkt. Das ist Show don't Tell auf höchstem Niveau. Es zeigt Besessenheit, ohne das Wort zu verwenden.
-- **Der Schlusssatz:** „Er würde zurückgehen." — Kurz, klar, endgültig. Perfekter Kapitel-Hook.
-- **Die Türschloss-Metapher:** „Nicht laut, nicht hart — wie ein Türschloss, das einrastete." Frisch, thematisch passend (Verschlossenheit, verschlossene Gebäude), und zeigt Finns Reaktion in einem Bild statt in einem Gefühlswort.
+- **Pembertons Vorsicht statt Ärger** (Z. 47-57): Die Reaktion des Lehrers ist hervorragend gearbeitet. Kein Klischee-Lehrer, der schimpft -- stattdessen ein Mann, der etwas weiss und es nicht sagen will. "Nicht Ärger. Etwas anderes. Müdigkeit vielleicht. Oder Vorsicht." Das legt eine zweite Ebene an, ohne sie auszubuchstabieren.
 
----
+- **Show don't Tell bei Finns Unruhe** (Z. 17-31): Finn hört nicht zu, starrt auf die Tischplatte, zeichnet unbewusst das Badehaus ins Heft. Keine Zeile sagt "Finn war unruhig" -- der Leser sieht es.
+
+- **Das unbewusste Zeichnen** (Z. 31): "Er bemerkte es erst, als er fertig war, und klappte das Heft zu." Brillantes Detail -- zeigt, wie tief das Badehaus in Finns Kopf sitzt, ohne es auszusprechen.
+
+- **Pembertons Schlüsselsatz** (Z. 63): "Manche Häuser sollen leer bleiben, Finn. Nicht alles, was interessant aussieht, geht dich etwas an." Exakt der Theme-Stated-Beat aus dem Buchplot. Organisch im Dialog verankert, nicht didaktisch.
+
+- **Finns Analyse am Flur** (Z. 75): Die Unterscheidung zwischen "unmöglich" und "geht dich nichts an" ist genau die Art Denken, die Finns Charakter ausmacht. Der Leser erkennt mit Finn: Pemberton weiss mehr.
+
+- **Sinneseindrücke**: Kreide-Quietschen (Gehör), Kaffee- und Kopierergeruch (Geruch), Putzmittel und Gummisohlen (Geruch), Ball-Klatschen gegen Turnhallenwand (Gehör), Himmel "wie schmutziges Wasser über Watte" (visuell). Mindestens 3 verschiedene Sinne, gut verteilt.
+
+- **Satz-Varianz**: Wechsel zwischen kurzen Schlagsätzen ("Finn blieb sitzen.", Z. 35) und längeren Beobachtungssätzen. Kein monotoner Rhythmus.
+
+## Verbesserungsvorschläge
+
+1. **Zeile 23 -- Ella-Briggs-Einschub:** Das Lineal-Fallen von Ella dient als Unterbrechung und zeigt Pembertons Art, aber es führt eine Figur ein, die nie wiederkommt. Das ist nicht falsch, aber der Absatz könnte knapper sein. Die Zeile "Ella murmelte eine Entschuldigung" bringt nichts Neues. Vorschlag: Den Satz streichen und direkt mit Pembertons Rückkehr zur Tafel weitermachen.
+
+2. **Zeile 27 -- Pemberton-Beschreibung:** "Sein Pullover spannte über den Schultern, grau und ausgeleiert, und er roch nach Kaffee und nach dem Kopierer im Lehrerzimmer, diesen staubig-warmen Geruch, den alle Blätter hatten, die er austeilte." Der Satz ist lang (35+ Wörter) und stapelt zwei sensorische Bilder (visuell: Pullover; olfaktorisch: Kaffee/Kopierer) im selben Absatz. Gemäß der Stilregel "Ein starkes Bild pro Absatz" könnte der Kaffee-/Kopierer-Geruch in einen eigenen kurzen Satz oder an eine andere Stelle wandern.
+
+3. **Zeile 77 -- Himmelsvergleich:** "als hätte jemand schmutziges Wasser über Watte gekippt" -- ein starkes Bild, aber es kommt spät und nach dem emotionalen Höhepunkt der Szene (Finns Erkenntnis am Flur). An dieser Stelle will der Leser vorwärts -- der Vergleich bremst minimal. Könnte gestrichen oder an den Anfang der Szene verlegt werden (als Wetter-Etablierung).
+
+4. **Zeile 31 -- "bemerkte es erst":** Streng genommen könnte "Er bemerkte es erst, als er fertig war" als Tell-Formulierung gelesen werden (nahe an "bemerkte, dass"). Es funktioniert hier im Kontext, weil es Finns Unbewusstheit zeigt, aber eine Umformulierung wie "Er sah hin, als er fertig war" wäre noch sauberer.
 
 ## Gesamturteil
 
-| Kategorie | Note |
-|-----------|------|
-| Klarheit | 5 |
-| Pacing | 4 |
-| Charakterstimme | 5 |
-| Spannung | 4 |
-| Regelkonformität | 4 |
-| **Durchschnitt** | **4,4** |
+**Akzeptiert.**
 
-### **Akzeptiert** ✓
-
-Alle Kategorien ≥ 3, Durchschnitt 4,4. Die Szene erfüllt ihren Beat (Theme Stated) präzise, Finns Stimme ist stark und konsistent, die sensorische Atmosphäre ist dicht, und der Schluss-Hook funktioniert. Die zwei Verbesserungsvorschläge (Dopplung straffen, „nickte" ersetzen) sind kosmetisch und können bei der Kapitel-Überarbeitung adressiert werden.
+Alle Kategorien >= 3, Durchschnitt 4,6. Die Szene erfüllt ihren narrativen Zweck (Theme Stated) exakt, etabliert Finns Charakter überzeugend und legt mit Pembertons verdächtiger Reaktion einen zweiten Spannungsfaden an. Die Verbesserungsvorschläge betreffen Feinschliff, nicht strukturelle Probleme.

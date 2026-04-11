@@ -30,7 +30,7 @@ Stille. Das Trommeln des Regens auf dem Dach.
 
 Er sah sie an. Beide. Wartete.
 
-„Wir wissen jetzt mehr als jeder andere in Ashworth Green. Mehr als Hargreaves. Mehr als alle." Er beugte sich vor. „Wir warten den nächsten Liefertermin ab. Beobachten von außen. Kein Badehaus, kein Tunnel, nur Augen. Und dann geben wir Hargreaves einen anonymen Tipp. Einen echten. Mit Details, die er nicht ignorieren kann."
+„Wir wissen jetzt mehr als jeder andere in Ashworth Green. Mehr als Hargreaves. Mehr als alle." Er beugte sich vor. „Wir warten den nächsten Liefertermin ab. Beobachten von außen. Kein Badehaus, kein Tunnel, nur Augen. Und dann geben wir Hargreaves einen anonymen Tipp. Einen echten. Mit Details, die sie nicht ignorieren kann."
 
 Der Regen wurde lauter. Archie spürte, wie das Boot unter ihnen leicht schwankte.
 

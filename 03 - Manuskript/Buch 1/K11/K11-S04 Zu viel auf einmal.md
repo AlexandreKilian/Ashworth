@@ -20,7 +20,7 @@ Nani sagte nichts. Sie schloss die Tür hinter sich, ging zum Bett und setzte si
 
 Es war ein anderes Schweigen als das ihrer Eltern. Kein Warten auf eine Erklärung. Kein Raum, der gefüllt werden musste. Nani schwieg, wie andere Leute atmen — selbstverständlich, ohne Anstrengung.
 
-Ihre Augen wanderten durch das Zimmer. Über den Schreibtisch mit den gestapelten Schulheften, den Kleiderständer, die Postkarte von Archies Tante aus Cornwall, die an der Pinnwand steckte. Dann zum Rucksack.
+Ihre Augen wanderten durch das Zimmer. Über den Schreibtisch mit den gestapelten Schulheften, den Kleiderständer, die Postkarte ihrer Tante aus Ahmedabad, die an der Pinnwand steckte. Dann zum Rucksack.
 
 Er lag zwischen ihnen auf der Bettdecke, den Reißverschluss halb offen. Die Taschenlampe ragte heraus, schwarz und schmal. Daneben das zusammengerollte Paar Einweghandschuhe, noch in der Verpackung.
 

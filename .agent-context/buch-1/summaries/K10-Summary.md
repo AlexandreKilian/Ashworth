@@ -9,7 +9,7 @@ status: fertig
 
 ## Handlung
 
-Freitagabend, eine Woche nach K09. Archie hat den anderen am Samstag von der verborgenen Luke erzählt; die drei haben die ganze Woche auf den nächsten Freitag gewartet (Schmugglerrhythmus Do/Fr). Am Badehaus öffnet Archie das Squire-Schloss (Routine), führt sie zum Becken und zeigt die Luke. Finn und Priya sehen sie zum ersten Mal: massives, dunkles Holz aus dem 18. Jahrhundert, handgeschmiedeter Eisenring, steile Steinstufen. Geruch nach feuchtem Stein, nicht chemisch.
+Donnerstagabend, eine Woche nach K09. Archie hat den anderen am Samstag von der verborgenen Luke erzählt; die drei haben die ganze Woche auf den nächsten Donnerstag gewartet (Schmugglerrhythmus Do/Fr, sie nehmen den ersten der beiden Tage). Am Badehaus öffnet Archie das Squire-Schloss (Routine), führt sie zum Becken und zeigt die Luke. Finn und Priya sehen sie zum ersten Mal: massives, dunkles Holz aus dem 18. Jahrhundert, handgeschmiedeter Eisenring, steile Steinstufen. Geruch nach feuchtem Stein, nicht chemisch.
 
 Finn steigt als Erster hinunter mit Priyas Taschenlampe, Archie hinten. Am Fuß der 14 Stufen öffnet sich ein gemauerter Tunnelabschnitt — grob behauene Steine, niedrige Decke (Finn muss sich ducken). An der Wand: **sieben frische Kisten**, helles Holz, Metallklammern, Zellophan-Verpackung, handgeschriebene Nummern 3 bis 9 in schwarzem Edding. Kisten 1 und 2 fehlen — sie wurden bereits abgeholt. Der chemische Geruch kommt aus den Kisten, besonders aus Kiste 5 (schwerer, stärker gespannt). Der Tunnel führt in zwei Richtungen: zum Kanal und tiefer unter den Ort.
 

@@ -18,7 +18,7 @@ Sieben vom Beckenrand zur Umkleidetür. Drei durch den Gang. Dann die Eingangsha
 
 Er drehte das Buch. Die Kellertreppe am hinteren Ende des Beckens führte nach unten und dann — sein Bleistift hatte dort eine gestrichelte Linie gezogen, eine Richtung, die ins Leere lief. In den Bereich, wo Wand war, wo Wand sein musste, aber wo die Maße nicht aufgingen.
 
-Unten lief der Fernseher. Gedämpftes Gemurmel, eine Quizshow, und dazwischen Teds Atem — langsam und schwer, das gleichmäßige Schnarchen, das nach dem dritten Tee kam. Freitagabend. Toast mit Bohnen war abgeräumt, die Küchenuhr hatte neun geschlagen, und Ted war im Sessel eingenickt, die knotigen Hände auf der Sessellehne, der Mund leicht offen.
+Unten lief der Fernseher. Gedämpftes Gemurmel, eine Quizshow, und dazwischen Teds Atem — langsam und schwer, das gleichmäßige Schnarchen, das nach dem dritten Tee kam. Donnerstagabend. Das Abendessen, Bangers and Mash, war abgeräumt, die Küchenuhr hatte neun geschlagen, und Ted war im Sessel eingenickt, die knotigen Hände auf der Sessellehne, der Mund leicht offen.
 
 Archie klappte das Skizzenbuch zu und schwang die Beine über die Bettkante.
 
@@ -32,15 +32,15 @@ Der Kanalweg war sein Terrain.
 
 Er ging im Schatten der Uferbüsche, die Schritte kurz und gleichmäßig, die Sohlen lautlos auf dem feuchten Lehm. Rechts das Wasser, schwarz und still, mit dem schwachen Ölgeruch, den es im Sommer nie verlor. Links die Gärten der Reihenhäuser, Zaunlatten und Hecken, dahinter ein paar erleuchtete Küchenfenster.
 
-*Nächsten Freitag*, hatte Priya gesagt. *Zusammen.*
+_Nächsten Donnerstag_, hatte Priya gesagt. _Zusammen._
 
 Er wusste es. Er ging trotzdem.
 
 Nicht in den Keller. Er ging nicht in den Keller. Er vervollständigte den Grundriss. Die Lücken, die Maße, die Wand, die zu dick war. Damit sie beim nächsten Mal wussten, wo sie hingingen. Damit er ihnen zeigen konnte, was nicht stimmte.
 
-*Das ist Vorbereitung*, sagte er sich. *Nicht Regelbruch.*
+_Das ist Vorbereitung_, sagte er sich. _Nicht Regelbruch._
 
-Teds Stimme meldete sich in seinem Kopf, trocken und beiläufig wie immer: *Lass alles so, wie du es vorgefunden hast.* Archie nickte im Gehen, obwohl niemand zusah.
+Teds Stimme meldete sich in seinem Kopf, trocken und beiläufig wie immer: _Lass alles so, wie du es vorgefunden hast._ Archie nickte im Gehen, obwohl niemand zusah.
 
 Das Badehaus tauchte hinter der Biegung auf. Dunkler Backstein gegen den dunkelgrauen Himmel, die Bogenfenster wie blinde Augen. Efeu an der Nordseite, schwarz in der Dunkelheit. Kein Licht. Kein Geräusch. Kein Fahrzeug auf dem Hof — die Reifenspuren waren Schatten im weichen Boden, mehr nicht.
 

@@ -1,61 +1,62 @@
 ---
-szene: K11-S02
-titel: "Quittungen und Vorwürfe"
+buch: 1
+kapitel: "11"
+szene: "02"
 reviewer: Scene Reviewer
 datum: 2026-04-10
 status: Akzeptiert
+note: Ursprünglich K11-S01 — durch Einfügung der neuen Hargreaves-Schul-Szene zu S02 verschoben.
 ---
 
-# Review — K11-S02: Quittungen und Vorwürfe
+# Review — K11-S02: Getauschte Schlösser
 
 ## Bewertung
 
-| Kriterium | Note | Begründung |
-|-----------|------|------------|
-| Klarheit | 5 | Die Szene ist sofort verständlich. Priya kommt zu spät, wird zur Rede gestellt, zieht sich zurück. Der Leser weiß jederzeit, wo er ist, wer spricht und was auf dem Spiel steht. Die räumliche Bewegung (Laden → Treppe → Flur → Zimmer) ist lückenlos nachvollziehbar. |
-| Pacing | 4 | Das Tempo stimmt. Der Dialog mit dem Vater hat die richtige Dichte — kurze Schläge, Fakten statt Geschrei. Der Übergang von der Konfrontation im Laden zum stillen Rückzug ins Zimmer ist gut getaktet. Der Auftritt der Mutter kommt genau im richtigen Moment, um die Schraube eine Umdrehung weiterzudrehen. Minimaler Abzug: Der Absatz mit der Aufzählung des Rucksack-Inhalts (Z. 81) verlangsamt den emotionalen Fluss kurz — das Inventar ist zwar thematisch wichtig, könnte aber etwas straffer eingebunden sein. |
-| Charakterstimme | 5 | Priya klingt wie Priya. Die innere Perspektive ist eng und konsistent: der Blick aufs klebende Linoleum, das Zählen der Treppenstufen, der Geruch von Daal, der plötzlich nach Schuld riecht. Auch die Eltern sind sofort unterscheidbar — Papas Fakten-Ruhe vs. Mamas stille Enttäuschung. Ravi bleibt im Hintergrund, wird aber spürbar (Musik, geschlossene Tür, das Nicht-Decken). Die Lüge „Schulprojekt" und wie sie schmeckt („trockenes Papier") ist exakt Priyas Register. |
-| Spannung | 4 | Die Szene erzeugt keine Action-Spannung, aber eine starke emotionale Dringlichkeit. Der Leser will wissen: Kommt Priya damit durch? Was passiert, wenn die Eltern den Rucksack sehen? Die fünf Wörter der Mutter („Wir verlassen uns auf dich, Priya.") sind der Höhepunkt — ein Satz, der mehr Gewicht hat als jede Drohung. Das dunkle Handy am Ende (keine Nachricht von Finn, keine von Archie) verstärkt die Isolation. Der Hook mit Nanis Pantoffeln zieht sauber nach S03. Leichter Abzug, weil die Szene bauartbedingt im Inneren bleibt — der Bogen löst sich nicht auf, sondern wird weitergereicht, was gewollt ist, aber die Eigenständigkeit der Szene leicht mindert. |
-| Regelkonformität | 5 | Alle Regeln werden eingehalten. Präteritum durchgehend. Dritte Person, enger POV. Keine verbotenen Muster (kein „plötzlich", kein „bemerkte, dass", kein „begann zu"). Keine Adverbien in Inquit-Formeln. Deutsche Anführungszeichen. Kursiv für innere Gedanken. Mindestens vier Sinne aktiv: Sehen (Neonröhre, Quittungsrolle), Hören (Türglocke, Heizungssummen, Ravis Musik), Riechen (Daal), Tasten (Rucksackträger, Handballen auf Augen). Satzlänge variiert gut zwischen kurz und mittellang. Show-don't-tell durchgehend: Priyas Schuld wird nicht benannt, sondern durch Körpersprache und sensorische Details gezeigt. Altersgerecht ohne Abstriche bei der emotionalen Tiefe. |
+| Kriterium | Note (1–5) | Begründung |
+|-----------|------------|------------|
+| Klarheit | 5 | Die Szene ist glasklar strukturiert. Der Leser versteht sofort, was sich verändert hat (Schloss, Zaun, Brennnesseln) und warum das bedeutsam ist. Priyas systematische Beobachtung (Punkt für Punkt, wie eine Liste) gibt dem Leser eine klare Orientierung. Die Informationsvergabe ist dosiert und logisch aufgebaut: erst die physischen Veränderungen, dann Finns Begegnung mit der Frau, dann die Konsequenz. |
+| Pacing | 5 | Exzellentes Tempo. Die Szene beginnt mit einem starken, konkreten Bild (fehlende Brennnesseln), baut langsam Spannung auf durch die systematische Bestandsaufnahme, hat einen dynamischen Moment (Finn will näher, wird zurückgehalten), dann den zweiten Spannungshöhepunkt (die Frau im Laden), und endet mit Priyas Entschluss zu gehen. Kein Wort zu viel, kein Leerlauf. Die Stille-Momente (schweigendes Stehen, Amsel im Hintergrund) sind bewusst gesetzt und kontrastieren die innere Anspannung. |
+| Charakterstimme | 5 | Priyas POV ist durchgängig überzeugend. Ihr analytischer Blick (systematisch, Punkt für Punkt, wie eine Inventurliste), ihre körperliche Reaktion auf die Angst (Magen zieht sich zusammen, kälteres Gefühl als im Tunnel), ihre Entschlusskraft am Ende (kurze Sätze, keine Diskussion: „Jetzt.") — alles stimmt mit dem etablierten Charakter überein. Finn ist impulsiv (will näher ran, Kiefer mahlt), Archie beobachtet still und zeichnet, sein Stottern fehlt in einem Moment der Sicherheit (sachliche Aussage über das Schloss), kommt nicht vor, weil kein sozialer Druck da ist — alles konsistent mit den Glossar-Einträgen. |
+| Spannung | 4 | Die Szene erzeugt eine andere Art von Spannung als die Tunnel-Flucht in K10 — leiser, kriechender Druck statt Adrenalin. Das funktioniert gut als Kontrast. Der Moment mit der Frau im Laden ist ein starker Eskalationspunkt. Priyas abschließender Gedanke (*aufgeschreckte Leute machen gefährliche Dinge*) ist ein effektiver Hook. Kleiner Abzug: Die Szene hätte ein winziges zusätzliches konkretes Detail bei der Begegnung mit der Frau vertragen können (z.B. eine physische Geste, die sie bedrohlicher macht), aber das ist Geschmackssache — die Kürze der Begegnung (sie war weg, bevor Finn reagieren konnte) hat auch ihren eigenen beunruhigenden Effekt. |
+| Regelkonformität | 5 | Vollständig regelkonform. Tempus: durchgängig Präteritum. Perspektive: Priyas POV, strikt eingehalten — sie nimmt nur wahr, was sie sehen/hören/fühlen kann. Deutsche Anführungszeichen korrekt. Englische Begriffe kursiv (*Co-op*, *High Street*). Show don't tell konsequent umgesetzt (Magen zieht sich zusammen, Finger erinnern sich, Kiefer mahlt — keine benannten Emotionen). Mindestens 3 Sinne aktiv (Sehen, Hören, Riechen — Kanal, Amsel, visuell). Keine verbotenen Wörter (kein „plötzlich", kein „irgendwie", kein „bemerkte dass", kein „begann zu"). Dialoge knapp und figurenspezifisch. Satzlänge variiert gut zwischen kurz und mittellang. Kein Adverb in Inquit-Formeln. Altersgerecht. |
 
-## Gesamtbewertung
+**Durchschnitt: 4,8**
 
-**Durchschnitt: 4,6 / 5**
+## Gesamturteil: Akzeptiert
 
-**Urteil: Akzeptiert**
+Alle Kriterien liegen bei mindestens 4, der Durchschnitt bei 4,8. Die Szene ist publikationsreif.
 
-## Gelungene Stellen
+## Positives Feedback
 
-- **Z. 21–23 — Papas Faktenruhe:** „Sieben Uhr zwölf." / „Nicht laut. Ihr Vater wurde nie laut. Er stellte Fakten fest, und die Fakten waren schlimmer als jedes Schreien." — Der Vater wird in drei Sätzen als Figur etabliert. Kein Klischee des schreienden Elternteils, sondern etwas Wirkungsvolleres.
+- **Eröffnungsbild:** „Das Erste, was Priya sah, waren die Brennnesseln. Genauer: ihr Fehlen." — Perfekter Einstieg. Konkret, sinnlich, sofort spannend. Das Fehlen von etwas als Bedrohungszeichen ist eleganter als jede explizite Warnung.
+- **Körperliche Erinnerung:** „Dieselbe Stelle wie im Tunnel. Ihre Finger erinnerten sich." — Hervorragendes sensorisches Detail, das die Kontinuität zu K10 herstellt, ohne es zu erklären.
+- **Priyas innere Analyse der Frau-Aussage:** „Nicht: Du bist ein neugieriges Kind. [...] Sondern: Ich weiß, wer du bist." — Zeigt Priyas analytischen Verstand und steigert die Bedrohung durch Reflexion statt Beschreibung.
+- **Archies Charakterisierung in drei Strichen:** Skizzenbuch auf den Knien, Bleistift zwischen den Zähnen, kein Stottern bei sachlicher Aussage. Konsistent, effizient, lebendig.
+- **Der atmosphärische Zwischensatz:** „Eine Amsel sang irgendwo in den Weiden am anderen Ufer, laut und ahnungslos." — Kontrapunkt zur Spannung, stimmungsvoll, ohne den Fluss zu brechen.
+- **Schluss-Dynamik:** Die drei Schritte / fünf Schritte-Zählung beim Weggehen gibt dem Ende einen filmischen Rhythmus und zeigt, dass Priya hier die Führung übernimmt.
 
-- **Z. 61–67 — Mamas fünf Wörter:** Die Unterscheidung zwischen Papas Faktenruhe und Mamas Entscheidungsruhe ist handwerklich stark. Besonders der Vergleich „Wasser ist nass, der Laden öffnet um sieben, wir verlassen uns auf dich" — ein Dreischlag, der die Selbstverständlichkeit der Erwartung zeigt, ohne je das Wort „Enttäuschung" zu benutzen.
+## Verbesserungsvorschläge
 
-- **Z. 73 — Daal und Schuld:** „Der Geruch, der sonst Heimat bedeutete und heute nach Schuld roch." — Sinneseindruck und emotionale Verschiebung in einem Satz. Show-don't-tell in Bestform.
+- **Marginal:** Die Beschreibung des neuen Schlosses aus Priyas Perspektive ist solide, könnte aber minimal von einer emotionalen Reaktion Priyas beim ersten Erblicken profitieren — ein kurzer innerer Kommentar oder eine physische Reaktion (Atem stockt, Schritt verlangsamt sich), bevor sie systematisch analysiert. Aktuell springt sie sehr direkt in den analytischen Modus. Das ist charakterlich stimmig, aber ein halber Satz Übergangsreaktion würde die Entdeckung noch stärker landen lassen. — *Kein Überarbeitungsgrund, nur Feinschliff-Option.*
 
-- **Z. 83–87 — Der Rucksack als Symbol:** Die Gegenüberstellung der zwei Leben (Quittungsrollen vs. Ziplock-Beutel) funktioniert, weil sie konkret bleibt. Kein abstraktes Grübeln, sondern greifbare Gegenstände.
+## Kontinuitäts-Check
 
-- **Z. 93–97 — Hook:** Nanis Pantoffeln als akustisches Signal sind perfekt — Priya kennt jedes Geräusch im Haus, und das wird hier genutzt, um den Hook organisch einzubauen statt ihn aufzusetzen.
+| Element | Referenz | Status |
+|---------|----------|--------|
+| Squire-Schloss ersetzt durch schweres neues Schloss | Buchplot Beat 10, Szenenplan | OK |
+| Brennnesseln abgeschnitten | K03/K04 niedergetreten, jetzt sauber entfernt | OK |
+| Zaun repariert (Nordseite, umgeknickte Stellen) | K08 Detail | OK |
+| Klebeband-Flicken an Finns Wachsjacke erneuert | K06 Riss, K07/K08 Flicken, K10 erneut gerissen | OK |
+| Archies Skizzenbuch + Bleistift | Durchgängig seit K03 | OK |
+| Archies Chucks (lautlos auf Kies) | Glossar-Eintrag, K10 | OK |
+| Priya greift nach Finns Unterarm (wie im Tunnel) | K10 Detail explizit referenziert | OK |
+| Frau spricht Finn an (Buchplot: unbekannter Mann → hier: Frau) | Abweichung vom Buchplot — siehe Anmerkung |
+| Zeitlinie: Samstag nach der Freitag-Flucht (K10) | Szenenplan bestätigt | OK |
+| Co-op kursiv, High Street kursiv | Stilregeln | OK |
+| Kein Badehaus-Innenraum | Szenenplan-Notiz | OK |
 
-## Verbesserungsvorschläge (optional, keine Überarbeitung nötig)
+**Anmerkung zur Buchplot-Abweichung:** Der Buchplot nennt „einen unbekannten Mann", der Finn anspricht. In der Szene ist es eine unbekannte Frau. Das ist eine bewusste und sinnvolle Abweichung — eine Frau, die beiläufig in einem Laden anspricht, wirkt subtiler und beunruhigender als ein Mann auf der Straße. Der Beat (Finn wird erkannt/gewarnt) ist vollständig erfüllt. Die direkte Straßenkonfrontation mit einem Mann kann für K12 aufgespart werden (laut Buchplot wird Finn dort direkt gewarnt). Keine Korrektur nötig.
 
-1. **Z. 81 — Rucksack-Inventar:** Die Aufzählung (Taschenlampe, Einweghandschuhe, Ziplock-Beutel, Zellophan-Stück, Klebebandrolle, Edding) ist vollständig und korrekt im Sinne der Kontinuität, aber sechs Gegenstände am Stück verlangsamen den emotionalen Sog kurz. Drei oder vier Schlüsselobjekte mit stärkerer szenischer Einbettung wären noch wirkungsvoller. Das ist Feinschliff, kein strukturelles Problem.
+## Wortanzahl
 
-2. **Z. 35 — Neonröhre:** Das Flackern der Neonröhre wird als atmosphärisches Detail gut eingesetzt. Da die defekte Neonröhre bereits in K02 und K05 etabliert ist, könnte man in Betracht ziehen, die Wiederholung leicht zu variieren (z.B. „ging nicht mehr aus" statt „flackerte"), um subtile Zeitprogression zu zeigen. Rein optional.
-
-## Kontinuität
-
-| Element | Quelle | Status |
-|---------|--------|--------|
-| Rucksack-Inhalt (Taschenlampe, Handschuhe, Ziplock, Klebeband, Edding) | K07, K08, K10 | Konsistent |
-| Neonröhre flackert | K02, K05 | Konsistent |
-| Linoleum (sich lösender Belag) | K02, K05 | Konsistent |
-| Ravi im Laden / beschwert sich | K05, K07, K08 | Konsistent |
-| Quittungsrollen | K02, K05 | Konsistent |
-| Nani als stille Beobachterin | K02, K05 | Konsistent (Pantoffeln als akustisches Signal, drei Klopfer) |
-| Zeitlinie (Samstag nach K10-Freitag, nach S01 am Kanal) | K10, K11-S01 | Konsistent |
-| Priyas Lüge „Schulprojekt/Bibliothek" | — | Plausibel, passt zur Samstags-Situation |
-| Zellophan als „Beweisstück Nummer eins" | K08 | Konsistent (Ziplock-Beutel mit Datum) |
-
-## Fazit
-
-Eine starke Szene, die den Bad-Guys-Close-In-Beat von innen spielt. Der Familienkonflikt ist authentisch, altersgerecht und schmerzhaft, ohne in Melodrama abzurutschen. Die Szene erfüllt ihren Auftrag aus dem Szenenplan vollständig: Priyas Doppelleben wird unhaltbar, und zum ersten Mal hasst sie beide Seiten. Der Hook zu S03 (Nanis Klopfen) sitzt.
+~870 Wörter (Ziel: ~900). Im Toleranzbereich.

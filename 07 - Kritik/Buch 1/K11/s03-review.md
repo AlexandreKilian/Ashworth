@@ -1,68 +1,62 @@
 ---
-buch: 1
-kapitel: "11"
-szene: "03"
-titel: "Zu viel auf einmal"
+szene: K11-S03
+titel: "Quittungen und Vorwürfe"
 reviewer: Scene Reviewer
 datum: 2026-04-10
-status: akzeptiert
+status: Akzeptiert
+note: Ursprünglich K11-S02 — durch Einfügung der neuen Hargreaves-Schul-Szene zu S03 verschoben.
 ---
 
-# Review — K11-S03: Zu viel auf einmal
+# Review — K11-S03: Quittungen und Vorwürfe
 
 ## Bewertung
 
-| Kriterium | Note (1–5) | Kommentar |
-|-----------|------------|-----------|
-| **Klarheit** | 5 | Die Szene ist glasklar strukturiert: Nani betritt den Raum, sieht den Rucksack, erzählt ihre Geschichte, benennt Priyas Überlastung, gibt stillen Trost, geht. Jeder Moment ist räumlich und emotional nachvollziehbar. Keine Verwirrung, keine Lücken. |
-| **Pacing** | 5 | Hervorragend. Die Szene atmet genau richtig — langsamer Einstieg (Nanis Schweigen, das Hinsetzen), dann die Gujarat-Geschichte als behutsame Annäherung, dann der emotionale Kern („Ich sehe dich, Priya"), und ein ruhiges, aber nachhallendes Ende. Kein Absatz ist überflüssig. Die Wortanzahl (~850) trifft den Zielkorridor von ~800 fast exakt. |
-| **Charakterstimme** | 5 | Beide Figuren sind treffsicher gezeichnet. Nani ist exakt die Figur aus dem Glossar und den bisherigen Kapiteln: die trockene Beobachterin, die scharfen Augen, der Wollschal, das Chai-Porzellan, die *dikri*-Anrede. Ihre Gujarat-Geschichte fühlt sich authentisch und nicht aufgesetzt an. Priyas Schweigen, ihr körperliches Nachgeben (feuchte Wimpern, sinkende Schultern, zitterndes Kinn) ist perfektes Show-don't-Tell. Besonders gelungen: Priyas innerer Aufzählungsmonolog (Z. 61) — „den Tunnel, die Kisten, die Luke, das neue Schloss" — zeigt die Überlastung durch Akkumulation, ohne sie zu benennen. |
-| **Spannung** | 4 | Die Szene ist bewusst ruhig, kein Spannungshöhepunkt — und soll es laut Szenenplan auch nicht sein. Die Spannung liegt in der emotionalen Frage: Wird Priya sich öffnen? Die Antwort (nein, nicht mit Worten, aber mit dem Körper) ist befriedigend. Der Hook am Ende — Finns Nachricht „Wir müssen reden. Morgen. Magpie." — zieht den Leser sauber nach K12. Leichter Abzug: Der Übergang von Nanis Abgang zu Priyas Rucksack-Ritual und dann zur Handy-Nachricht hat drei Beats in schneller Folge, die jeweils für sich stark sind, aber zusammen minimal gedrängt wirken. |
-| **Regelkonformität** | 5 | Keine verbotenen Wörter (plötzlich, irgendwie, begann zu etc.). Keine Adverbien in Inquit-Formeln. Konsequentes Präteritum. Dritte Person, enger Priya-POV durchgehalten. Deutsche Anführungszeichen korrekt. Kursiv für *dikri* (fremdsprachiger Begriff). Mindestens drei Sinne: visuell (Wollschal, Rucksack-Inhalt, bläulicher Handyschein), auditiv (Porzellan-Klicken, Pantoffeln im Flur, gedämpfter Bass), olfaktorisch (Daal-Geruch durch Dielenbretter), taktil (Nanis Hand auf dem Knie). Keine Passiv-Häufung. Satz-Varianz gut — kurze Schlagsätze im emotionalen Kern („Sie fragte nicht." / „Drei Wörter.") wechseln mit fließenden Beschreibungen. Altersgerecht (10–14 Jahre). |
+| Kriterium | Note | Begründung |
+|-----------|------|------------|
+| Klarheit | 5 | Die Szene ist sofort verständlich. Priya kommt zu spät, wird zur Rede gestellt, zieht sich zurück. Der Leser weiß jederzeit, wo er ist, wer spricht und was auf dem Spiel steht. Die räumliche Bewegung (Laden → Treppe → Flur → Zimmer) ist lückenlos nachvollziehbar. |
+| Pacing | 4 | Das Tempo stimmt. Der Dialog mit dem Vater hat die richtige Dichte — kurze Schläge, Fakten statt Geschrei. Der Übergang von der Konfrontation im Laden zum stillen Rückzug ins Zimmer ist gut getaktet. Der Auftritt der Mutter kommt genau im richtigen Moment, um die Schraube eine Umdrehung weiterzudrehen. Minimaler Abzug: Der Absatz mit der Aufzählung des Rucksack-Inhalts (Z. 81) verlangsamt den emotionalen Fluss kurz — das Inventar ist zwar thematisch wichtig, könnte aber etwas straffer eingebunden sein. |
+| Charakterstimme | 5 | Priya klingt wie Priya. Die innere Perspektive ist eng und konsistent: der Blick aufs klebende Linoleum, das Zählen der Treppenstufen, der Geruch von Daal, der plötzlich nach Schuld riecht. Auch die Eltern sind sofort unterscheidbar — Papas Fakten-Ruhe vs. Mamas stille Enttäuschung. Ravi bleibt im Hintergrund, wird aber spürbar (Musik, geschlossene Tür, das Nicht-Decken). Die Lüge „Schulprojekt" und wie sie schmeckt („trockenes Papier") ist exakt Priyas Register. |
+| Spannung | 4 | Die Szene erzeugt keine Action-Spannung, aber eine starke emotionale Dringlichkeit. Der Leser will wissen: Kommt Priya damit durch? Was passiert, wenn die Eltern den Rucksack sehen? Die fünf Wörter der Mutter („Wir verlassen uns auf dich, Priya.") sind der Höhepunkt — ein Satz, der mehr Gewicht hat als jede Drohung. Das dunkle Handy am Ende (keine Nachricht von Finn, keine von Archie) verstärkt die Isolation. Der Hook mit Nanis Pantoffeln zieht sauber nach S03. Leichter Abzug, weil die Szene bauartbedingt im Inneren bleibt — der Bogen löst sich nicht auf, sondern wird weitergereicht, was gewollt ist, aber die Eigenständigkeit der Szene leicht mindert. |
+| Regelkonformität | 5 | Alle Regeln werden eingehalten. Präteritum durchgehend. Dritte Person, enger POV. Keine verbotenen Muster (kein „plötzlich", kein „bemerkte, dass", kein „begann zu"). Keine Adverbien in Inquit-Formeln. Deutsche Anführungszeichen. Kursiv für innere Gedanken. Mindestens vier Sinne aktiv: Sehen (Neonröhre, Quittungsrolle), Hören (Türglocke, Heizungssummen, Ravis Musik), Riechen (Daal), Tasten (Rucksackträger, Handballen auf Augen). Satzlänge variiert gut zwischen kurz und mittellang. Show-don't-tell durchgehend: Priyas Schuld wird nicht benannt, sondern durch Körpersprache und sensorische Details gezeigt. Altersgerecht ohne Abstriche bei der emotionalen Tiefe. |
 
-## Durchschnitt: 4,8
+## Gesamtbewertung
 
-## Gesamturteil: Akzeptiert
+**Durchschnitt: 4,6 / 5**
 
-Alle Kriterien ≥ 3, Durchschnitt deutlich über 3,5.
+**Urteil: Akzeptiert**
 
----
+## Gelungene Stellen
 
-## Besonders gelungene Stellen
+- **Z. 21–23 — Papas Faktenruhe:** „Sieben Uhr zwölf." / „Nicht laut. Ihr Vater wurde nie laut. Er stellte Fakten fest, und die Fakten waren schlimmer als jedes Schreien." — Der Vater wird in drei Sätzen als Figur etabliert. Kein Klischee des schreienden Elternteils, sondern etwas Wirkungsvolleres.
 
-1. **Nanis Schweigen als Kontrastmittel** (Z. 21): „Es war ein anderes Schweigen als das ihrer Eltern. Kein Warten auf eine Erklärung." — Definiert Nanis Rolle in zwei Sätzen, ohne es zu erklären.
+- **Z. 61–67 — Mamas fünf Wörter:** Die Unterscheidung zwischen Papas Faktenruhe und Mamas Entscheidungsruhe ist handwerklich stark. Besonders der Vergleich „Wasser ist nass, der Laden öffnet um sieben, wir verlassen uns auf dich" — ein Dreischlag, der die Selbstverständlichkeit der Erwartung zeigt, ohne je das Wort „Enttäuschung" zu benutzen.
 
-2. **„Ich sehe dich, Priya."** (Z. 49–53): Der emotionale Kern der gesamten Szene und des Kapitels. Die Dreiwortkonstruktion ist ein Hammer nach dem leisen Aufbau. Die Aufzählung danach (Ringe, Ausreden, Schlaf) zeigt Nanis Beobachtungsgabe, ohne sie zu behaupten — reines Show.
+- **Z. 73 — Daal und Schuld:** „Der Geruch, der sonst Heimat bedeutete und heute nach Schuld roch." — Sinneseindruck und emotionale Verschiebung in einem Satz. Show-don't-tell in Bestform.
 
-3. **Rucksack als Symbol** (Z. 81): „Die Werkzeuge ihres zweiten Lebens." — Ein einziger Satz, der Priyas Doppelleben verdichtet. Das Zuziehen des Reißverschlusses „Zahn für Zahn" ist physisch spürbar und symbolisch zugleich: Sie verschließt das Geheimnis, aber es bleibt unter dem Bett.
+- **Z. 83–87 — Der Rucksack als Symbol:** Die Gegenüberstellung der zwei Leben (Quittungsrollen vs. Ziplock-Beutel) funktioniert, weil sie konkret bleibt. Kein abstraktes Grübeln, sondern greifbare Gegenstände.
 
-4. **Nanis Abgangszeile** (Z. 75): „Und mach den Rucksack zu, bevor deine Mutter ihn sieht." — Perfekte Charakterisierung: trocken, beschützend, alles verstehend, nichts aussprechend. Kongruent mit Nanis Verhalten in K02 (Geister-Kommentar) und K05 (Hosentasche).
+- **Z. 93–97 — Hook:** Nanis Pantoffeln als akustisches Signal sind perfekt — Priya kennt jedes Geräusch im Haus, und das wird hier genutzt, um den Hook organisch einzubauen statt ihn aufzusetzen.
 
-5. **Sensorische Schichtung** (Z. 45): Daal-Geruch durch die Dielenbretter und Ravis Bass aus dem Nebenzimmer — zwei Sinnesdetails, die das Haus lebendig machen, ohne die emotionale Szene zu unterbrechen.
+## Verbesserungsvorschläge (optional, keine Überarbeitung nötig)
 
-## Verbesserungsvorschläge (Minor)
+1. **Z. 81 — Rucksack-Inventar:** Die Aufzählung (Taschenlampe, Einweghandschuhe, Ziplock-Beutel, Zellophan-Stück, Klebebandrolle, Edding) ist vollständig und korrekt im Sinne der Kontinuität, aber sechs Gegenstände am Stück verlangsamen den emotionalen Sog kurz. Drei oder vier Schlüsselobjekte mit stärkerer szenischer Einbettung wären noch wirkungsvoller. Das ist Feinschliff, kein strukturelles Problem.
 
-1. **Z. 41 — Dopplung „dunkel und wach"**: Der Ausdruck „dunkel und wach" erscheint zweimal in der Szene (Z. 41 und Z. 77). Bei der zweiten Verwendung (Nanis Abgang) ist es eine bewusste Echo-Wirkung — aber es könnte auch als unbeabsichtigte Wiederholung gelesen werden. Vorschlag: Bei der ersten Stelle (Z. 41) leicht variieren, z. B. „dunkel und hellwach" oder „dunkel, wacher als sonst", damit die Wiederholung am Ende als Stilmittel erkennbar wird.
+2. **Z. 35 — Neonröhre:** Das Flackern der Neonröhre wird als atmosphärisches Detail gut eingesetzt. Da die defekte Neonröhre bereits in K02 und K05 etabliert ist, könnte man in Betracht ziehen, die Wiederholung leicht zu variieren (z.B. „ging nicht mehr aus" statt „flackerte"), um subtile Zeitprogression zu zeigen. Rein optional.
 
-2. **Z. 65 — „Eine Hand, die tausend Tassen Chai gehalten hatte"**: Schönes Bild, aber leicht an der Grenze zum Klischee (die weise Großmutter mit den vielen Tassen Tee). Es funktioniert im Kontext, weil Chai als Nanis Leitmotiv etabliert ist (K02, K05) — aber ein spezifischeres Detail (z. B. die Art, wie sie die Untertasse hielt, der braune Ring) wäre noch stärker. Kein Muss, nur eine Überlegung.
+## Kontinuität
 
-3. **Z. 83–89 — Handy-Nachricht**: Der Übergang funktioniert, aber die Formulierung „halb zum Antworten, halb zum Löschen" ist etwas erklärig. Priyas Zögern zeigt sich bereits durch die Handlung (sie tut keines von beidem). Vorschlag: Den „halb zum…"-Satz streichen und direkt bei der Handlung bleiben — das wäre knapper und vertraut dem Leser mehr.
-
-## Kontinuitätsprüfung
-
-| Element | Status | Referenz |
-|---------|--------|----------|
-| Nanis Wollschal, Salwar Kameez | OK | Glossar: „Salwar Kameez in gedeckten Farben und einen Wollschal" |
-| *dikri*-Anrede | OK | K02, K05, Glossar |
-| Nanis Beobachtungsgabe (Rucksack sehen, nicht fragen) | OK | K02 (Geister-Kommentar), K05 (Hosentasche), Glossar |
-| Rucksack-Inhalt (Taschenlampe, Handschuhe, Ziplock) | OK | K08 (Taschenlampe, Einweghandschuhe, Ziplock-Beutel) |
-| Ravi im Hintergrund | OK | K05 (Ravi kommt um sechs), K08 (Ravi vergisst Quittungen) |
-| Daal-Geruch / Familienhaus-Atmosphäre | OK | Sharma-Haushalt, passt zu bisheriger Darstellung |
-| Finns Nachricht → Überleitung K12 | OK | Szenenplan: „Wir müssen reden. Morgen. Magpie." |
-| Zeitlinie (Samstagabend, direkt nach S02) | OK | Szenenplan bestätigt Samstagabend |
-
-Keine Kontinuitätsfehler gefunden.
+| Element | Quelle | Status |
+|---------|--------|--------|
+| Rucksack-Inhalt (Taschenlampe, Handschuhe, Ziplock, Klebeband, Edding) | K07, K08, K10 | Konsistent |
+| Neonröhre flackert | K02, K05 | Konsistent |
+| Linoleum (sich lösender Belag) | K02, K05 | Konsistent |
+| Ravi im Laden / beschwert sich | K05, K07, K08 | Konsistent |
+| Quittungsrollen | K02, K05 | Konsistent |
+| Nani als stille Beobachterin | K02, K05 | Konsistent (Pantoffeln als akustisches Signal, drei Klopfer) |
+| Zeitlinie (Samstag nach K10-Freitag, nach S01 am Kanal) | K10, K11-S01 | Konsistent |
+| Priyas Lüge „Schulprojekt/Bibliothek" | — | Plausibel, passt zur Samstags-Situation |
+| Zellophan als „Beweisstück Nummer eins" | K08 | Konsistent (Ziplock-Beutel mit Datum) |
 
 ## Fazit
 
-Die Szene ist der emotionale Ruhepol des Kapitels und erfüllt diese Funktion hervorragend. Nach dem äußeren Druck (S01: neue Schlösser) und dem inneren Druck (S02: Familienvorwürfe) bietet Nanis Besuch eine dritte Ebene: stiller Trost ohne Auflösung. Die Szene sagt Priya — und dem Leser — dass sie gesehen wird, ohne verraten zu werden. Das ist der emotionale Kern des Bad-Guys-Close-In-Beats und eine der stärksten Szenen des bisherigen Manuskripts.
+Eine starke Szene, die den Bad-Guys-Close-In-Beat von innen spielt. Der Familienkonflikt ist authentisch, altersgerecht und schmerzhaft, ohne in Melodrama abzurutschen. Die Szene erfüllt ihren Auftrag aus dem Szenenplan vollständig: Priyas Doppelleben wird unhaltbar, und zum ersten Mal hasst sie beide Seiten. Der Hook zu S03 (Nanis Klopfen) sitzt.
