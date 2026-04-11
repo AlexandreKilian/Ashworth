@@ -84,7 +84,7 @@ Keiner sagte, dass sie Angst hatten. Keiner musste.
 
 Sie gingen zurück, am Beckenrand entlang, durch den Bogen, durch die Eingangshalle. Archie warf einen letzten Blick über die Schulter. Das letzte Tageslicht fiel durch das Stahlgerippe des Dachs und legte ein blasses Rechteck auf die grünen Fliesen, genau in die Mitte des leeren Beckens. Wie ein Bild in einem Rahmen. Wie etwas, das darauf wartete, gezeichnet zu werden.
 
-An der Seitentür blieb er stehen. Er hob das Vorhängeschloss vom Boden, wo er es abgelegt hatte, und legte es zurück auf den Riegel. Nicht eingerastet. Nur aufgelegt. Genau so, wie er es vorgefunden hatte.
+An der Seitentür blieb er stehen. Er hob das Vorhängeschloss vom Boden, wo er es abgelegt hatte, und legte es zurück auf den Riegel. Er drückte den Bügel ein, bis es leise klickte. Genau so, wie er es vorgefunden hatte.
 
 Draußen war die Luft kalt und roch nach Kanal. Der Himmel über den Brauereimauern war dunkelgrau, fast schwarz am östlichen Rand. Archies Finger waren steif.
 

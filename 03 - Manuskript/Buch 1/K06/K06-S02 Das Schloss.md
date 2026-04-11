@@ -32,7 +32,7 @@ Hinter ihm stockten Finns Schritte. Eine kurze Stille.
 
 Archie hörte, wie Finn einen Schritt zur Seite machte, an die linke Wand, und sich vorbeitastete. Priya folgte wortlos. Ihre Sohlen schabten über den feuchten Grund.
 
-Die grüne Tür. Archie sah sie, bevor er sie berührte — der matte Schimmer abgeblätterter Farbe, heller als der Backstein ringsum. Die Holzmaserung darunter, aufgequollen vom Regen, rissig an den Kanten. Das Vorhängeschloss am Riegel. Squire. Messingbügel, angelaufen, nur aufgelegt.
+Die grüne Tür. Archie sah sie, bevor er sie berührte — der matte Schimmer abgeblätterter Farbe, heller als der Backstein ringsum. Die Holzmaserung darunter, aufgequollen vom Regen, rissig an den Kanten. Das Vorhängeschloss am Riegel. Squire. Messingbügel, angelaufen.
 
 Archie kniete sich hin.
 
@@ -40,7 +40,9 @@ Der Boden war feucht. Die Kälte kroch durch seine Jeans, durch die Haut, bis in
 
 Seine Hände zitterten.
 
-Er griff nach dem Schloss. Das Metall war kalt und rau unter seinen Fingern. Schwerer, als er sich erinnerte — aber er hatte es nie im Dunkeln gehalten, nie mit diesem Druck in der Brust, der sein Atmen flach machte. Er drehte das Schloss, tastete nach dem Bügel, fand die Rille. Grandpa Teds Stimme in seinem Kopf, ruhig und geduldig wie an den Abenden am Küchentisch: *Nicht drücken. Fühlen. Das Schloss sagt dir, was es will.*
+Er griff nach dem Schloss. Das Metall war kalt und rau unter seinen Fingern. Schwerer, als er sich erinnerte — aber er hatte es nie im Dunkeln gehalten, nie mit diesem Druck in der Brust, der sein Atmen flach machte. Sein Daumen suchte den Bügel und fand ihn fest im Korpus. Eingerastet. Drei Wochen lang nicht, heute Nacht schon.
+
+Er drehte das Schloss, tastete nach der Rille. Grandpa Teds Stimme in seinem Kopf, ruhig und geduldig wie an den Abenden am Küchentisch: *Nicht drücken. Fühlen. Das Schloss sagt dir, was es will.*
 
 Archie schloss die Augen. Seine Finger fanden den Griff. Daumen am Bügel, Zeigefinger am Korpus, leichter Zug nach links, dann drehen —
 
