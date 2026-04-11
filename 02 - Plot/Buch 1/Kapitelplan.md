@@ -6,7 +6,7 @@ tags:
 
 # Kapitelplan — Das Licht im Badehaus
 
-**Ziel-Wortanzahl:** 40.000 Wörter | **Kapitelanzahl:** 15 | **Ø pro Kapitel:** ~2.600
+**Ziel-Wortanzahl:** ~41.500 Wörter | **Kapitelanzahl:** 16 | **Ø pro Kapitel:** ~2.600 (K16 ist als kurze Coda ~1.500 angelegt)
 
 ## Akte
 
@@ -32,18 +32,19 @@ tags:
 | K11 | Zu viele Fragen | Priya | Bad Guys Close In | 2.600 | Schmuggler bemerken Eindringlinge. Schlösser getauscht. Priyas Eltern werden misstrauisch. Nani: „Du trägst zu viel, *dikri*." | Druck von außen / Priyas Familie |
 | K12 | Der Mann auf der Straße | Archie | Bad Guys Close In | 2.600 | Finn wird auf der Straße gewarnt. Archie gerät in Panik. Spannungen in der Gruppe: weitermachen oder aufhören? | Druck von innen / Gruppenkonflikt |
 
-### Akt 3 — Auflösung (K13–K15)
+### Akt 3 — Auflösung (K13–K16)
 
 | Kapitel | Titel | POV | Beat | ~Wörter | Zusammenfassung | Plot-Thread |
 | ------- | ----- | --- | ---- | ------- | --------------- | ----------- |
 | K13 | Eingesperrt | Finn | All Is Lost | 2.800 | Die Schmuggler erwischen die drei im Keller. Handys weg, eingesperrt, eingeschüchtert. Freigelassen — aber alle Beweise sind weg. | Tiefpunkt |
 | K14 | Stille Striche | Archie | Dark Night, Break into Three | 2.800 | Gruppe zerbricht. *The Magpie* leer. Dann kommt Archie zu Finn — mit einer Rekonstruktion aus dem Gedächtnis: Liefertermin, Name, Ort. Priya stößt dazu mit einem Plan. | Archies Moment / Wende |
-| K15 | Die Falle | Priya | Finale, Final Image | 3.000 | Priyas Plan: Timing, Ablenkung, Hargreaves herbeilocken. Schmuggler werden geschnappt. Finn findet ein altes Dokument in den Kisten. Schluss: Die drei auf dem Dach von *The Magpie*. Nicht mehr allein. | Auflösung / Sammler-Hinweis |
+| K15 | Die Falle | Priya | Finale | 3.000 | Priyas Plan: Timing, Ablenkung, Hargreaves herbeilocken. Schmuggler werden geschnappt. Finn findet ein altes Dokument in den Kisten. Tonaler Ausklang auf dem Dach der Magpie. | Auflösung / Sammler-Hinweis |
+| K16 | Drei Rotzlöffel | Priya | Final Image | 1.500 | Donnerstag. Priya im Laden, Zeitung berichtet von der Festnahme (gefälschtes Parfüm, chemischer Geruch). Hargreaves kommt für ihre übliche Bestellung — und lässt beim Zahlen beiläufig wissen, dass sie sehr wohl weiß. Nie direkt. | Coda / Hargreaves-Hook |
 
 ## POV-Verteilung
 
 | Charakter | Kapitel | Anzahl |
 | --------- | ------- | ------ |
 | Finn | K01, K04, K07, K10, K13 | 5 |
-| Priya | K02, K05, K08, K11, K15 | 5 |
+| Priya | K02, K05, K08, K11, K15, K16 | 6 |
 | Archie | K03, K06, K09, K12, K14 | 5 |

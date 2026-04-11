@@ -14,13 +14,13 @@ status: entwurf
 
 Fünf Tage ohne Skizzenbuch waren fünf Tage ohne Hände.
 
-Archie saß auf seinem Bett, den Rücken an die Dachschräge gelehnt, und sah aus dem Fenster. Der Kanal lag grau und still. Am toten Ende, hinter der Biegung, ragte der Bug der *Magpie* ins Blickfeld — dunkelgrün, abblätternd, reglos. Kein Licht in der Kabine. Kein Rauch, kein Geräusch, nichts, das darauf hindeutete, dass dort jemals jemand gesessen und einen Grundriss an eine Pinnwand geheftet hatte.
+Archie saß auf seinem Bett, den Rücken an die Dachschräge gelehnt, und sah aus dem Fenster. Der Kanal lag grau und still. Am toten Ende, hinter der Biegung, ragte der Bug der _Magpie_ ins Blickfeld — dunkelgrün, abblätternd, reglos. Kein Licht in der Kabine. Kein Rauch, kein Geräusch, nichts, das darauf hindeutete, dass dort jemals jemand gesessen und einen Grundriss an eine Pinnwand geheftet hatte.
 
 Er legte die Hände in den Schoß.
 
 Da war nichts zu halten. Kein Einband, kein Bleistift zwischen den Zähnen, keine Seite, die aufgeschlagen werden wollte. Seine Finger lagen übereinander, nutzlos, und wenn er sie bewegte, griffen sie ins Leere.
 
-Morgens stand er auf. Zähne putzen. Treppe runter — dritte Stufe, fünfte Stufe, Füße an den Rand, obwohl es keinen Grund mehr gab, leise zu sein. Küche. Toast. Ted am Tisch, Teetasse in der knotigen Hand, Brille auf der Nasenspitze, *Bristol Post* aufgeschlagen. Archie setzte sich hin. Aß. Ging zur Schule. Kam zurück. Aß. Ging nach oben.
+Morgens stand er auf. Zähne putzen. Treppe runter — dritte Stufe, fünfte Stufe, Füße an den Rand, obwohl es keinen Grund mehr gab, leise zu sein. Küche. Toast. Ted am Tisch, Teetasse in der knotigen Hand, Brille auf der Nasenspitze, _Bristol Post_ aufgeschlagen. Archie setzte sich hin. Aß. Ging zur Schule. Kam zurück. Aß. Ging nach oben.
 
 Die Tage liefen ineinander wie Wasser, das über eine Schwelle tritt — lautlos und ohne Form.
 
@@ -28,11 +28,11 @@ Am Mittwoch ging er den Kanalweg entlang. Nicht, weil er irgendwohin wollte. Wei
 
 Seine Chucks machten keinen Laut auf dem feuchten Asphalt. Das hatten sie nie getan. Aber früher hatte der Bleistift auf dem Papier gekratzt, während er ging — kleine Striche am Rand, Uhrzeiten, Formen, die ihm auffielen. Jetzt war da nur das Geräusch seiner Schritte, die keine Geräusche waren, und der Kanal neben ihm, der nach brackigem Wasser und nassem Stein roch.
 
-Er kam an der *Magpie* vorbei.
+Er kam an der _Magpie_ vorbei.
 
 Das Brett lag noch da. Von der Böschung zum Deck, schief und grau, genau so, wie er es am Freitag verlassen hatte. Niemand hatte es betreten. Das Unkraut an der Uferkante stand unberührt. Die kleine Delle im Schlamm, wo er immer den rechten Fuß aufsetzte, bevor er über das Brett ging, war glattgeregnet.
 
-Er blieb nicht stehen. Er ging weiter, den Blick auf den Treidelpfad gerichtet, und die *Magpie* blieb hinter ihm zurück, dunkel und geschlossen, wie ein Buch, das jemand zugeschlagen hatte.
+Er blieb nicht stehen. Er ging weiter, den Blick auf den Treidelpfad gerichtet, und die _Magpie_ blieb hinter ihm zurück, dunkel und geschlossen, wie ein Buch, das jemand zugeschlagen hatte.
 
 Er dachte nicht an Finn. Er dachte nicht an Priya. Das war das Schlimme — er dachte an nichts. Sein Kopf war still, und die Stille war nicht die gute Art, nicht die, die kam, wenn er zeichnete und die Linien das Durcheinander ordneten. Es war die andere Stille. Die leere.
 
@@ -58,7 +58,7 @@ Nicht bewusst. Seine Finger schlossen sich um den Bleistift, bevor der Gedanke k
 
 Er zeichnete nicht.
 
-Aber etwas kam. Nicht ein Bild. Nicht eine Linie. Ein Wort. Ein Name, den einer der Männer im Tunnel gesagt hatte — leise, beiläufig, zu dem anderen gewandt, als wären die drei Kinder an der Wand nicht mehr als Kisten. Archie hatte zugehört, weil Zuhören das war, was er tat, wenn seine Hände still waren und sein Mund zu war und die Dunkelheit alles andere auslöschte.
+Aber etwas kam. Nicht ein Bild. Nicht eine Linie. Ein Wort. Ein Name, den einer der Männer gesagt hatte nachdem sie sie in den Raum gesperrt hatten. Archie hatte zugehört, weil Zuhören das war, was er tat, wenn seine Hände still waren und sein Mund zu war und die Dunkelheit alles andere auslöschte.
 
 Der Bleistift berührte das Papier.
 

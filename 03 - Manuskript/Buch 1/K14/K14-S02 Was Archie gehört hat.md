@@ -46,11 +46,11 @@ Kein Wort. Keine Frage. Er trat einfach zur Seite, und Archie ging an ihm vorbei
 
 Die Tür stand offen. Die Karte von Ashworth Green hing an der Wand, das Badehaus als kleines Rechteck ohne Beschriftung. Auf dem Schreibtisch lag ein Bleistift mit Zahnspuren. Das Bett war nicht gemacht.
 
-Archie kniete sich auf den Boden. Er faltete die Blätter auseinander und legte sie nebeneinander auf den Teppich — eins, zwei, drei, vier. Seine Hände zitterten, aber er legte sie trotzdem hin, ordentlich, die Kanten parallel, wie er seine Skizzen auf der Ablage in der *Magpie* sortiert hatte.
+Archie kniete sich auf den Boden. Er faltete die Blätter auseinander und legte sie nebeneinander auf den Teppich — eins, zwei, drei, vier. Seine Hände zitterten, aber er legte sie trotzdem hin, ordentlich, die Kanten parallel, wie er seine Skizzen auf der Ablage in der _Magpie_ sortiert hatte.
 
 Finn schloss die Tür. Er stand einen Moment lang da, den Rücken dagegen gelehnt, und sah auf Archie hinunter, der auf dem Boden kniete und Papiere ausbreitete. Dann setzte er sich neben ihn. Nicht gegenüber. Neben ihn.
 
-„Im T-Tunnel", sagte Archie. Das Wort kämpfte sich heraus, Silbe für Silbe. „Als die M-Männer uns — als sie uns g-gesehen haben. Die haben g-g—" Er schloss die Augen. Öffnete sie. „Die haben geredet. Untereinander. Über uns d-drüber weg."
+„Im R-Raum", sagte Archie. Das Wort kämpfte sich heraus, Silbe für Silbe. „Als die M-Männer uns — als sie uns eingesperrt hatten. Die haben g-g—" Er schloss die Augen. Öffnete sie. „Die haben geredet. Untereinander."
 
 Finn sagte nichts. Er wartete.
 
@@ -82,7 +82,7 @@ Stille. Beas Fernseher lief unten, gedämpft, eine Zeichentrickserie mit zu laut
 
 Finn sagte nichts. Er streckte die Hand aus und legte sie auf das vierte Blatt, das Archie noch nicht erklärt hatte. Darauf stand ein einziger Satz, in Archies enger, kleiner Schrift:
 
-*Allein sind wir dumm. Zusammen nicht.*
+_Allein sind wir dumm. Zusammen nicht._
 
 Finn las den Satz. Las ihn noch einmal. Dann lehnte er sich zurück, den Kopf gegen die Bettkante, und sah an die Decke, und seine Augen waren nass, aber er weinte nicht, und Archie sah nicht direkt hin, weil manche Dinge privat waren, auch wenn man nebeneinander auf dem Boden saß.
 

@@ -12,7 +12,7 @@ status: entwurf
 
 # Zusammen klüger
 
-Priya trat an ihnen vorbei, als hätte sie das Zimmer schon hundertmal betreten, und ließ den Rucksack von der Schulter gleiten. Er landete auf dem Teppich mit einem dumpfen, vollen Geräusch — nicht das leere Rascheln von K13, als nichts mehr drin gewesen war. Priya setzte sich auf den Boden, gegenüber von Archie, die Beine überkreuzt, und zog die Blätter zu sich heran.
+Priya trat an ihnen vorbei, als hätte sie das Zimmer schon hundertmal betreten, und ließ den Rucksack von der Schulter gleiten. Er landete auf dem Teppich mit einem dumpfen, vollen Geräusch — nicht wie letzten Freitag, als nichts mehr drin gewesen war. Priya setzte sich auf den Boden, gegenüber von Archie, die Beine überkreuzt, und zog die Blätter zu sich heran.
 
 „Dent", las sie. Ihre Augen bewegten sich über Archies Handschrift, schnell, konzentriert. „Donnerstag. Unter der Brücke." Sie sah auf. „Welche Brücke?"
 
@@ -36,17 +36,17 @@ Finn richtete sich auf. Die Schatten unter seinen Augen blieben, aber dahinter w
 
 „Hargreaves." Priya öffnete den Reißverschluss ihres Rucksacks — ein schneller, fester Zug, nicht Zahn um Zahn, nicht wie Glas. Sie zog einen gefalteten Zettel heraus und ein Stück Packpapier, das sie auf die Blätter zwischen ihnen legte. „Ich hab nachgedacht. Die ganze Woche."
 
-Archie sah auf das Packpapier. Priyas Handschrift, rund und groß, das Gegenteil seiner eigenen: *Timing. Position. Kontakt.*
+Archie sah auf das Packpapier. Priyas Handschrift, rund und groß, das Gegenteil seiner eigenen: _Timing. Position. Kontakt._
 
 „Donnerstagabend", sagte Priya. „Vor acht. Wir sind vorher da — unter der Brücke, auf der gegenüberliegenden Seite des Treidelpfads. Beobachten. Nicht eingreifen." Sie sah Finn an. „Nicht eingreifen."
 
 Finn hob die Hände. „Ich hab's gehört."
 
-„Und Hargreaves." Priya tippte auf das Wort *Kontakt*. „Kein anonymer Brief. Keiner. Die ignoriert sie. Finn muss sie persönlich ansprechen."
+„Und Hargreaves." Priya tippte auf das Wort _Kontakt_. „Kein anonymer Brief. Keiner. Die ignoriert sie. Finn muss sie persönlich ansprechen."
 
 Stille. Finn runzelte die Stirn. „Woher soll ich —"
 
-„Donnerstags", sagte Priya. „Sie kommt donnerstags in den Laden. Zwischen halb fünf und fünf. Kauft die *Evening Post* und Pfefferminztee. Jede Woche." Sie sah Finn an, ruhig, bestimmt. „Du wartest vor dem Laden. Du sagst ihr, dass du etwas gesehen hast, am Kanal, unter der Brücke. Du sagst nicht ‚Schmuggel'. Du sagst nicht ‚Kisten'. Du sagst: ‚Da passiert heute Abend etwas, und Sie sollten hinfahren.' Genug, damit sie neugierig wird. Nicht genug, dass sie uns aufhält."
+„Donnerstags", sagte Priya. „Sie kommt donnerstags in den Laden. Zwischen halb fünf und fünf. Kauft die _Evening Post_ und Pfefferminztee. Jede Woche." Sie sah Finn an, ruhig, bestimmt. „Du wartest vor dem Laden. Du sagst ihr, dass du etwas gesehen hast, am Kanal, unter der Brücke. Du sagst nicht ‚Schmuggel'. Du sagst nicht ‚Kisten'. Du sagst: ‚Da passiert heute Abend etwas, und Sie sollten hinfahren.' Genug, damit sie neugierig wird. Nicht genug, dass sie uns aufhält."
 
 Finn kaute auf seiner Unterlippe. „Und wenn sie nicht kommt?"
 

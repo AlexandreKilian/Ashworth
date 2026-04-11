@@ -92,6 +92,8 @@ Er hörte Priya atmen. Schnell, aber regelmäßig, in einem Rhythmus, den sie si
 
 Archie atmete nicht. Oder so leise, dass Finn es nicht hörte.
 
+Hinter der Wand konnte man die Stimme der Männer hören, doch Finns Ohren pochten so laut, dass er sie nicht verstand.
+
 Er lehnte sich mit dem Rücken an die Wand. Der Stein war kühl und glatt, sauber gewischt, und er erinnerte sich an Archies Randnotiz im Skizzenbuch: _Sauber gewischt?_ Das Fragezeichen. Die Verwunderung. Das Buch, das jetzt in der Jackentasche eines Mannes steckte, der keine Fragen stellte, weil er die Antworten nicht brauchte.
 
 _Meine Schuld._
