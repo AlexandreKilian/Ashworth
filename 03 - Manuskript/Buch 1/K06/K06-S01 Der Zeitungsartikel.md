@@ -5,7 +5,7 @@ tags:
 kapitel: K06
 pov: Archie
 ort: Kanalrand
-status: entwurf
+status: überarbeitet
 was_passiert: Die drei treffen sich und teilen ihre Informationen über das Badehaus
 ziel: Gruppenbildung — Archie entscheidet sich mitzumachen
 ---
@@ -22,7 +22,7 @@ Archie blickte den Treidelpfad entlang. Leer.
 
 Aber Freitag war jetzt, und der Treidelpfad blieb leer.
 
-Archie presste das Skizzenbuch gegen seine Brust. Die Kante drückte gegen sein Schlüsselbein. Er zählte die Ringe im Wasser, wo ein Blatt die Oberfläche berührt hatte — eins, zwei, drei, vier, dann nichts mehr. So machte er das, wenn sein Magen sich zusammenzog: zählen, bis die Welt wieder still wurde.
+Archie griff nach der Mauerkante, die Finger fest um den kalten Stein. Die raue Oberfläche drückte gegen seine Knöchel. Er zählte die Ringe im Wasser, wo ein Blatt die Oberfläche berührt hatte — eins, zwei, drei, vier, dann nichts mehr. So machte er das, wenn sein Magen sich zusammenzog: zählen, bis die Welt wieder still wurde.
 
 Schritte. Schnell, unregelmäßig, als nähme jemand die Stufen an der Kanalbrücke zwei auf einmal.
 
@@ -72,7 +72,7 @@ Finn drehte sich zu ihm. Grauer Blick, direkt, ohne Ausweichen.
 
 „Archie. Du kommst doch rein mit uns?"
 
-Zwei Augenpaare auf ihm. Finns — wartend, ernst. Priyas — ruhig, ohne Druck, aber da. Die Kanalmauer unter seinen Handflächen fühlte sich rau an, kalt, jede Pore im Stein spürbar. Sein Herz schlug in seiner Kehle.
+Zwei Augenpaare auf ihm. Finns — wartend, ernst. Priyas — ruhig, ohne Druck, aber da. Die Kanalmauer unter seinen Handflächen fühlte sich rau an, kalt, jede Pore im Stein spürbar. Seine Finger verkrampften sich um die Mauerkante, als versuchten sie, sich festzuhalten.
 
 Er konnte den Kopf schütteln. Aufstehen, den Treidelpfad zurückgehen. Es war nur ein Nicken, das ihn davon trennte. Nur eine Bewegung.
 
@@ -86,7 +86,7 @@ Archie öffnete den Mund. Schloss ihn wieder. Die Worte lagen hinter seinen Zäh
 
 Er sagte es leise, fast beiläufig, als spräche er über das Wetter. Aber seine Stimme zitterte am Rand, gerade genug, um es zu verraten.
 
-Finn starrte ihn an. Priyas Augenbrauen hoben sich.
+Der Bleistift fiel aus Finns Mund. Priyas Augenbrauen hoben sich.
 
 Archie griff nach seinem Skizzenbuch und schlug es auf, weil er nicht wusste, wohin mit seinen Händen. Die Trauerweide im Wasser, die er vorhin nicht hatte zeichnen können — die Linien waren immer noch zu eckig, zu fest. Aber das spielte jetzt keine Rolle mehr.
 

@@ -5,7 +5,7 @@ tags:
 kapitel: K10
 pov: Finn
 ort: Tunnel unter dem Badehaus
-status: entwurf
+status: überarbeitet
 was_passiert: Die drei finden im Tunnel frische Kisten mit Nummern und Zellophan — handfeste Beweise für Schmuggel. Priya untersucht sie systematisch, Archie zeichnet, Finn formuliert den Triumph. Dann hören sie Schritte und Stimmen von oben.
 ziel: Midpoint-Triumph — aus einem Geisterrätsel wird ein Schmuggler-Fall
 ---
@@ -58,7 +58,7 @@ Finn setzte sich auf den kalten Steinboden und stützte die Ellbogen auf die Kni
 
 Priya und Archie sahen ihn an. Archies Bleistift hing in der Luft.
 
-„Das sind keine Geister", sagte Finn. Er hörte selbst, wie heiser seine Stimme klang, wie sie rau war vor etwas, das er nicht sofort benennen konnte. „Keine Einbrecher. Das ist — das ist organisiert. Jemand benutzt den Tunnel, um Zeug reinzubringen und rauszuschaffen. Die Nummern, die fehlenden Kisten, der Geruch. Das ist Schmuggel."
+„Das sind keine Geister", sagte Finn. Er hörte selbst, wie heiser seine Stimme klang. „Keine Einbrecher. Das ist — das ist organisiert. Jemand benutzt den Tunnel, um Zeug reinzubringen und rauszuschaffen. Die Nummern, die fehlenden Kisten, der Geruch. Das ist Schmuggel."
 
 Stille. Das Tropfen des Wassers irgendwo in der Dunkelheit. Archies Atem.
 
@@ -66,7 +66,7 @@ Dann lächelte Priya. Ein langsames, breites Lächeln, das sie drei Wochen lang 
 
 Archie klappte sein Skizzenbuch zu und presste es gegen die Brust. Er sagte nichts, aber er nickte — ein ganzes, volles Nicken, nicht halb, nicht vorsichtig. Das Nicken eines Jungen, der drei Wochen lang im Dunkeln gezeichnet und gezählt und beobachtet hatte und der jetzt zum ersten Mal sah, wozu das alles gut gewesen war.
 
-Finn sah von einem zum anderen. Priyas Lächeln. Archies Nicken. Die Kisten hinter ihnen, nummeriert und verpackt und _real_. Ein Beweis, den niemand wegreden konnte. Sie hatten gesucht, und sie hatten gefunden. Drei Dreizehnjährige — na gut, ein Zwölfjähriger und zwei Dreizehnjährige — in einem Tunnel unter einem verlassenen Badehaus, und sie hatten recht gehabt. Die ganze Zeit.
+Finn sah von einem zum anderen. Priyas Lächeln. Archies Nicken. Die Kisten hinter ihnen, nummeriert und verpackt und _real_. Ein Beweis, den niemand wegreden konnte. Sie hatten gesucht, und sie hatten gefunden. Und sie hatten recht gehabt. Die ganze Zeit.
 
 Er wollte gerade etwas sagen — irgendwas über nächste Schritte, über die Polizei vielleicht, oder darüber, was in den verdammten Kisten war —
 

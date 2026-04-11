@@ -5,7 +5,7 @@ tags:
 kapitel: K06
 pov: Archie
 ort: Das viktorianische Badehaus
-status: entwurf
+status: überarbeitet
 was_passiert: Archie öffnet das Schloss und die drei betreten das Badehaus
 ziel: Point of No Return — aus dem Beobachter wird ein Handelnder
 ---
@@ -52,7 +52,7 @@ Der Bügel sprang auf. Leichter als erwartet. Viel leichter. Grandpa Teds Übung
 
 „Auf." Archies Stimme war heiser. Er hob das Schloss vom Riegel und legte es auf den Boden, neben die Wand, genau dorthin, wo es jemand schnell wieder einhängen konnte. Eine Gewohnheit, die Ted ihm beigebracht hatte. *Lass alles so, wie du es vorgefunden hast.*
 
-Er stand auf. Seine Knie knackten. Dann griff er nach der Türklinke und drückte.
+Er stand auf, steif von der Kälte im Boden. Dann griff er nach der Türklinke und drückte.
 
 Die Tür schwang auf. Lautlos. Die Angeln gaben keinen Ton von sich — geölt, gepflegt, als würde jemand sich darum kümmern, dass diese Tür keinen Lärm machte. Archie starrte auf die dunklen Angeln. Dieses Detail war falsch. In einem Gebäude, das seit fünf Jahren zugesperrt war, sollten Scharniere quietschen.
 

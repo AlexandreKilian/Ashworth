@@ -7,7 +7,7 @@ szene: S03
 pov: Archie
 ort: Finns Zimmer
 zeit: Freitagnachmittag, direkt nach S02
-status: entwurf
+status: überarbeitet
 ---
 
 # Zusammen klüger
@@ -34,7 +34,7 @@ Priya legte die Blätter nebeneinander, in der gleichen Reihenfolge, in der Arch
 
 Finn richtete sich auf. Die Schatten unter seinen Augen blieben, aber dahinter war etwas wach, das vorher geschlafen hatte. „Hargreaves."
 
-„Hargreaves." Priya öffnete den Reißverschluss ihres Rucksacks — ein schneller, fester Zug, nicht Zahn um Zahn, nicht wie Glas. Sie zog einen gefalteten Zettel heraus und ein Stück Packpapier, das sie auf die Blätter zwischen ihnen legte. „Ich hab nachgedacht. Die ganze Woche."
+„Hargreaves." Priya öffnete den Reißverschluss ihres Rucksacks — ein schneller, fester Zug, nicht vorsichtig, nicht zögernd. Sie zog einen gefalteten Zettel heraus und ein Stück Packpapier, das sie auf die Blätter zwischen ihnen legte. „Ich hab nachgedacht. Die ganze Woche."
 
 Archie sah auf das Packpapier. Priyas Handschrift, rund und groß, das Gegenteil seiner eigenen: _Timing. Position. Kontakt._
 
@@ -42,11 +42,15 @@ Archie sah auf das Packpapier. Priyas Handschrift, rund und groß, das Gegenteil
 
 Finn hob die Hände. „Ich hab's gehört."
 
+Aber Finn saß anders als vorhin. Gerader, die Schultern nicht mehr gegen die Wand gelehnt. Archie sah den Unterschied, ohne ihn zu benennen.
+
 „Und Hargreaves." Priya tippte auf das Wort _Kontakt_. „Kein anonymer Brief. Keiner. Die ignoriert sie. Finn muss sie persönlich ansprechen."
 
 Stille. Finn runzelte die Stirn. „Woher soll ich —"
 
 „Donnerstags", sagte Priya. „Sie kommt donnerstags in den Laden. Zwischen halb fünf und fünf. Kauft die _Evening Post_ und Pfefferminztee. Jede Woche." Sie sah Finn an, ruhig, bestimmt. „Du wartest vor dem Laden. Du sagst ihr, dass du etwas gesehen hast, am Kanal, unter der Brücke. Du sagst nicht ‚Schmuggel'. Du sagst nicht ‚Kisten'. Du sagst: ‚Da passiert heute Abend etwas, und Sie sollten hinfahren.' Genug, damit sie neugierig wird. Nicht genug, dass sie uns aufhält."
+
+Priyas Finger lagen auf dem Packpapier, ruhig, ohne Druck. Sie bewegten sich nicht, während sie sprach.
 
 Finn kaute auf seiner Unterlippe. „Und wenn sie nicht kommt?"
 
@@ -76,10 +80,10 @@ Finn legte den Finger auf den Treidelpfad. „Und die kommen von welcher Seite?"
 
 Stille. Aber keine leere Stille wie in der letzten Woche. Eine volle Stille, in der drei Köpfe über demselben Blatt Papier arbeiteten.
 
-Priya faltete die Blätter zusammen — Archies Notizen, ihr Packpapier, seine neue Zeichnung. Sie schob sie in den Rucksack und zog den Reißverschluss zu. Ein schneller, fester Zug. Der Rucksack war nicht mehr leer.
+Priya faltete die Blätter zusammen — Archies Notizen, ihr Packpapier, seine neue Zeichnung. Sie schob sie in den Rucksack und zog den Reißverschluss zu. Der Rucksack war nicht mehr leer.
 
 Sie sah Archie an.
 
 „Donnerstag", sagte sie.
 
-Archie nickte. Sein Bleistift lag noch in seiner Hand.
+Archie nickte. Sein Bleistift lag noch in seiner Hand. Die Finger waren ruhig, locker um das Holz geschlossen, und die Hand zitterte nicht.

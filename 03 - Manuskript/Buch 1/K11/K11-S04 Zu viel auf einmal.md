@@ -5,7 +5,7 @@ tags:
 kapitel: K11
 pov: Priya
 ort: Priyas Zimmer
-status: entwurf
+status: überarbeitet
 was_passiert: Nani kommt in Priyas Zimmer, sieht den Rucksack mit Taschenlampe und Handschuhen, fragt nicht danach. Erzählt von ihrer Jugend in Gujarat. Benennt Priyas Überlastung, ohne nach dem Geheimnis zu fragen. Stille Komplizenschaft — mach den Rucksack zu, bevor deine Mutter ihn sieht.
 ziel: Bad Guys Close In — emotionaler Kern. Nanis Weisheit als Gegengewicht zum Druck. Priyas Überlastung wird benannt, aber nicht gelöst.
 ---
@@ -28,7 +28,7 @@ Nanis Blick streifte die Taschenlampe. Die Handschuhe. Den Ziplock-Beutel, desse
 
 Sie fragte nicht.
 
-Stattdessen stellte sie die leere Untertasse auf den Nachttisch, neben die Chai-Tasse, die dort seit dem Nachmittag stand. Porzellan auf Porzellan, ein leises Klicken.
+Stattdessen stellte sie die leere Untertasse auf den Nachttisch, neben die Chai-Tasse, die dort seit dem Morgen stand. Porzellan auf Porzellan, ein leises Klicken.
 
 „Als ich so alt war wie du", sagte Nani, „bin ich abends zum Fluss gegangen."
 
@@ -38,7 +38,7 @@ Priya sah auf. Nanis Stimme war ruhig, beiläufig, als erzähle sie etwas, das i
 
 „Und du bist trotzdem gegangen?"
 
-Nani sah sie an. Ihre Augen waren dunkel und wach, tief in den Falten, und der Ausdruck darin war etwas, das Priya selten sah — nicht die trockene Beobachterin, nicht die Frau am Fenster mit dem Chai. Etwas Jüngeres.
+Nani sah sie an. Ihre Augen waren dunkel und wach, tief in den Falten, und der Ausdruck darin war etwas, das Priya selten sah — nicht die trockene Beobachterin, nicht die Frau am Fenster. Etwas Jüngeres.
 
 „Jeden Dienstag", sagte Nani. „Drei Monate lang, bis meine Mutter es herausgefunden hat." Die Andeutung eines Lächelns, trocken wie Staub. „Manche Dinge muss man selbst sehen, *dikri*."
 
@@ -56,13 +56,13 @@ Priyas Kehle wurde eng. Sie öffnete den Mund und schloss ihn wieder.
 
 „Du trägst zu viel auf einmal, *dikri*. Den Laden, die Schule —" Nani machte eine Pause. „Und das, was du mir nicht erzählst."
 
-Die Worte hingen in der Luft. Priya spürte, wie etwas in ihr nachgab — nicht brach, nicht zerbrach, nur nachgab, wie eine Naht, die zu lange gehalten hatte. Ihre Schultern sanken. Ihre Augen brannten. Sie blinzelte, einmal, zweimal, und die Wimpern waren feucht.
+Die Worte hingen in der Luft. Priya spürte, wie etwas in ihr nachgab. Nicht brach, nicht zerbrach. Nur nachgab, wie eine Naht, die zu lange gehalten hatte. Ihre Schultern sanken. Ihre Augen brannten. Sie blinzelte, einmal, zweimal, und die Wimpern waren feucht.
 
 Sie sagte nichts. Es gab nichts zu sagen, nichts, das sie hätte sagen können, ohne alles aufzureißen — den Tunnel, die Kisten, die Luke, das neue Schloss, Finn, der auffiel, die Frau im Laden, die seinen Namen kannte. Es war zu viel und zu eng und zu gefährlich, und gleichzeitig war es genau das, was Nani gerade gesagt hatte: zu viel auf einmal.
 
 Nani sah sie an. Wartete nicht auf Antwort. Erwartete keine.
 
-Dann legte sie die Hand auf Priyas Knie. Die Finger waren trocken, warm, die Haut dünn über den Knöcheln. Eine Hand, die tausend Tassen Chai gehalten hatte.
+Dann legte sie die Hand auf Priyas Knie. Die Finger waren trocken, warm, die Haut dünn über den Knöcheln.
 
 „Du musst nicht alles allein tragen", sagte Nani. „Aber du musst wissen, was du trägst."
 
@@ -78,7 +78,7 @@ Kein Lächeln. Kein Zwinkern. Nur ihre Augen, dunkel und wach, die alles sagten,
 
 Priya saß auf dem Bett. Die Stelle, an der Nanis Hand gelegen hatte, war noch warm.
 
-Sie griff nach dem Reißverschluss des Rucksacks. Taschenlampe, Handschuhe, Ziplock-Beutel. Die Werkzeuge ihres zweiten Lebens. Sie zog den Reißverschluss zu, langsam, Zahn für Zahn, bis er geschlossen war. Dann hob sie den Rucksack hoch und schob ihn unter das Bett, dorthin, wo das Licht der Nachttischlampe nicht mehr hinreichte. Wo die Dunkelheit anfing.
+Sie griff nach dem Reißverschluss des Rucksacks. Die Werkzeuge ihres zweiten Lebens. Sie zog den Reißverschluss zu, langsam, Zahn für Zahn, bis er geschlossen war. Dann hob sie den Rucksack hoch und schob ihn unter das Bett, dorthin, wo das Licht der Nachttischlampe nicht mehr hinreichte. Wo die Dunkelheit anfing.
 
 Ihr Handy leuchtete auf. Das Display warf einen bläulichen Schein gegen die Decke. Eine Nachricht. Finn.
 

@@ -7,7 +7,7 @@ szene: S01
 pov: Priya
 ort: Böschung unter der Steinbrücke am Treidelpfad
 zeit: Donnerstagabend, ca. 19:15
-status: entwurf
+status: überarbeitet
 ---
 
 # Warten unter den Brombeeren
@@ -58,7 +58,7 @@ Priya drehte den Kopf. „Was?"
 
 „Hargreaves." Archie zog eine letzte Linie — den Schatten unter dem Bogen, lang und spitz in der Abenddämmerung. „Finn weiß, was er sagen muss. Du hast es ihm g-gesagt."
 
-Es war keine Frage. Es war kein Trost. Es war eine Feststellung, sachlich und ruhig, und Priya merkte, wie etwas in ihrer Brust nachgab — nicht viel, nur ein halber Atemzug, den sie nicht gemerkt hatte, dass sie ihn festhielt.
+Es war keine Frage. Es war kein Trost. Es war eine Feststellung, sachlich und ruhig, und Priya merkte, wie etwas in ihrer Brust nachgab, nicht viel, nur ein halber Atemzug, den sie nicht gemerkt hatte, dass sie ihn festhielt.
 
 „Ich weiß", sagte sie.
 
@@ -76,7 +76,7 @@ Priyas Finger schlossen sich um den Riemen des Rucksacks. Archie hob den Kopf. E
 
 Finn schob sich durch die Brombeeren, eine Hand vor dem Gesicht, die andere an der Wachsjacke, die an einem Zweig festhakte. Er riss sich los. Ein Dorn hinterließ einen dünnen Kratzer auf seinem Handrücken, aber er sah nicht hin. Der Klebeband-Flicken an seinem Ellbogen schimmerte silbern im letzten Licht.
 
-Er hockte sich neben sie. Sein Atem ging schnell — nicht vom Laufen, dachte Priya. Vom Rest.
+Er hockte sich neben sie. Sein Atem ging schnell. Nicht vom Laufen, dachte Priya. Vom Rest.
 
 „Sie kommt."
 
@@ -96,10 +96,18 @@ Finn sah sie an. Die Schatten unter seinen Augen waren noch da, dunkler als letz
 
 „Okay", sagte sie noch einmal. Leiser. Für sich.
 
-Archie zog den Bleistift aus der Jackentasche und hielt ihn zwischen den Fingern, ohne zu zeichnen. Drei Kinder in der Böschung unter einer Steinbrücke, zwischen Brombeerdornen und feuchter Erde, während die Dämmerung sich über den Kanal legte.
+Archie legte die Hand flach auf sein Knie. Drei Kinder in der Böschung unter einer Steinbrücke, zwischen Brombeerdornen und feuchter Erde, während die Dämmerung sich über den Kanal legte.
 
-Dann, von Westen: ein Geräusch. Leise, aber deutlich in der Stille. Ein Motor.
+Ein Knacken. Oben, hinter den Brombeeren.
 
-Priyas Finger schlossen sich fester um den Rucksackriemen. Neben ihr atmete Finn aus. Archie legte den Bleistift auf sein Knie und drehte den Kopf Richtung Westen, wo der Treidelpfad in der Dunkelheit verschwand.
+Priyas Hand zuckte an den Rucksackriemen. Ihr Rücken versteifte sich, und für einen Schlag hörte sie nichts außer dem eigenen Puls hinter den Ohren. Archie sah hoch. Finn hielt die Luft an.
+
+Dann ein Flattern — dunkel, schwer, zu nah. Ein Vogel schob sich aus dem Dornengewirr, stieg über den Kanal, verlor sich Richtung Osten. Ein Ast wippte nach.
+
+Priya atmete aus, ein langer, stiller Zug. *Nichts. Nur ein Vogel.* Sie zählte wieder. *Ein, zwei, drei.* Der Riemen lag warm in ihrer Hand. Sie löste die Finger, einen nach dem anderen.
+
+Und dann, von Westen: ein Geräusch. Leise, aber deutlich in der Stille. Ein Motor.
+
+Priyas Finger schlossen sich wieder fester um den Rucksackriemen. Neben ihr atmete Finn aus. Archie drehte den Kopf Richtung Westen, wo der Treidelpfad in der Dunkelheit verschwand.
 
 Es ging los.

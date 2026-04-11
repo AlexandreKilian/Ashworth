@@ -7,7 +7,7 @@ szene: S01
 pov: Archie
 ort: Cottage am Kanal / Kanalweg
 zeit: Mittwoch bis Donnerstag, ca. fünf Tage nach K13
-status: entwurf
+status: überarbeitet
 ---
 
 # Leere Tage
@@ -22,7 +22,7 @@ Da war nichts zu halten. Kein Einband, kein Bleistift zwischen den Zähnen, kein
 
 Morgens stand er auf. Zähne putzen. Treppe runter — dritte Stufe, fünfte Stufe, Füße an den Rand, obwohl es keinen Grund mehr gab, leise zu sein. Küche. Toast. Ted am Tisch, Teetasse in der knotigen Hand, Brille auf der Nasenspitze, _Bristol Post_ aufgeschlagen. Archie setzte sich hin. Aß. Ging zur Schule. Kam zurück. Aß. Ging nach oben.
 
-Die Tage liefen ineinander wie Wasser, das über eine Schwelle tritt — lautlos und ohne Form.
+Die Tage liefen ineinander wie Wasser, das lautlos und formlos über eine Schwelle tritt.
 
 Am Mittwoch ging er den Kanalweg entlang. Nicht, weil er irgendwohin wollte. Weil die Wände des Dachzimmers zu nah waren und die Schrägen zu tief und die leere Stelle auf dem Regal, wo die Skizzenbücher standen, zu laut.
 
@@ -55,6 +55,8 @@ Neben der Rechnung lag ein Bleistift. Einer von Teds — kurz, abgekaut, mit Zah
 Archie griff danach.
 
 Nicht bewusst. Seine Finger schlossen sich um den Bleistift, bevor der Gedanke kam, und dann saß er da, den Stift in der Hand, die Spitze einen Zentimeter über dem Papier, und er atmete.
+
+Das Gewicht war falsch. Zu kurz, die Balance zu weit vorn, und die Zahnspuren unter dem Daumen waren nicht seine — aber die Finger kannten die Haltung, und die Haltung kannte den Rest.
 
 Er zeichnete nicht.
 

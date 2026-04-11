@@ -5,7 +5,7 @@ tags:
 kapitel: K07
 pov: Finn
 ort: The Magpie
-status: entwurf
+status: überarbeitet
 was_passiert: Die drei richten The Magpie als Hauptquartier ein
 ziel: Gruppenrollen zeigen, Freundschaft vertiefen, Hauptquartier aufbauen
 ---
@@ -66,9 +66,9 @@ Finn stellte Fragen.
 
 „Der ist sicher." Sie tippte gegen den Rucksack. „Nicht alles muss an der Wand hängen."
 
-Draußen schlug das Kanalwasser gegen den Rumpf — ein gleichmäßiger, langsamer Rhythmus, wie ein Puls. Licht fiel durch die beschlagenen Fenster und malte trübe Rechtecke auf den Boden. Staubpartikel trieben durch die Strahlen. Es roch nach feuchtem Holz und Priyas Müsliriegeln und dem Lack, der an der Decke in winzigen Blasen aufwarf.
+Draußen schlug das Kanalwasser gegen den Rumpf — ein gleichmäßiger, langsamer Rhythmus, wie ein Puls. Es roch nach feuchtem Holz und Priyas Müsliriegeln und dem Lack, der an der Decke in winzigen Blasen aufwarf.
 
-„Ich müsste eigentlich im Laden sein", sagte Priya. Sie sagte es beiläufig, ohne aufzusehen, während sie einen weiteren Streifen Packpapier glatt strich. „Samstags ist Ravi erst ab zwei da."
+„Ich müsste eigentlich im Laden sein", sagte Priya. Sie sagte es, ohne aufzusehen, während sie einen weiteren Streifen Packpapier glatt strich. „Samstags ist Ravi erst ab zwei da."
 
 Niemand antwortete. Priya zuckte die Schultern — dieselbe Bewegung wie vorhin auf dem Steg, die sagte: *Egal* und *Ich bin trotzdem hier*.
 

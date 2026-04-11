@@ -5,7 +5,7 @@ tags:
 kapitel: K11
 pov: Priya
 ort: Kanalweg, Badehaus (von außen)
-status: entwurf
+status: überarbeitet
 was_passiert: Die drei überprüfen das Badehaus aus sicherer Entfernung. Das Squire-Schloss ist weg, ein neues schweres Schloss hängt an der Tür, der Zaun ist repariert, die Brennnesseln abgeschnitten. Finn will näher, wird zurückgehalten. Er erwähnt, dass eine Frau ihn im Ort angesprochen hat. Priya erkennt: Aus Ermittlern sind Beobachtete geworden.
 ziel: Bad Guys Close In — die Schmuggler reagieren schnell und professionell, die Gruppe wird zum Ziel
 ---
@@ -22,7 +22,7 @@ Sie stand am Kanalweg, zwanzig Meter vom Badehaus entfernt, die Hände in den Ta
 
 „Weil ich gestern Abend hier war."
 
-Priya drehte den Kopf. Finn stand mit hochgezogenen Schultern, die Hände tief in der Wachsjacke vergraben. Der Klebeband-Flicken am Ellbogen war erneuert worden — frisches, silbernes Klebeband über dem alten.
+Priya drehte den Kopf. Finn stand mit hochgezogenen Schultern, die Hände tief in der Wachsjacke vergraben. Der Klebeband-Flicken am Ellbogen sah anders aus als beim letzten Mal, glatter, straffer gespannt.
 
 „Allein?"
 
@@ -46,7 +46,7 @@ Er nahm den Bleistift aus dem Mund. „Ich seh's."
 
 Finn trat einen Schritt vor. Dann noch einen.
 
-„Finn." Priyas Hand schoss vor und schloss sich um seinen Unterarm. Dieselbe Stelle wie im Tunnel. Ihre Finger erinnerten sich.
+„Finn." Priyas Hand schoss vor und schloss sich um seinen Unterarm. Dieselbe Stelle wie im Tunnel. Der raue Stoff der Wachsjacke unter ihren Fingern, vertraut und fremd zugleich.
 
 „Ich will nur —"
 
@@ -62,7 +62,7 @@ Der Gedanke saß wie ein Splitter unter der Haut.
 
 Finn zog den Arm zurück. Nicht ruckartig — langsam, als müsste er sich dazu zwingen. „Das sind Profis", sagte er. „Keine Gelegenheits — was auch immer. Profis. Die haben jemanden geschickt, der aufräumt."
 
-Archie setzte sich wieder auf die Böschung. Sein Bleistift kratzte über das Papier — schnelle, kurze Striche. Priya wusste, ohne hinzusehen, dass er das neue Schloss skizzierte. Proportionen, Form, die Art der Befestigung. Details, die sie aus zwanzig Metern nicht erkennen konnte, aber Archie schon.
+Archie setzte sich wieder auf die Böschung. Er skizzierte mit schnellen, kurzen Strichen. Priya wusste, ohne hinzusehen, dass er das neue Schloss festhielt. Proportionen, Form, die Art der Befestigung. Details, die sie aus zwanzig Metern nicht erkennen konnte, aber Archie schon.
 
 Sie standen eine Weile schweigend da. Der Wind roch nach Kanal — Schlamm, Moos, das brackige Wasser, das sich kaum bewegte. Eine Amsel sang irgendwo in den Weiden am anderen Ufer, laut und ahnungslos.
 
@@ -74,7 +74,7 @@ Er kaute auf der Innenseite seiner Wange. „Heute Morgen. Im Laden." Er meinte 
 
 Stille.
 
-Archies Bleistift hörte auf zu kratzen.
+Das Kratzen auf dem Papier hörte auf.
 
 „Was hast du gesagt?", fragte Priya.
 

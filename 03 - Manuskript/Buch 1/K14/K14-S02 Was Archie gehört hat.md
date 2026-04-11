@@ -7,7 +7,7 @@ szene: S02
 pov: Archie
 ort: Finns Zuhause (Reihenhaus, Ashworth Green)
 zeit: Freitagnachmittag, ein Tag nach S01
-status: entwurf
+status: überarbeitet
 ---
 
 # Was Archie gehört hat
@@ -36,9 +36,9 @@ Archie sah ihn an.
 
 Keiner von beiden sagte etwas. In der Küche hinter Finn klapperte ein Löffel in einer Tasse, und Beas Stimme rief etwas Unverständliches.
 
-„Ich —", sagte Archie. Das Wort blieb stecken. Sein Mund formte den nächsten Laut, aber die Luft kam nicht hinterher, und er spürte, wie sein Kiefer sich verkrampfte, die Zunge am Gaumen klebte, und das Stottern war da, schwer und hart, schlimmer als in der Schule, schlimmer als vor Fremden, weil das hier nicht irgendein Satz war.
+„Ich —", sagte Archie. Das Wort blieb stecken. Sein Mund formte den nächsten Laut, aber die Luft kam nicht hinterher, und er spürte, wie sein Kiefer sich verkrampfte, die Zunge am Gaumen klebte, und das Stottern war da, schwer und hart, schlimmer als in der Schule, schlimmer als vor Fremden.
 
-„Ich h-h—" Er brach ab. Atmete. Seine Hand mit den Blättern zitterte.
+„Ich h-h—" Er brach ab. Atmete.
 
 Finn trat zur Seite.
 

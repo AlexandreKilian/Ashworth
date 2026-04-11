@@ -5,7 +5,7 @@ tags:
 kapitel: K10
 pov: Finn
 ort: Tunnel → Tunnelausgang am Kanal
-status: entwurf
+status: überarbeitet
 was_passiert: Die drei hören Stimmen und Schritte über sich — die Schmuggler sind im Badehaus. Flucht durch den Tunnel Richtung Kanal, Archie übernimmt die Führung im Dunkeln. Sie entkommen durch ein loses Gitter am Kanalrand. Die Luke blieb offen — die Schmuggler werden wissen, dass jemand da war.
 ziel: Midpoint-Klimax — aus dem Triumph wird echte Gefahr, aus Detektiven werden Gejagte
 ---
@@ -34,11 +34,11 @@ Die Kisten neben ihnen. Die Nummern auf dem hellen Holz. Der Zellophan-Geruch.
 
 Finn dachte drei Gedanken gleichzeitig, und alle drei sagten dasselbe: _Weg._
 
-Nicht zurück zur Luke. Die Luke lag in Richtung der Stimmen, oben am Beckenrand, offen, ein Loch im Boden, das alles verriet. Wenn sie zur Luke gingen, liefen sie den Stimmen entgegen. Wenn sie die Luke schlossen, hörte man es. Wenn sie sie offenließen —
+Nicht zurück zur Luke. Die Luke lag in Richtung der Stimmen, oben am Beckenrand, offen, ein Loch im Boden, das alles verriet. Wenn sie zur Luke gingen, liefen sie den Stimmen entgegen. Wenn sie sie offenließen —
 
 _Wenn sie sie offenließen, wussten die Schmuggler, dass jemand da gewesen war._
 
-Das spielte jetzt keine Rolle. Jetzt spielte nur eine Sache eine Rolle.
+Das spielte jetzt keine Rolle. Nur eine Sache zählte.
 
 Er drehte den Kopf in die Richtung, aus der es zog. Kalt und feucht, ein dünner Luftstrom, der nach Kanal roch — Schlamm und Moos und die brackige Kühle von stehendem Wasser. Der Tunnel führte dorthin. Zum Kanal. Zum Ausgang.
 

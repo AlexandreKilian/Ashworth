@@ -5,7 +5,7 @@ tags:
 kapitel: K09
 pov: Archie
 ort: Das Cottage am Kanal, Kanalweg, Das viktorianische Badehaus (außen)
-status: entwurf
+status: überarbeitet
 was_passiert: Archie studiert seinen Grundriss, schleicht sich aus dem Cottage und geht allein zum Badehaus, öffnet das Schloss
 ziel: Archie bricht die Gruppenabmachung halb — allein zum Badehaus, um den Grundriss zu vervollständigen
 ---
@@ -16,7 +16,7 @@ Der Bleistift schwebte über dem Skizzenbuch, und Archie zählte Schritte, die e
 
 Sieben vom Beckenrand zur Umkleidetür. Drei durch den Gang. Dann die Eingangshalle, das Kassenhäuschen links, und dahinter — nichts. Eine Wand, die auf seinem Grundriss zu dick war. Er hatte sie beim letzten Besuch mit Schritten abgemessen, die Zahlen am Rand notiert, und jetzt, auf dem Bett liegend, das Buch auf den angezogenen Knien, sahen die Zahlen falsch aus.
 
-Er drehte das Buch. Die Kellertreppe am hinteren Ende des Beckens führte nach unten und dann — sein Bleistift hatte dort eine gestrichelte Linie gezogen, eine Richtung, die ins Leere lief. In den Bereich, wo Wand war, wo Wand sein musste, aber wo die Maße nicht aufgingen.
+Er drehte das Buch. Die Kellertreppe am hinteren Ende des Beckens führte nach unten und dann — dort lief eine gestrichelte Linie, eine Richtung, die ins Leere. In den Bereich, wo Wand war, wo Wand sein musste, aber wo die Maße nicht aufgingen.
 
 Unten lief der Fernseher. Gedämpftes Gemurmel, eine Quizshow, und dazwischen Teds Atem — langsam und schwer, das gleichmäßige Schnarchen, das nach dem dritten Tee kam. Donnerstagabend. Das Abendessen, Bangers and Mash, war abgeräumt, die Küchenuhr hatte neun geschlagen, und Ted war im Sessel eingenickt, die knotigen Hände auf der Sessellehne, der Mund leicht offen.
 
@@ -26,7 +26,9 @@ Die schwarzen Chucks standen neben dem Stuhl. Er zog sie an, ohne die Schnürsen
 
 Die Treppe kannte er auswendig. Dritte Stufe knarrt, fünfte Stufe knarrt. Er setzte die Füße an den Rand, dort, wo das Holz fest auf dem Balken saß, und kam lautlos unten an. Durch den Flur zur Küche — Teds Schnarchen trug bis hierher, ein beruhigendes, raues Geräusch. Archie griff nach dem Schlüssel am Haken neben der Hintertür, drehte ihn langsam, drückte die Klinke.
 
-Draußen schlug ihm feuchte Kühle entgegen. Der Vorgarten roch nach nassem Gras und dem brackigen Wasser des Kanals. Kein Mond — nur die Straßenlaterne an der Brücke, die einen orangefarbenen Fleck auf den Treidelpfad warf. Archie zog die Tür hinter sich zu, bis das Schloss leise einrastete.
+Draußen schlug ihm feuchte Kühle entgegen. Der Vorgarten roch nach nassem Gras und dem brackigen Wasser des Kanals. Archie zog die Tür hinter sich zu, bis das Schloss leise einrastete.
+
+Kein Mond. Nur die Straßenlaterne an der Brücke, die einen orangefarbenen Fleck auf den Treidelpfad warf.
 
 Der Kanalweg war sein Terrain.
 

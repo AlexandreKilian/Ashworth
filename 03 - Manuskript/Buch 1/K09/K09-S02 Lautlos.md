@@ -5,7 +5,7 @@ tags:
 kapitel: K09
 pov: Archie
 ort: Das viktorianische Badehaus (Eingangshalle, Schwimmbecken, Umkleiden, Nebenräume)
-status: entwurf
+status: überarbeitet
 was_passiert: Archie kartiert das Badehaus bei Nacht — ohne Taschenlampe, nur Mondlicht. Findet zweiten Nebenraum (sauber gewischt), entdeckt dass die Wand am tiefen Ende zu dick ist. Am Beckenrand sieht er eine Kante im Boden — Holz.
 ziel: Archie vervollständigt den Grundriss und entdeckt die erste Spur der verborgenen Luke
 ---
@@ -36,7 +36,7 @@ Zwölf Schritte den Gang entlang. Rechts die Kabinen — er zählte sie, indem e
 
 Seine Finger fanden eine Kante. Nicht Wand. Türrahmen.
 
-Er tastete weiter. Ein schmaler Durchgang, kaum breiter als seine Schultern, der nach rechts abknickte. Auf seinem Grundriss war hier nichts. Er zog den Bleistift hinters Ohr, steckte das Skizzenbuch in die Jackentasche und ging mit beiden Händen an den Wänden weiter. Fünf Schritte. Dann eine Tür — niedrig, Holz, nur angelehnt. Er drückte sie mit den Fingerspitzen auf.
+Er tastete weiter. Ein schmaler Durchgang, kaum breiter als seine Schultern, der nach rechts abknickte. Auf seinem Grundriss war hier nichts. Er steckte das Buch zurück und ging mit beiden Händen an den Wänden weiter. Fünf Schritte. Dann eine Tür — niedrig, Holz, nur angelehnt. Er drückte sie mit den Fingerspitzen auf.
 
 Der Raum dahinter war klein. Drei Schritte mal vier, soweit er ertasten konnte. Keine Fenster. Kein Mondlicht. Archie kniete sich hin und legte die Handfläche flach auf den Boden.
 
@@ -48,9 +48,9 @@ Archie stand reglos und horchte. Tropfen. Tauben. Sein Atem, der schneller ging 
 
 Er zog das Buch heraus und zeichnete blind — den Durchgang hinter den Kabinen, die Abknickung, die niedrige Tür, den Raum. Die Proportionen würde er später korrigieren. Die Tatsache, dass es diesen Raum gab, war wichtiger als seine Maße.
 
-*Sauber gewischt*, notierte er am Rand. Dann ein Fragezeichen.
+_Sauber gewischt_, notierte er am Rand. Dann ein Fragezeichen.
 
-Er verließ den Raum, ohne etwas zu berühren. Die Tür ließ er angelehnt, wie er sie vorgefunden hatte. Teds Stimme: *Lass alles so, wie du es vorgefunden hast.*
+Er verließ den Raum, ohne etwas zu berühren. Die Tür ließ er angelehnt, wie er sie vorgefunden hatte. Teds Stimme: _Lass alles so, wie du es vorgefunden hast._
 
 Zurück am Schwimmbecken nahm er den Grundriss vor. Im Mondlicht konnte er die Linien gerade erkennen — sein Bleistift hatte tief genug gedrückt, dass er die Rillen mit den Fingerspitzen lesen konnte. Er verglich den Raum mit der Zeichnung. Die Eingangshalle: richtig. Die Umkleidekabinen: jetzt korrigiert. Die Kellertreppe am hinteren Ende: richtig.
 
@@ -66,7 +66,7 @@ Vier Meter minus einen halben. Dreieinhalb Meter, die nirgendwo hingehörten.
 
 Er zeichnete die Zahlen neben den Grundriss, klein und eng, seine Handschrift, die nur er lesen konnte. Dann schraffierte er den Bereich hinter der Wand am tiefen Ende. Ein Hohlraum. Oder ein Raum, der nicht auf dem Grundriss existierte. Wie der Nebenraum hinter den Umkleiden — nur größer.
 
-Die feuchte Kälte kroch durch seine Jacke. Er merkte es erst jetzt, weil er stillstand. Im Gehen hatte er sie nicht gespürt. Ein Tropfen fiel irgendwo links von ihm, laut in der Stille, und etwas raschelte oben im Stahlgerippe.
+Die feuchte Kälte kroch durch seine Jacke. Er merkte es erst jetzt, weil er stillstand. Im Gehen hatte er sie nicht gespürt. Oben im Stahlgerippe raschelte etwas, Krallen auf Metall, dann wieder nichts.
 
 Archie wartete. Zählte. Dreißig Sekunden. Keine weiteren Geräusche. Nur das Tropfen und sein Atem.
 
@@ -80,4 +80,4 @@ Nicht Fliese. Nicht Beton.
 
 Holz.
 
-Sein Bleistift schwebte über dem Skizzenbuch. Die Mondstreifen wanderten langsam über die Fliesen, und das Tropfwasser zählte Sekunden, die er nicht mehr zählte.
+Sein Bleistift schwebte über dem Skizzenbuch. Die Mondstreifen wanderten langsam über die Fliesen, und er kniete reglos, den Finger noch auf der Kante.

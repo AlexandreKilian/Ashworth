@@ -5,7 +5,7 @@ tags:
 kapitel: K11
 pov: Priya
 ort: Sharma's News & Convenience, Wohnung über dem Laden
-status: entwurf
+status: überarbeitet
 was_passiert: Priya kommt zu spät zurück, Ravi hat sie nicht gedeckt. Papa stellt sie zur Rede, Mama verschärft mit stiller Enttäuschung. Priya zieht sich ins Zimmer zurück, sieht die Werkzeuge ihres Doppellebens im Rucksack und hasst für einen Moment beides.
 ziel: Bad Guys Close In — Druck von innen. Priyas persönlicher Konflikt eskaliert, die Familie als zweite Front.
 ---
@@ -64,7 +64,7 @@ Schritte auf der Treppe. Das leise Knarren der dritten Stufe, die immer knarrte.
 
 „Wir verlassen uns auf dich, Priya."
 
-Fünf Wörter. Ihre Mutter sagte sie ohne Nachdruck, ohne erhobene Stimme, als würde sie eine Selbstverständlichkeit aussprechen — Wasser ist nass, der Laden öffnet um sieben, wir verlassen uns auf dich. Und genau das machte es unerträglich. Kein Vorwurf, den Priya hätte abwehren können. Eine Wahrheit, die sich um ihren Brustkorb legte.
+Fünf Wörter. Ihre Mutter sagte sie ohne Nachdruck, ohne erhobene Stimme, als würde sie eine Selbstverständlichkeit aussprechen — Wasser ist nass, der Laden öffnet um sieben, wir verlassen uns auf dich. Und genau das machte es unerträglich. Eine Wahrheit, die sich um ihren Brustkorb legte.
 
 Priya nickte. Ihre Kehle war zu eng für Worte.
 
@@ -86,7 +86,7 @@ Sie presste die Handballen auf die Augen. *Wir verlassen uns auf dich.* Und glei
 
 Für einen Moment hasste sie beides. Den Laden mit seinen Quittungsrollen und dem klebenden Linoleum und dem Flackern der Neonröhre. Und das Geheimnis mit seinen Ziplock-Beuteln und Handschuhen und der Angst, die sich in ihren Magen grub. Zwei Leben, die beide an ihr zogen, und keins ließ los.
 
-Das Handy auf dem Nachttisch blieb dunkel. Keine Nachricht von Finn. Keine von Archie. Nur sie und der offene Rucksack und der Geruch von Daal, der unter der Tür durchkroch.
+Das Handy auf dem Nachttisch blieb dunkel. Keine Nachricht von Finn. Keine von Archie. Nur sie und der Geruch von Daal, der unter der Tür durchkroch.
 
 Im Flur: das leise Schlurfen von Pantoffeln auf Linoleum. Nanis Pantoffeln. Priya kannte das Geräusch, wie sie jedes Geräusch in diesem Haus kannte — das Knarren der Treppe, das Summen der Heizung, das Klappern von Ravis Musik.
 

@@ -5,7 +5,7 @@ tags:
 kapitel: K11
 pov: Priya
 ort: Klassenzimmer, Year 8
-status: entwurf
+status: überarbeitet
 was_passiert: Priya sitzt übermüdet in der Freitagnachmittagsstunde, als eine Polizistin als Gast in den Unterricht kommt. Während des Auftritts erkennt Priya, dass diese Frau seit Monaten donnerstags im Laden einkauft — Evening Post und Pfefferminztee. Der Name fällt: DS Hargreaves. Nach dem Gong übergibt Priya am Schultor diese Information an Archie.
 ziel: Bad Guys Close In — DS Hargreaves wird on-stage eingeführt. Priyas Selbstbild als Informationssammlerin bekommt einen Kratzer, und ein Donnerstag-Muster wird für Archie hinterlegt.
 ---
@@ -26,7 +26,7 @@ Das Wort *Polizistin* legte sich kurz an Priyas Nacken und glitt wieder weg. Sie
 
 Die Pause war kürzer, als sie brauchte. Stühle scharrten, jemand lachte zu hoch, jemand anderes fragte „Warum Polizei?", und die Lehrerin winkte ab, als wäre es das harmloseste Wort des Tages.
 
-Zwei Reihen weiter, am Fenster, saß Finn. Priya sah seinen Kopf im Profil, die strubbeligen Haare, die ihm in die Stirn hingen. Er kaute auf dem Ende eines Bleistifts, und sein Blick klebte an der Tür, als würde sie gleich etwas Wichtiges ausspucken. Der Klebebandflicken am Ellbogen seiner Wachsjacke war frisch — silbernes Band über älterem silbernem Band, sie erkannte die Schichten sogar aus ihrer Entfernung. Kaputtes Ding, reparieren, weitermachen. Das passte zu ihm.
+Zwei Reihen weiter, am Fenster, saß Finn. Priya sah seinen Kopf im Profil, die strubbeligen Haare, die ihm in die Stirn hingen. Er kaute auf dem Ende eines Bleistifts, und sein Blick klebte an der Tür, als würde sie gleich etwas Wichtiges ausspucken. Der Klebebandflicken am Ellbogen seiner Wachsjacke war frisch — silbernes Band, das im Fensterlicht schimmerte. Kaputtes Ding, reparieren, weitermachen. Das passte zu ihm.
 
 Er sah kurz zu ihr herüber. Keine Geste, kein Nicken. Nur ein Blick, der sagte: *Ich weiß, dass du hier bist.* Dann wieder zur Tür.
 
@@ -42,7 +42,7 @@ Die Frau ging bis vor die Tafel, drehte sich um und sah die Klasse an. Nicht suc
 
 Die Frau setzte sich auf die Kante des Lehrertischs, nicht auf den Stuhl. Der Tisch quietschte unter dem zusätzlichen Gewicht. Sie stellte den Becher dicht am Rand ab, so wie man ihn abstellt, wenn man ihn gleich wieder in die Hand nehmen will.
 
-In Priyas Bauch zog etwas leise an. Nicht scharf. Ein kleiner, dumpfer Zug, wie wenn ein Name an der Zungenspitze saß und nicht fallen wollte. Es war etwas Vertrautes an der Art, wie der Becher gehalten wurde, am Daumen am Rand, am kleinen Druck, mit dem sie ihn hinstellte. Priya verdrängte es. Der Kopf reichte nicht für Tunnelkisten *und* Vertrautheit im Klassenzimmer.
+In Priyas Bauch zog etwas leise an. Nicht scharf. Ein kleiner, dumpfer Zug, wie wenn ein Name an der Zungenspitze saß und nicht fallen wollte. Etwas an der Art, wie der Becher gehalten wurde, kam ihr vertraut vor. Der Daumen am Rand, der kleine Druck, mit dem die Frau ihn hinstellte. Priya verdrängte es. Der Kopf reichte nicht für Tunnelkisten *und* Vertrautheit im Klassenzimmer.
 
 Die Frau räusperte sich, griff nach dem Becher, trank einen langen Schluck. Stellte ihn zurück.
 

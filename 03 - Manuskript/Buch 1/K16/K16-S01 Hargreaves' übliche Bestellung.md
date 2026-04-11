@@ -5,7 +5,7 @@ tags:
 kapitel: K16
 pov: Priya
 ort: Sharma's News & Convenience
-status: entwurf
+status: überarbeitet
 was_passiert: "Priya liest in der Zeitung über die Festnahme. Hargreaves kommt für ihre Donnerstagsbestellung und lässt beiläufig wissen, dass sie die drei kennt."
 ziel: "Final Image — stiller Triumph, Hargreaves-Hook für Band 2"
 ---
@@ -26,7 +26,7 @@ Die Türglocke klingelte. Mr. Hutchins, _Post_ und Hustenbonbons. Er legte das G
 
 „Studientag."
 
-Er nickte, als wäre das Antwort genug, und nickte dann zur aufgeschlagenen Zeitung. „Haben Sie das gelesen? Am Kanal. Direkt unter unserer Nase."
+Er nickte, als wäre das Antwort genug, und deutete dann auf die aufgeschlagene Zeitung. „Haben Sie das gelesen? Am Kanal. Direkt unter unserer Nase."
 
 „Ja", sagte Priya. „Verrückt."
 
@@ -48,9 +48,9 @@ Sie faltete die Zeitung nicht zu. Ließ sie liegen, den Artikel nach oben, die D
 
 Eine Frau kam herein, kaufte Milch und eine Postkarte, bezahlte mit einer Fünf-Pfund-Note. Priya gab Wechselgeld heraus, ohne nachzudenken. Münzen auf den Tresen, eins zwanzig. „Danke." Türglocke. Stille.
 
-Der Laden war leer. Donnerstagvormittag, Viertel nach zehn, die ruhigste Stunde der Woche. Papa war im Lager, Kartons stapeln, und ab und zu hörte Priya das dumpfe Aufsetzen von Pappe auf Beton. Ravi kam erst um zwei. Durch das Schaufenster sah Priya die _High Street_, grau und feucht, ein paar Autos, eine Frau mit Regenschirm. Das Süßigkeitenregal neben der Kasse brauchte Nachschub, aber Priya rührte sich nicht. Ashworth Green sah aus, als wäre nie etwas passiert.
+Der Laden war leer. Donnerstagvormittag, Viertel nach zehn, die ruhigste Stunde der Woche. Papa war im Lager, Kartons stapeln, und ab und zu hörte Priya das dumpfe Aufsetzen von Pappe auf Beton. Ravi kam erst um zwei. Ashworth Green sah aus, als wäre nie etwas passiert.
 
-Priya strich mit dem Daumen über den Rand der Zeitung. Die Tinte verschmierte leicht an den Fingerkuppen. Sie las den letzten Absatz noch einmal. _Die Ermittlungen dauern an. Die Polizei bittet um Hinweise aus der Bevölkerung._
+Priya strich mit dem Daumen über den Rand der Zeitung. Sie las den letzten Absatz noch einmal. _Die Ermittlungen dauern an. Die Polizei bittet um Hinweise aus der Bevölkerung._
 
 Die Türglocke klingelte.
 
@@ -66,13 +66,13 @@ Hargreaves ging zum Zeitungsständer, griff nach der _Evening Post_, ohne zu suc
 
 Hargreaves zog einen zerknitterten Fünfer aus der Hosentasche und legte ihn auf den Tresen. Priya öffnete die Kasse, zählte das Wechselgeld ab. Ein Pfund, fünfundzwanzig Pence. Die Münzen klickten auf die Theke.
 
-„Danke." Hargreaves nahm das Wechselgeld, steckte es ein, nahm die _Post_ unter den Arm. Der Pfefferminztee blieb auf dem Tresen liegen, als hätte sie ihn vergessen. Ein schwacher Geruch stieg aus der Packung auf, kühl und scharf, und Priya dachte an den Donnerstag vor einer Woche, als Finn vor der Ladentür auf genau diese Frau gewartet hatte.
+„Danke." Hargreaves nahm das Wechselgeld, steckte es ein, nahm die _Post_ unter den Arm. Der Pfefferminztee blieb auf dem Tresen liegen, als hätte sie ihn vergessen.
 
 Dann, ohne aufzusehen: „Interessanter Aufmacher."
 
 Priyas Finger lagen still auf der Kassenlade.
 
-„Die Jungs von der Festnahme", sagte Hargreaves. Ihr Ton war derselbe wie bei der Frage nach Hustenbonbons oder der Uhrzeit. Beiläufig. Trocken. „Haben auf der Wache ziemlich geschimpft. Über alles Mögliche. Schlechtes Essen, unbequeme Stühle." Sie nahm die Teepackung vom Tresen, drehte sie einmal in der Hand. „Und über drei Rotzlöffel, die ihnen alles verdorben hätten."
+„Die Jungs von der Festnahme", sagte Hargreaves. Ihr Ton war derselbe wie bei der Frage nach Hustenbonbons oder der Uhrzeit. Beiläufig. Trocken. „Haben auf der Wache ziemlich geschimpft. Über alles Mögliche. Schlechtes Essen, unbequeme Stühle." Sie nahm die Teepackung vom Tresen, drehte sie einmal in der Hand, und ein schwacher Geruch stieg aus dem Karton auf, kühl und scharf, und Priya dachte an den Donnerstag vor einer Woche, als Finn vor der Ladentür auf genau diese Frau gewartet hatte. „Und über drei Rotzlöffel, die ihnen alles verdorben hätten."
 
 Priya atmete nicht.
 

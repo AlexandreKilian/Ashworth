@@ -7,7 +7,7 @@ szene: S02
 pov: Finn
 ort: Tunnel unter dem Badehaus / Raum hinter den Umkleidekabinen
 zeit: Freitagabend, unmittelbar nach S01
-status: entwurf
+status: überarbeitet
 ---
 
 # Eingesperrt
@@ -100,9 +100,9 @@ _Meine Schuld._
 
 Die Worte lagen in seinem Kopf wie Steine. Schwer und rund und glatt, und sie rollten nicht weg, egal wie oft er versuchte, an etwas anderes zu denken.
 
-_Ich habe gesagt, wir gehen. Nicht Priya. Nicht Archie. Ich._
+_Archies leere Hände. Priyas Rucksack in der Jackentasche eines Fremden. Vier Wochen Zeichnungen, weg._
 
-_Archie hat in der Magpie gesagt, er kann nicht. Und ich habe an seine Tür geklopft, und er hat genickt, weil er mir vertraut, und jetzt —_
+_Und sie stehen hier, weil ich sie hergebracht habe. Sie stehen in der Dunkelheit, und draußen steht jemand vor der Tür, und das alles —_
 
 Er schluckte. Sein Mund war trocken. Der chemische Geschmack, der im Tunnel noch schwach gewesen war, war hier stärker — oder vielleicht bildete er sich das ein. Vielleicht war es nur die Angst, die auf seiner Zunge lag, metallisch und dünn.
 

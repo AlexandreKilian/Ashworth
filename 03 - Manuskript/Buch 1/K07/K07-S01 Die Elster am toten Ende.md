@@ -5,7 +5,7 @@ tags:
 kapitel: K07
 pov: Finn
 ort: The Magpie
-status: entwurf
+status: überarbeitet
 was_passiert: Archie zeigt Finn und Priya The Magpie als mögliches Hauptquartier
 ziel: The Magpie einführen, Archies Vertrauen zeigen
 ---
@@ -38,7 +38,7 @@ Ein leises Knarren, und Archie tauchte aus dem Inneren des Bootes auf. Er stand 
 
 Kein Stottern. Kein Zögern. Finn wechselte einen Blick mit Priya. Sie zuckte die Schultern — eine Bewegung, die gleichzeitig sagte: *Warum nicht* und *Falls wir einbrechen, ist es deine Schuld*.
 
-Der Steg zum Boot war ein Brett über dem Spalt zwischen Ufer und Deck. Es bog sich unter Finns Gewicht, und das Wasser darunter war dunkel und still. Er trat auf das Deck, und das ganze Boot schaukelte träge zur Seite. Unter seinen Füßen knarrte Holz. Priya folgte, eine Hand am Rucksackgurt, und das Boot schaukelte erneut.
+Der Steg zum Boot war ein Brett über dem Spalt zwischen Ufer und Deck. Es bog sich unter Finns Gewicht, und das Wasser darunter war dunkel und still. Er trat auf das Deck, und das ganze Boot schaukelte träge zur Seite. Unter seinen Füßen knarrte Holz. Priya folgte, eine Hand am Rucksackgurt, und das Boot neigte sich ein zweites Mal.
 
 Archie führte sie die drei Stufen in die Kabine hinunter.
 
@@ -50,7 +50,7 @@ Aber es war trocken. Und der Raum war größer, als er von außen gewirkt hatte.
 
 Archie setzte sich auf die Bank, das Skizzenbuch auf den Knien. „Letzten S-Sommer." Er strich mit dem Daumen über den Einband. „Ted weiß davon. Er sagt, das Boot gehört niemandem mehr."
 
-Er redete. Nicht viel, nicht schnell — aber mehr als sonst. Zeigte ihnen, wo das Dach dicht war und wo nicht. Wo man auftreten durfte und wo besser nicht. Wie das Wasser gegen den Rumpf schlug, wenn ein Lastkahn weiter oben im Kanal wendete, und wie man das Geräusch von Regen auf dem Dach unterschied. Seine Stimme war ruhig und gleichmäßig. Das Stottern kam nur einmal, als er erklärte, warum er ihnen das Boot zeigte, und dann brach er den Satz ab und zeigte stattdessen auf die Pinnwand aus Kork, die er an die Kabinenwand geschraubt hatte. Leer. Bereit.
+Er redete. Nicht viel, nicht schnell — aber mehr als sonst. Zeigte ihnen, wo das Dach dicht war und wo nicht. Wo man auftreten durfte und wo besser nicht. Wie man das Geräusch von Regen auf dem Dach unterschied. Seine Stimme war ruhig und gleichmäßig. Das Stottern kam nur einmal, als er erklärte, warum er ihnen das Boot zeigte, und dann brach er den Satz ab und zeigte stattdessen auf die Pinnwand aus Kork, die er an die Kabinenwand geschraubt hatte. Leer. Bereit.
 
 Finn lehnte sich gegen die gegenüberliegende Wand. Das Holz war kühl durch die Wachsjacke hindurch. Er sah Archie an, der auf der Bank saß, das Buch auf den Knien wie einen Schild, und zum ersten Mal nicht wegsah.
 

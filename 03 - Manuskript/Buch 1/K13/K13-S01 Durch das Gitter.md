@@ -7,14 +7,14 @@ szene: S01
 pov: Finn
 ort: Kanalböschung / Tunnelausgang / Tunnel
 zeit: Freitagabend, nach Einbruch der Dunkelheit
-status: entwurf
+status: überarbeitet
 ---
 
 # Durch das Gitter
 
 Die Böschung war steiler, als Finn sie in Erinnerung hatte.
 
-Er rutschte auf dem feuchten Gras ab, fing sich mit einer Hand am Mauerwerk und spürte den kalten Stein unter seinen Fingern, rau und glitschig zugleich. Hinter ihm raschelte es. Priya, den Rucksack vor der Brust, die Schritte vorsichtig und gleichmäßig. Und dahinter — leiser, fast lautlos — Archie.
+Er rutschte auf dem feuchten Gras ab, fing sich mit einer Hand am Mauerwerk und spürte den kalten Stein unter seinen Fingern, rau und glitschig zugleich. Hinter ihm raschelte es. Priya, den Rucksack vor der Brust, die Schritte vorsichtig und gleichmäßig. Und dahinter, leiser, fast lautlos, Archie.
 
 Finn hatte ihn vor zwei Stunden abgeholt. Hatte an die Cottage-Tür geklopft, und Archie hatte aufgemacht, das Skizzenbuch unter dem Arm, die Chucks schon an den Füßen. Er hatte nichts gesagt. Nur genickt. Einmal, kurz. Und Finn hatte das Nicken genommen und nichts gefragt, weil Fragen Antworten brauchten und Antworten Gründe und Gründe vielleicht ein Nein.
 

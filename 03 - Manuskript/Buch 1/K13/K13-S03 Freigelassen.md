@@ -7,7 +7,7 @@ szene: S03
 pov: Finn
 ort: Kellerraum / Badehaus-Eingangshalle / Kanalweg
 zeit: Freitagabend, ca. dreißig Minuten nach S02
-status: entwurf
+status: überarbeitet
 ---
 
 # Freigelassen
@@ -22,7 +22,7 @@ Finn blinzelte trotzdem. Nach dreißig Minuten im Dunkeln war selbst das wenige 
 
 Finn stand auf. Seine Beine waren steif. Neben ihm bewegte sich Priya, und hinter ihr Archie, und keiner von ihnen sagte etwas, weil es nichts zu sagen gab.
 
-Der Mann trat einen Schritt zurück. Nicht hastig. Nicht vorsichtig. So, wie jemand eine Tür aufhält, der es hundertmal getan hat.
+Der Mann trat einen Schritt zurück. Nicht hastig. Nicht vorsichtig. So, wie jemand eine Tür aufhält, der es seit Jahren getan hat.
 
 „Ihr geht jetzt."
 
@@ -42,7 +42,7 @@ Finn nickte. Er wusste nicht, warum. Der Mann wartete nicht auf ein Nicken. Er d
 
 Sie folgten ihm.
 
-Durch den Durchgang hinter den Umkleidekabinen. Vorbei an der sechsten Kabine, wo der Türrahmen kaum schulterbreit war. Dann die Treppe, Stufe für Stufe, und mit jeder Stufe wurde die Luft anders — weniger Stein, weniger Chemie, mehr Feuchtigkeit, mehr Nacht.
+Das Licht der Taschenlampe strich über den Boden, und zwischen den Schleifspuren, wo die Kisten gestanden hatten, lag ein gefaltetes Blatt Papier, vergilbt und steif. Finn bückte sich im Gehen, hob es auf und steckte es unbemerkt in die Innentasche seiner Jacke. Der Mann führte sie durch den Durchgang hinter den Umkleidekabinen. Vorbei an der sechsten Kabine, wo der Türrahmen kaum schulterbreit war. Dann die Treppe, Stufe für Stufe, und mit jeder Stufe wurde die Luft anders — weniger Stein, weniger Chemie, mehr Feuchtigkeit, mehr Nacht.
 
 Die Eingangshalle. Mondlicht fiel durch die Stahlstreben des offenen Dachs, in schmalen Streifen, die den Fliesenboden in Abschnitte teilten. Das Kassenhäuschen warf einen scharfen Schatten. Eine Taube rührte sich irgendwo über ihnen, ein trockenes Rascheln, und dann war es wieder still.
 
@@ -68,7 +68,7 @@ Der Kanalweg lag leer vor ihnen. Kein Wind, aber die Luft war kalt und feucht, u
 
 Niemand sprach.
 
-Finn öffnete den Mund. Er wollte etwas sagen — es tut mir leid, oder wir finden einen Weg, oder irgendetwas, das die Stille füllte und die Leere in seinem Magen und das Gewicht auf seinen Schultern. Aber die Worte kamen nicht. Sein Mund war leer. Wie die Galerie auf seinem Handy. Wie Priyas Rucksack. Wie Archies Hände.
+Finn öffnete den Mund. Er wollte etwas sagen — es tut mir leid, oder wir finden einen Weg, oder etwas, das die Stille füllte und die Leere in seinem Magen und das Gewicht auf seinen Schultern. Aber die Worte kamen nicht. Sein Mund war leer. Wie die Galerie auf seinem Handy. Wie Priyas Rucksack. Wie Archies Hände.
 
 Archie drehte sich um.
 
@@ -80,7 +80,7 @@ Priya stand neben Finn. Ihr Rucksack hing an einer Schulter, schief und halb off
 
 Finn sah sie an. Er wusste nicht, wofür. Dass sie mitgekommen war. Dass sie nicht mitgekommen wäre. Dass es nichts geändert hätte.
 
-Priya drehte sich um und ging. Nicht in Archies Richtung. Die andere Seite, Richtung *High Street*, Richtung Laden, Richtung nach Hause. Ihre Schritte waren leise und gleichmäßig, und sie sah nicht zurück.
+Priya drehte sich um und ging. Nicht in Archies Richtung. Die andere Seite, Richtung _High Street_, Richtung Laden, Richtung nach Hause. Ihre Schritte waren leise und gleichmäßig, und sie sah nicht zurück.
 
 Finn blieb stehen.
 
@@ -90,11 +90,11 @@ Es war fertig mit ihnen.
 
 Er stand da, die Jacke durchnässt, die Hände in den Taschen, und in den Taschen war nur sein Handy mit der leeren Galerie und ein Bleistift mit Zahnspuren und sonst nichts.
 
-*Ich habe sie hergebracht.*
+_Ich habe sie hergebracht._
 
 Der Gedanke lag da, schwer und rund, wie die Steine in dem Raum ohne Fenster.
 
-*Ich habe an seine Tür geklopft. Ich habe gesagt, wir gehen nochmal hin. Und jetzt stehen sie — jetzt stehe ich hier. Mit nichts.*
+_Ich habe an seine Tür geklopft. Ich habe gesagt, wir gehen nochmal hin. Und jetzt stehen sie — jetzt stehe ich hier. Mit nichts._
 
 Das Badehaus war dunkel. Es hatte aufgehört, zurückzuschauen.
 

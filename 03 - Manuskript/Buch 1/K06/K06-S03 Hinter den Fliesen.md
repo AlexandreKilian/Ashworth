@@ -5,7 +5,7 @@ tags:
 kapitel: K06
 pov: Archie
 ort: Das viktorianische Badehaus
-status: entwurf
+status: überarbeitet
 was_passiert: Erste Erkundung des Badehauses — frische Spuren, Archie widerspricht Finn
 ziel: Badehaus atmosphärisch zeigen, Archie als gleichberechtigte Stimme etablieren
 ---
@@ -22,23 +22,23 @@ Unter seinen Sohlen knirschte Putzstaub. Die Luft war schwer und feucht, mit dem
 
 Finn war schon voraus. Sein Schatten glitt durch den Lichtkegel, lang und schmal, und verschwand hinter einem Bogen. Priya folgte in gleichmäßigem Schritt, den Rucksack über beide Schultern gezogen, die Taschenlampe ruhig wie ein dritter Arm.
 
-Archie holte sein Skizzenbuch hervor. Er konnte hier nicht zeichnen — zu dunkel, zu schnell —, aber seine Finger brauchten etwas zum Festhalten. Er klemmte den Bleistift zwischen Zeige- und Mittelfinger und ging den beiden nach.
+Archie holte sein Skizzenbuch hervor. Er konnte hier nicht zeichnen — zu dunkel, zu schnell —, aber seine Finger brauchten etwas zum Festhalten. Er presste das Buch fester unter den Arm und ging den beiden nach.
 
 Hinter dem Bogen öffnete sich der Raum.
 
 Das Schwimmbecken. Archie stand am oberen Rand und sah hinunter, und sein Atem stockte.
 
-Es war leer, natürlich. Kein Wasser seit Jahren. Aber die Fliesen — grün und weiß, in einem Schachbrettmuster, das sich über die Wände und den Boden zog — leuchteten im Strahl der Taschenlampe, als hätte jemand sie poliert. Risse liefen durch das Muster wie Adern. In den Fugen wuchsen Farnwedel, zart und hellgrün, als wüssten sie nicht, dass sie nicht hierhergehörten. Am tiefen Ende, dort, wo das Becken am steilsten abfiel, glänzte eine Pfütze Regenwasser, schwarz und still wie ein kleiner Spiegel.
+Es war leer, natürlich. Kein Wasser seit Jahren. Aber die Fliesen — grün und weiß, in einem Schachbrettmuster, das sich über die Wände und den Boden zog — leuchteten im Strahl der Taschenlampe. Risse liefen durch das Muster. In den Fugen wuchsen Farnwedel, zart und hellgrün, als wüssten sie nicht, dass sie nicht hierhergehörten. Am tiefen Ende, dort, wo das Becken am steilsten abfiel, glänzte eine Pfütze Regenwasser, schwarz und still wie ein kleiner Spiegel.
 
 Archie hob den Blick. Über ihm fehlte das Dach.
 
-Das Glasdach, besser gesagt das, was davon übrig war. Stahlstreben ragten in den Himmel, nackt und gebogen, ein Gerippe ohne Haut. Zwischen den Streben sah er den Abendhimmel — grau, mit einem letzten Streifen Orange am westlichen Rand. Licht fiel schräg herein, wie durch die Rippen einer Kathedrale, und legte blasse Rechtecke auf die rissigen Fliesen.
+Das Glasdach, besser gesagt das, was davon übrig war. Stahlstreben ragten in den Himmel, nackt und gebogen, ein Gerippe ohne Haut. Zwischen den Streben sah er den Abendhimmel — grau, mit einem letzten Streifen Orange am westlichen Rand. Licht fiel schräg durch die Streben und legte blasse Rechtecke auf die rissigen Fliesen.
 
 *Das hier*, dachte Archie. *Das hier muss ich zeichnen.*
 
 „Archie." Priyas Stimme, gedämpft vom Echo. „Komm mal."
 
-Er riss sich los und folgte ihr am Beckenrand entlang. Finn stand schon bei den Umkleidekabinen. Die Türen hingen schief in den Angeln, manche fehlten ganz. Dahinter Haken an den Wänden, leer, angerostet. In einer Kabine lag ein einzelner Schuh auf dem Boden — ein Turnschuh, grau vor Schmutz, die Schnürsenkel steif. Archie fragte sich, wer ihn zurückgelassen hatte. Wer hier geschwommen war, in diesem Becken, unter diesem Dach, als es noch ganz gewesen war.
+Er riss sich los und folgte ihr am Beckenrand entlang. Finn stand schon bei den Umkleidekabinen. Die Türen hingen schief in den Angeln, manche fehlten ganz. In einer Kabine lag ein einzelner Turnschuh auf dem Boden, grau vor Schmutz, die Schnürsenkel steif. Archie fragte sich, wer ihn zurückgelassen hatte. Wer hier geschwommen war, in diesem Becken, unter diesem Dach, als es noch ganz gewesen war.
 
 Eine Taube flatterte über ihnen auf. Das Geräusch hallte durch den Raum, hart und laut wie ein Klatschen, und Archie zuckte zusammen. Finn nicht. Finn stand reglos und starrte auf etwas am Boden.
 
@@ -74,11 +74,11 @@ Stille. Irgendwo tropfte Wasser auf Fliesen, ein gleichmäßiges, hohles Ticken.
 
 Priya nickte. Sie sah Archie an, kurz, und in ihrem Blick lag etwas, das er nicht benennen konnte. Kein Lob. Kein Erstaunen. Etwas Ruhigeres. Anerkennung, vielleicht. Er sah weg.
 
-„Ich zeichne den Grundriss", sagte Archie. Er hob sein Skizzenbuch. „Alles, was wir gesehen haben. Eingänge, Treppen, Fenster. Damit wir wissen, wo wir sind."
+„Ich zeichne den Grundriss", sagte Archie.
 
-„Ich bring Ausrüstung mit", sagte Priya. Sie klopfte auf ihren Rucksack. „Richtige Ausrüstung. Nicht nur eine Taschenlampe."
+„Ich bring Ausrüstung mit." Priya klopfte auf ihren Rucksack.
 
-„Und ich beobachte die Lichter." Finn kaute auf seinem Bleistift. „Von außen. Um das Muster zu bestätigen. Donnerstag und Freitag — ob es immer dieselben Tage sind."
+„Und ich beobachte die Lichter." Finn kaute auf seinem Bleistift. „Donnerstag und Freitag."
 
 Keiner sagte, dass sie Angst hatten. Keiner musste.
 

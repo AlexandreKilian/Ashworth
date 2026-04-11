@@ -5,7 +5,7 @@ tags:
 kapitel: K12
 pov: Archie
 ort: Kanalweg / Cottage am Kanal
-status: entwurf
+status: überarbeitet
 was_passiert: Archie geht allein nach Hause. Seine Gedanken kreisen um die Warnung, und er stellt sich vor, wie der Mann vor dem Cottage steht und Ted bedroht. Im Cottage lügt er Ted an, flüchtet ins Dachzimmer und schiebt das Skizzenbuch unters Kopfkissen. Er weiß, was er morgen sagen wird.
 ziel: Archies Konfrontationsangst auf dem Höhepunkt zeigen. Setup für seinen Rückzug in S03.
 ---
@@ -22,13 +22,11 @@ Der Kanalweg machte eine leichte Biegung, und dann sah er das Cottage. Heller St
 
 Und da war es, das Bild, das er nicht wegschieben konnte. Ein Mann an der Gartenpforte. Nicht jung, nicht alt. Normale Jacke, normale Hose. Ruhige Stimme. Und Ted in der Tür, mit seinen knotigen Händen und seiner Wollweste, und der Mann sagt etwas, und Ted versteht nicht, warum.
 
-Archie blieb stehen. Er zog das Skizzenbuch unter dem Arm hervor und hielt es vor sich, beide Hände am Einband. Seine Finger zitterten. Nicht fein wie vorhin in der *Magpie*. Stärker. Er versuchte die letzte Seite aufzuschlagen, aber seine Hände gehorchten nicht, und das Buch rutschte ihm aus den Fingern und fiel auf den nassen Schotter.
-
-Er starrte es an. Es lag aufgeschlagen im Kies, die letzte Seite nach oben, Striche und Notizen in seiner engen Handschrift. Regentropfen fielen darauf.
+Archie blieb stehen. Er zog die Hände aus den Jackentaschen und hielt sie vor sich. Seine Finger zitterten. Nicht fein wie vorhin in der *Magpie*. Stärker. Er ballte die Fäuste, aber das Zittern kroch in die Handgelenke, die Unterarme.
 
 Er konnte nicht zeichnen. Und wenn er nicht zeichnen konnte, konnte er nicht denken. So war es immer gewesen, die Linien ordneten das Durcheinander in seinem Kopf, gaben den Formen einen Rand und dem Rand einen Sinn. Ohne die Linien war alles nur Rauschen.
 
-Archie hob das Buch auf, wischte den Kies von der Seite und klemmte es zurück unter den Arm. Nass jetzt. Die Tinte an den Rändern verlief.
+Archie steckte die Hände zurück in die Taschen und ging weiter.
 
 Die Hintertür war nicht abgeschlossen. Der Schlüssel hing am Haken, wie immer. In der Küche roch es nach Toast und nach dem Pfeifentabak, der seit Jahren in den Tapeten steckte. Ted saß in seinem Sessel, eine Tasse auf der Armlehne, die Brille auf der Nasenspitze. Die Quizshow lief, leise gestellt.
 
@@ -48,7 +46,7 @@ Die Worte blieben ihm in der Kehle stecken wie Krümel, die er nicht heruntersch
 
 „Tee wird kalt", sagte er.
 
-Archie ging an der Küche vorbei. An der Treppe setzte er die Füße an den Rand der Stufen, wo das Holz fest auf dem Balken saß. Die dritte Stufe, die fünfte, kein Knarren.
+Archie ging an der Küche vorbei. An der Treppe blieb er stehen. Der Pfeifentabakgeruch war hier stärker, warm und süßlich, und für einen Atemzug war alles nur ein ganz normaler Abend. Dann kam das Bild zurück — der Mann an der Gartenpforte — und Archie setzte die Füße an den Rand der Stufen, wo das Holz fest auf dem Balken saß. Die dritte Stufe, die fünfte, kein Knarren.
 
 Er trat ans Dachfenster.
 

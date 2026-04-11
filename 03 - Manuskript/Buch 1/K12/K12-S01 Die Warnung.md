@@ -5,7 +5,7 @@ tags:
 kapitel: K12
 pov: Archie
 ort: The Magpie
-status: entwurf
+status: überarbeitet
 was_passiert: Archie wartet in der Magpie auf Finn und Priya. Finn erzählt von einem Mann, der ihn auf der High Street abgefangen hat — ruhige Stimme, klare Drohung: Halt dich vom Badehaus fern. Archie spürt, wie die Panik aufsteigt, sein Körper reagiert, bevor sein Kopf hinterherkommt.
 ziel: Bad Guys Close In — Schmuggler gehen von passiver Reaktion zu aktiver Einschüchterung über. Die Bedrohung wird persönlich.
 ---
@@ -82,4 +82,4 @@ Ihre Namen waren nicht dort angepinnt. Aber sie hätten es genauso gut sein kön
 
 Das Tröpfeln auf dem Dach hatte aufgehört. Die Pinnwand sah plötzlich aus wie ein Beweis, den sie gegen sich selbst gesammelt hatten.
 
-Archie sah auf den Bleistift am Boden. Er bückte sich nicht danach.
+Archie sah auf den Bleistift am Boden. Er ließ ihn liegen.

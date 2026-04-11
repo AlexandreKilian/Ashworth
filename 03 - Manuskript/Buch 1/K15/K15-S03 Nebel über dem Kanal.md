@@ -7,14 +7,16 @@ szene: S03
 pov: Priya
 ort: Treidelpfad → The Magpie (Dach)
 zeit: Donnerstagabend, ca. 20:30
-status: entwurf
+status: überarbeitet
 ---
 
 # Nebel über dem Kanal
 
 Der Nebel kam vom Wasser.
 
-Er stieg auf wie etwas, das lange unter der Oberfläche gewartet hatte, und legte sich über den Treidelpfad, über die Böschung, über die Brombeeren, die noch immer Priyas Ärmel festhielten, als sie sich den letzten Meter hinaufzog. Finn ging voraus. Archie neben ihr, die Chucks lautlos auf dem nassen Kies. Keiner sprach. Der Kanal lag links von ihnen, schwarz und still, und der Nebel verwischte seine Ränder, bis man nicht mehr sagen konnte, wo das Wasser aufhörte und die Luft anfing.
+Er stieg auf wie etwas, das lange unter der Oberfläche gewartet hatte, und legte sich über den Treidelpfad, über die Böschung, über die Brombeeren, die noch immer Priyas Ärmel festhielten, als sie sich den letzten Meter hinaufzog. Finn ging voraus. Archie neben ihr, die Chucks lautlos auf dem nassen Kies. Keiner sprach. Der Kanal lag links von ihnen, schwarz und still, und die Ränder des Wassers verwischten, bis man nicht mehr sagen konnte, wo es aufhörte und die Luft anfing.
+
+Priya blieb einen Schritt zurück und horchte. Irgendwo hinter ihnen pulsierten die blauen Lichter zwischen den Baumkronen, aber das Sirenengeheul war verebbt. Sie hielt den Atem an, zählte bis drei. Keine Schritte. Keine Stimmen. Nur das leise Gluckern des Wassers an der Böschung. Sie atmete aus und ging weiter.
 
 Priyas Schultern taten weh. Der Rucksack drückte gegen ihren Rücken — voll, aber mit anderen Dingen als sonst. Müsliriegel, Wasser, die Taschenlampe. Keine Beweise. Keine Ziplock-Beutel. Keine Einweghandschuhe. Die brauchte sie nicht mehr.
 
@@ -26,9 +28,13 @@ Er stand mit dem Rücken zu ihnen, die Hände in den Taschen der Wachsjacke. Der
 
 Papier. Alt, vergilbt, steif wie getrocknetes Leder. Er faltete es auf — einmal, zweimal — und hielt es in beiden Händen.
 
-„Das lag neben einer der Kisten", sagte er. Seine Stimme war ruhig, fast beiläufig, aber seine Finger hielten das Papier an den Rändern fest, als könnte der Nebel es ihm aus den Händen nehmen. „Im Tunnel. Nicht verpackt. Kein Zellophan, keine Nummer. Es gehört nicht dazu. Hab ganz vergessen, dass ich es eingepackt hatte."
+„Ich hab's aufgehoben, als wir rausgegangen sind", sagte er. Seine Stimme war ruhig, fast beiläufig, aber seine Finger hielten das Papier an den Rändern fest, als könnte der Nebel es ihm aus den Händen nehmen. „Im Keller. Zwischen den Schleifspuren, wo die Kisten gestanden hatten."
 
-Priya trat näher. Archie kam von der anderen Seite, lautlos, den Kopf schief.
+Er sah auf seine Hände hinunter.
+
+„Ich hatte völlig darauf vergessen."
+
+Priya trat näher. Archie kam von der anderen Seite, lautlos, den Kopf schief. Keiner von ihnen sagte etwas. Priya sah Finn an, und Finn sah zurück, und in Archies Gesicht arbeitete etwas — kein Vorwurf, eher ein Begreifen. Dann nickte Archie einmal, kurz, und das war genug.
 
 Enge Schrift, verblasst, in einer Handschrift, die Priya nicht lesen konnte — nicht, weil sie unleserlich war, sondern weil die Buchstaben einer anderen Zeit gehörten. Am unteren Rand ein Siegel, rund, in Wachs gedrückt, der Abdruck verwaschen, aber noch da. Und ein Name. Priya bewegte die Lippen, als sie ihn las, aber er sagte ihr nichts.
 
@@ -36,7 +42,7 @@ Enge Schrift, verblasst, in einer Handschrift, die Priya nicht lesen konnte — 
 
 Finn sah Priya an. In der Dämmerung waren seine Augen grau und wach, und darin lag etwas, das keine Antwort war. Eine Frage. Eine neue.
 
-Priya nahm das Papier in beide Hände. Es war schwerer, als sie erwartet hatte, oder vielleicht war das Gewicht ein anderes — das Gewicht von etwas, das jemand versteckt hatte, zwischen Schmuggelware und Zellophan, wo niemand es suchen würde. Jemand, der wusste, was er tat. Jemand, dessen Name keiner von ihnen kannte.
+Priya nahm das Papier in beide Hände. Es war schwerer, als sie erwartet hatte. Jemand hatte es dort versteckt, und dieser Jemand hatte gewusst, was er tat.
 
 „Unter Deck", sagte sie.
 
@@ -50,7 +56,7 @@ Priya legte das Dokument in die olivgrüne Metallkiste unter der Bank. Der Schna
 
 „Kommt", sagte sie.
 
-Sie kletterten aufs Dach. Priya zuerst, dann Archie, dann Finn, der sich mit einer Hand hochzog und sich neben sie setzte, die Beine über die Kante, die Wachsjacke offen. Der Nebel lag über dem Kanal wie an jenem Donnerstagabend, als alles angefangen hatte — dieselbe Stille, derselbe Geruch nach nassem Stein und Schlamm und dem metallischen Hauch, den das Wasser im Herbst annahm.
+Sie kletterten aufs Dach. Priya zuerst, dann Archie, dann Finn, der sich mit einer Hand hochzog und sich neben sie setzte, die Beine über die Kante, die Wachsjacke offen. Über dem Kanal lag es wie an jenem Donnerstagabend, als alles angefangen hatte. Dieselbe Stille, derselbe Geruch nach nassem Stein und Schlamm, den sie von jenem Abend im Herbst kannte.
 
 Aber an jenem Abend war Finn allein gewesen.
 
@@ -64,15 +70,13 @@ Finn griff nach einem der abgelaufenen Müsliriegel und riss die Packung auf. Er
 
 Priya biss in ihren Riegel. Er schmeckte nach Hafer und nach zu viel Zucker und ein wenig nach dem Inneren ihres Rucksacks — nach Klebeband und Packpapier und den Dingen, die sie seit Wochen mit sich herumtrug. Das Dach der _Magpie_ war kühl unter ihren Handflächen. Sie spürte die Nieten, den abblätternden Lack, die leichte Schräge, die zum Bug hin abfiel.
 
-Archies Bleistift kratzte über das Papier. Leise, gleichmäßig. Das einzige Geräusch.
+Leises Kratzen auf Papier. Gleichmäßig. Das einzige Geräusch.
 
-Ashworth Green lag vor ihnen, halb verschluckt vom Nebel. Die Reihenhäuser an der _Canal Road_, die kleinen Gärten, die Wäscheständer, die niemand im Oktober reinholte. Ein Fernseher flackerte hinter einem Vorhang, blau und fern. Alles sah aus wie immer. Alles sah aus, als würde sich nie etwas ändern.
+Ashworth Green lag vor ihnen, halb verschluckt vom Dunst. Die Reihenhäuser an der _Canal Road_, die kleinen Gärten, die Wäscheständer, die niemand im Oktober reinholte. Ein Fernseher flackerte hinter einem Vorhang, blau und fern. Alles sah aus wie immer. Alles sah aus, als würde sich nie etwas ändern.
 
 Aber sie wussten es besser.
 
-Unter den Straßen, unter den Gärten, unter dem stillen Wasser — da lag etwas. Ein Tunnel, den niemand kannte. Ein Dokument, das niemand vermissen würde. Ein Name, den sie noch nicht verstanden. Ashworth Green hatte mehr zu erzählen, als es zugeben wollte, und sie hatten gerade erst angefangen, zuzuhören.
-
-Priya sah Finn an. Dann Archie. Finn kaute. Archie zeichnete. Der Nebel zog über den Kanal, langsam und dicht, und hüllte die _Magpie_ ein wie etwas, das sie beschützen wollte.
+Priya sah Finn an. Dann Archie. Finn kaute. Archie zeichnete. Etwas Weißes legte sich über den Kanal, langsam und dicht, und hüllte die _Magpie_ ein wie etwas, das sie beschützen wollte.
 
 Sie sagte nichts. Musste sie nicht.
 

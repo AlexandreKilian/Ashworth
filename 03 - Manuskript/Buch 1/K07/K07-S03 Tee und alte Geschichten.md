@@ -5,7 +5,7 @@ tags:
 kapitel: K07
 pov: Finn
 ort: The Magpie
-status: entwurf
+status: überarbeitet
 was_passiert: Grandpa Ted bringt Tee und erzählt beiläufig von Tunneln unter dem Badehaus
 ziel: Ted als Wissensquelle etablieren, Tunnel-Information für K09/K10 vorbereiten
 ---
@@ -46,7 +46,7 @@ Finn konnte nicht anders.
 
 „Ted", sagte er. „Das Badehaus. Sie haben Archie mal erzählt, da waren tiefe Keller drunter."
 
-Ted blies über seinen Tee. „Hab ich das?"
+Ted drehte den Deckel in den Händen. „Hab ich das?"
 
 „Weil es vorher ein Lagerhaus war. Am Kanal."
 
@@ -64,7 +64,7 @@ Er trank. Stille.
 
 Ted betrachtete den Dampf, der von seinem Deckel aufstieg. „Weiß ich nicht. Das Gebäude ist alt, und die Viktorianer haben vieles zugeschüttet, als sie das Bad gebaut haben." Er kratzte sich am Kinn. „Aber manche sagen, die Tunnel gehen weiter als zum Kanal."
 
-Die Worte hingen in der Luft wie der Dampf über dem Tee. Finn sah Archie an. Archie sah auf seinen Becher. Priya hatte die Augen auf Ted geheftet, die Lippen leicht geöffnet, als wollte sie nachfragen — aber Ted war schon dabei aufzustehen.
+Die Worte hingen in der Luft. Finn sah Archie an. Archie sah auf seinen Becher. Priya hatte die Augen auf Ted geheftet, die Lippen leicht geöffnet, als wollte sie nachfragen — aber Ted war schon dabei aufzustehen.
 
 Er stellte seinen Deckel auf die Ablage, klopfte sich die Knie ab und richtete sich auf. Sein Kopf stieß fast an die Kabinendecke.
 
@@ -88,6 +88,6 @@ Er trat zurück. Das Wort stand da wie eine Überschrift für etwas, das sie noc
 
 Priya hob ihren Becher und trank. Archie lehnte sich zurück, das Skizzenbuch auf den Knien, und begann zu zeichnen — Finn wusste nicht was, und er fragte nicht.
 
-Der Tee schmeckte nach Metall und Milch und etwas, das vielleicht Zuversicht war. Draußen lag der Kanal still und grau im Mittagslicht. Das *Narrowboat* schaukelte kaum merklich. Und die Pinnwand war nicht mehr leer.
+Der Tee schmeckte nach Metall und Milch und etwas Warmem, das nicht vom Tee kam. Draußen lag der Kanal still und grau im Mittagslicht. Das *Narrowboat* schaukelte kaum merklich. Und die Pinnwand war nicht mehr leer.
 
 Es fühlte sich wie ein Anfang an.

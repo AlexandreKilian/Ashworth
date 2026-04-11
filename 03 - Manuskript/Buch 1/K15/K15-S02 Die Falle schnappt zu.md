@@ -7,7 +7,7 @@ szene: S02
 pov: Priya
 ort: Böschung unter der Steinbrücke → Treidelpfad
 zeit: Donnerstagabend, ca. 19:50
-status: entwurf
+status: überarbeitet
 ---
 
 # Die Falle schnappt zu
@@ -44,7 +44,7 @@ Der Abholer beugte sich über die erste Kiste. Prüfte das Zellophan. Richtete s
 
 Und dann kam das Licht.
 
-Kein Sirenengeheul. Kein Lärm. Nur blaues Licht, das durch die Baumkronen brach — pulsierend, lautlos, wie etwas, das schon lange da gewesen war und nur darauf gewartet hatte, sichtbar zu werden. Von Osten, hinter dem Kombi. Von Westen, hinter dem Lieferwagen. Autoscheinwerfer, die den Treidelpfad in weißes Licht tauchten.
+Kein Sirenengeheul. Kein Lärm. Nur blaues Licht, das durch die Baumkronen brach — pulsierend, lautlos, als wäre es schon die ganze Zeit da gewesen. Von Osten, hinter dem Kombi. Von Westen, hinter dem Lieferwagen. Autoscheinwerfer, die den Treidelpfad in weißes Licht tauchten.
 
 Die Männer unter der Brücke erstarrten. Einen Atemzug lang — nicht länger. Dann drehte sich der Fahrer des Lieferwagens um und lief. Drei Schritte, vier. Dunkle Gestalten traten aus dem Lichtkegel, schnell und ruhig, und zwei von ihnen fingen ihn ab, bevor er die Böschung erreichte. Keine Schreie. Keine Schläge. Nur Hände, die Handgelenke fassten, eine ruhige Stimme, die etwas sagte, das Priya nicht verstand.
 
@@ -54,7 +54,7 @@ Es ging schnell. Es ging leise. Es war vorbei.
 
 Priyas Finger lösten sich aus der Erde. Einer nach dem anderen, langsam, als müsste sie jeden einzeln daran erinnern, loszulassen. Sie spürte die Feuchtigkeit zwischen ihren Fingern, den Dreck unter den Nägeln. Ihr Herz schlug immer noch zu schnell, aber ihre Hände — ihre Hände waren ruhig.
 
-Neben ihr atmete Archie aus. Lang, gleichmäßig, als hätte er die ganze Zeit über die Luft angehalten. Sein Bleistift lag auf seinem Knie, unberührt. Seine Hand lag daneben, offen, die Finger entspannt. Er zeichnete nicht. Er musste nicht.
+Neben ihr atmete Archie aus. Lang, gleichmäßig, als hätte er die ganze Zeit über die Luft angehalten. Seine Hand lag offen neben dem Bleistift, die Finger entspannt. Er zeichnete nicht. Er musste nicht.
 
 Finn drehte den Kopf und sah Priya an. In der Dunkelheit konnte sie seine Augen kaum erkennen — nur den Schimmer, das Wache darin, das nie ganz verschwand. Kein Grinsen. Kein Triumph. Er nickte. Einmal, kurz.
 
@@ -84,4 +84,4 @@ Sie griff nach dem Rucksack, schob den Riemen über die Schulter und kroch rück
 
 Am oberen Rand der Böschung blieben sie stehen. Unter ihnen, durch das Geflecht der Brombeerzweige, flackerte blaues Licht über das schwarze Kanalwasser. Die Stimmen der Beamten waren nur noch ein Murmeln.
 
-Es war vorbei.
+Hinter ihnen war es still.

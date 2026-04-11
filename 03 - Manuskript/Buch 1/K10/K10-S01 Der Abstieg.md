@@ -5,14 +5,14 @@ tags:
 kapitel: K10
 pov: Finn
 ort: Das viktorianische Badehaus (Schwimmbecken → Luke → Steinstufen)
-status: entwurf
+status: überarbeitet
 was_passiert: Eine Woche nach Archies Solo-Entdeckung steigen die drei über die verborgene Luke im Beckenboden in den alten Tunnel hinab. Finn geht als Erster. Am Fuß der Treppe erfasst seine Taschenlampe frische Kisten.
 ziel: Abstieg in den Tunnel — aus Theorie wird greifbare Realität
 ---
 
 # Der Abstieg
 
-Das Squire-Schloss klickte, und Archie schob es in seine Jackentasche, als wäre es ein Bonbon. Keine zehn Sekunden. Finn hatte aufgehört zu zählen.
+Das *Squire*-Schloss klickte, und Archie schob es in seine Jackentasche, als wäre es ein Bonbon. Keine zehn Sekunden. Finn hatte aufgehört zu zählen.
 
 Die Seitentür schwang lautlos auf — geölte Angeln, kein Quietschen, wie jedes Mal. Archie trat zur Seite und ließ Finn und Priya vor. Dann zog er die Tür hinter sich zu und wartete, bis der Riegel sauber einrastete.
 
@@ -49,6 +49,8 @@ Finn sah Priya an. Sie hielt die Taschenlampe ruhig, aber ihre andere Hand lag a
 „Wir sollten —"
 
 „Ich gehe vor." Finn nahm ihr die Taschenlampe aus der Hand. Priya öffnete den Mund, schloss ihn wieder und nickte.
+
+*Keine drei Gegenargumente. Nicht mal eins.* Finn sah lieber nicht nach, was das über die Luke unter ihnen aussagte.
 
 Er setzte den rechten Fuß auf die erste Stufe. Der Stein war feucht und kalt, selbst durch die Sohle spürbar. Die zweite Stufe. Die dritte. Die Luft wurde kühler, dichter. Über ihm der Ausschnitt des Mondlichts, kleiner mit jeder Stufe. Der Lichtkegel der Taschenlampe tanzte über grob behauene Wände — kein Backstein, kein Mörtel, nur Stein, zusammengefügt wie ein Puzzle aus dem achtzehnten Jahrhundert.
 
