@@ -27,7 +27,12 @@
       "Bash(gemini --yolo \"/generate 'Book cover WITH TEXT for a middle-grade mystery novel. Portrait format, 6:9 proportions. Style: atmospheric British childrens book illustration, dark but child-friendly, Lemony Snicket mystery genre. SCENE: An abandoned Victorian-era public bathhouse at night - a squat heavy ASYMMETRIC industrial brick building sitting right on a canal edge. The facade is irregular with different sections added at different times. Several large arched windows and doorways are BRICKED UP. Old faded remnants of BATH HOUSE lettering on the brick. One single window on an upper floor glows with warm golden-amber light - the focal point. Heavy decay everywhere: partially collapsed roof section, missing slates, thick ivy growing up the walls, water stains, rusted iron railings, crumbling mortar. A stubby chimney or ventilation stack on the roof. CANAL with dark still water in the foreground, golden light reflected in it. Fog creeps low over the water surface. Stone towpath between viewer and building. THREE CHILDREN on the towpath seen from behind: Left JUDE 13 tall lanky oversized wax jacket messy dark-blond hair leaning forward. Center PRIYA 13 compact long black braid big backpack standing alert. Right ARCHIE 12 smaller thinner light-brown hair dark clothes hanging back a half-step with sketchbook observing quietly. TEXT LAYOUT: DIE ASHWORTH DREI at very top in small elegant golden letters with subtle glow. The building dominates the middle - keep it clear of text. Das Licht im Badehaus in large ornate golden fantasy lettering with warm glow placed in the lower portion below the children. Band 1 in small text directly below. C. J. Whitmore at very bottom in clean golden serif font. Each text element appears EXACTLY ONCE. The golden text complements the warm amber light in the illustration. COLOR: Dark navy purple sky, warm gold amber light, muted greens browns decay, dark reflective water.'\")",
       "Bash(python build-docx.py -b \"Buch 1\")",
       "Bash(python build-pdf.py -b \"Buch 1\")",
-      "Bash(python build-epub.py -b \"Buch 1\")"
+      "Bash(python build-epub.py -b \"Buch 1\")",
+      "Bash(awk '/^# HRH/{flag=1;next}flag' \"c:/Users/hi/Documents/Writing/Ashworth/03 - Manuskript/Buch 2/K09/K09-S02 HRH-2741.md\")",
+      "Bash(mkdir -p \"07 - Kritik/Buch 2/K09\")",
+      "Bash(cp .agent-context/buch-2/k09/s01-review.md .agent-context/buch-2/k09/s02-review.md .agent-context/buch-2/k09/s03-review.md \"07 - Kritik/Buch 2/K09/\")",
+      "Bash(rm -rf .agent-context/buch-2/k09/)",
+      "Bash(awk '/^---$/{f++;next} f==2' \"K11-S01 Der Pappbecher vor der Tafel.md\")"
     ],
     "additionalDirectories": [
       "\\home\\alex\\Ashworth",

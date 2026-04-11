@@ -40,5 +40,7 @@ Betreibt eine Galerie in Bristol. Offiziell seriös, inoffiziell handelt er mit 
 - **Endpunkt:** Wird bei der Auktionsfalle überführt. Erwähnt seinen „Auftraggeber" — den Sammler.
 
 ## Notizen
-- Erstes Auftreten: Buch 2, K10 (Galerie in Bristol)
+- Erstes Auftreten (physisch): Buch 2, K10 (Galerie in Bristol)
+- Name zum ersten Mal genannt: Buch 2, K09-S02 — Priya entschlüsselt die Inventarnummer HRH-2741 über einen archivierten Forumsbeitrag von 2006 auf *antique-collectors.co.uk*: *Die HRH-Nummern stammen aus dem Register des Händlers, der vor dem Abriss die Nachlass-Auflösung gemacht hat. Devereux Fine Art, Clifton, Bristol.* Damit ist dokumentiert: Devereux hat bereits vor dem Abriss von Harrowden House 1983 die Nachlass-Auflösung durchgeführt — er ist nicht erst seit 1987 (Galeriegründung) im Geschäft mit Harrowden-Stücken, sondern seit mindestens 1983.
+- B2-K09-S03 (indirekt): In seiner Galerie [[Devereux Fine Art]] in Rodney Place, Clifton, steht am Dienstagnachmittag eine Staffelei im Schaufenster mit einem kleinen Ölgemälde, dessen Größe und Ausschnitt dem Harrowden-Gemälde entsprechen. Für eine Sekunde öffnet sich eine Seitentür im Innenraum einen Spalt — ein Umriss, kein Gesicht — und schließt sich wieder. Wahrscheinlich Devereux selbst, in einem Nebenraum der geschlossenen *By appointment*-Galerie.
 - Wichtig: Devereux ist das Bindeglied zwischen dem lokalen Fall und dem Sammler-Strang

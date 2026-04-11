@@ -16,7 +16,7 @@ Er hob das Gemälde an. Vorsichtig, beide Hände am Rahmen, eine oben, eine unte
 
 Braunes Packpapier. Seine Finger fuhren darüber, langsam, von der linken oberen Ecke nach rechts, Zentimeter für Zentimeter. Die Oberfläche war rau und trocken, vergilbt, an den Rändern gewellt, wo die Feuchtigkeit Jahre damit verbracht hatte, sich unter die Klebstreifen zu arbeiten. Altes Papier. Der Geruch stieg auf, staubig und süßlich, wie die Kisten auf Teds Dachboden, die nie jemand öffnete.
 
-Seine Fingerkuppen tasteten weiter. Über die Mitte, wo das Papier glatt lag und straff über dem Holz saß. Über den unteren Rand, wo ein Streifen Klebeband sich an einer Ecke gelöst hatte, die Kante aufgerollt. Er kannte diese Ecke. In S01 hatte er sie gefunden, und seine Finger kehrten dorthin zurück wie zu einer Markierung auf einer Karte.
+Seine Fingerkuppen tasteten weiter. Über die Mitte, wo das Papier glatt lag und straff über dem Holz saß. Über den unteren Rand, wo ein Streifen Klebeband sich an einer Ecke gelöst hatte, die Kante aufgerollt. Er kannte diese Ecke. Vorhin, als er das Gemälde zum ersten Mal berührt hatte, waren seine Finger hier hängengeblieben, und jetzt kehrten sie dorthin zurück wie zu einer Markierung auf einer Karte.
 
 Dann die Stelle.
 

@@ -34,7 +34,7 @@ DEFAULT_SERIES = "Die Ashworth Drei"
 # Cover-Dateien pro Buch (Schlüssel = Ordnername unter 03 - Manuskript/)
 COVER_FILES = {
     "Buch 1": "ashworth-book1.png",
-    "Buch 2": "book2.png",
+    "Buch 2": "ashworth-book2.png",
     "Buch 3": "buck3.png",
     "Buch 4": "buch4.png",
     "Buch 5": "buch5.png",

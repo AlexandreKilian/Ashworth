@@ -47,5 +47,6 @@ Stammkundin bei Sharma's News & Convenience. Fester Bestandteil des morgendliche
 ## Notizen
 
 - B2-K01: Samstags-Einkaufsroutine bei Sharma's: *Post*, Pfefferminzbonbons, eine Dose Katzenfutter (grüne, Lachs). Immer in dieser Reihenfolge. Kater verweigert seit Dienstag das Trockenfutter. Regenschirm unter dem Arm, Einkaufstasche über der Schulter.
+- B2-K07: Samstagmorgen bei Sharma's — gleiche Routine (*Post*, Pfefferminzbonbons, Katzenfutter). Erzählt von der Auktion: eine elegante Frau, nicht von hier, blauer Mantel, sehr gepflegt, habe sich die Bilder vorher angesehen. Quelle: Mrs. Alcott. Senkt die Stimme beim Erzählen, als wäre es ein Geheimnis. Liefert Priya damit (unwissentlich) die Information, dass Mrs. Linford bei der Auktion ist.
 - Erster Auftritt: K02-S02. Berichtet von Sean Dohertys Beobachtung: Flackerndes Licht im alten Badehaus, halb zehn abends, bewegte sich durch verschiedene Fenster (erst unten, dann oben).
 - Funktion: Informationsvektor — bringt das Badehaus-Mysterium über Kundengespräch zu Priya.
