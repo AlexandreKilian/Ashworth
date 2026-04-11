@@ -5,7 +5,7 @@ tags:
 kapitel: K01
 pov: Finn Calloway
 ort: Schule (Ashworth Green)
-status: entwurf
+status: überarbeitet
 was_passiert: "Finn erwähnt die Lichter im Badehaus in der Schule. Ein Lehrer weist ihn ab: Nicht alles geht dich etwas an."
 ziel: "Theme Stated etablieren, Finns Hartnäckigkeit zeigen, Kontrast zwischen Finns Neugier und der Gleichgültigkeit der Erwachsenenwelt."
 ---
@@ -34,7 +34,7 @@ Als es klingelte, blieben die meisten Stühle noch einen Moment besetzt, weil Mr
 
 Finn blieb sitzen.
 
-Er wartete, bis der Raum sich leerte. Zwei Mädchen schlenderten als Letzte hinaus, und eine von ihnen lachte über etwas, das Finn nicht mitbekam. Dann war es ruhig, nur das Summen der Neonröhre an der Decke und das entfernte Rufen vom Schulhof.
+Er wartete, bis der Raum sich leerte. Dann war es ruhig, nur das Summen der Neonröhre an der Decke und das entfernte Rufen vom Schulhof.
 
 Mr. Pemberton sortierte Blätter auf seinem Pult. Er sah auf, als er Finn bemerkte.
 
@@ -66,7 +66,7 @@ Die Worte trafen genau. Nicht laut, nicht hart, wie ein Türschloss, das einrast
 
 Finn nickte. „Okay", sagte er. „Danke."
 
-Er drehte sich um und ging zur Tür. Sein Rücken war gerade, seine Schritte gleichmäßig, und er wusste, dass Mr. Pemberton ihm nachsah, also tat er nichts, was auffiel. Er öffnete die Tür, trat auf den Flur und zog sie hinter sich zu.
+Er drehte sich um und ging zur Tür. Sein Rücken war gerade, seine Schritte gleichmäßig. Mr. Pemberton sah ihm nach. Also tat Finn nichts, was auffiel. Er öffnete die Tür, trat auf den Flur und zog sie hinter sich zu.
 
 Der Flur roch nach Putzmittel und nach den Gummisohlen von dreißig Paar Turnschuhen. Irgendwo weiter hinten schlug eine Tür. Finn lehnte sich für einen Moment gegen die Wand und atmete aus.
 
@@ -78,6 +78,6 @@ Finn ging nach draußen. Der Schulhof lag grau unter einem Himmel, der aussah, a
 
 Finn ging an ihnen vorbei und überquerte den Hof bis zum Zaun am hinteren Ende, wo die Hecke hoch genug war, dass die Lehrer ihn nicht sofort sahen. Von hier konnte er über die Dächer blicken, über die Schornsteine und Antennen, bis dorthin, wo die Bäume am Kanal eine dunkle Linie gegen den Himmel zogen.
 
-Er dachte an den Zaun am Badehaus. An die Stelle, wo das Metall umgeknickt war und nachgab, wenn man dagegen drückte. Da kam man durch.
+Heute Abend. Nach dem Essen, wenn Bea eingeschlafen war und Mum am Laptop saß.
 
-Heute Abend. Nach dem Essen, wenn Bea eingeschlafen war und Mum am Laptop saß. Er würde zurückgehen.
+Er dachte an den Zaun am Badehaus. An die Stelle, wo das Metall umgeknickt war und nachgab, wenn man dagegen drückte. Da kam man durch.

@@ -5,7 +5,7 @@ tags:
 kapitel: K05
 pov: Priya
 ort: Sharma's News & Convenience
-status: entwurf
+status: überarbeitet
 was_passiert: Priya findet einen alten Zeitungsartikel über gestoppte Abrisspläne fürs Badehaus
 ziel: Priyas Beitrag zur Ermittlung etablieren — Information statt Abenteuer
 ---
@@ -54,7 +54,7 @@ Den Rest des Stapels warf sie in den Karton. Die Prospekte, die Sportseiten, die
 
 Sie wischte sich die grauen Finger an der Jeans ab, schob den Karton mit dem Fuß zur Hintertür und drückte die Lagertür auf.
 
-Das Neonlicht des Ladens blendete nach der trüben Glühbirne. Priya blinzelte. Die Heizung summte, die Wanduhr tickte, alles genau wie vorher. Zwanzig Minuten, vielleicht eine halbe Stunde — nicht genug Zeit, um irgendetwas an diesem Nachmittag zu ändern. Und trotzdem hatte sich alles verschoben.
+Das Neonlicht des Ladens blendete nach der trüben Glühbirne. Priya blinzelte, bis die Konturen wieder scharf wurden. Zwanzig Minuten, vielleicht eine halbe Stunde — nicht genug Zeit, um irgendetwas an diesem Nachmittag zu ändern. Und trotzdem hatte sich alles verschoben.
 
 Nani saß am Fenster. Chai-Tasse auf der Untertasse, Wollschal um die Schultern, Blick nach draußen auf die *High Street*. Als Priya um die Theke herumkam, drehte Nani den Kopf. Ihre Augen wanderten von Priyas Gesicht zu ihrer rechten Hand, die über die Hosentasche strich.
 

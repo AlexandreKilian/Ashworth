@@ -5,7 +5,7 @@ tags:
 kapitel: K04
 pov: Finn Calloway
 ort: Das viktorianische Badehaus / Kanalweg
-status: entwurf
+status: überarbeitet
 was_passiert: "Finn tritt auf eine morsche Planke, macht Lärm, flieht. Prallt mit Archie zusammen."
 ziel: "Catalyst-Moment: Lärm, Flucht, Zusammenstoß. Maximale Spannung, dann Überraschung."
 ---
@@ -72,7 +72,7 @@ Finn kniete im nassen Gras, das Herz in der Kehle, Kies in den Handflächen, und
 
 Archie Wynn.
 
-Archie hielt sein Skizzenbuch an die Brust gedrückt, als könnte es ihn schützen. Sein Atem ging schnell. Seine Augen huschten über Finns Schulter, den Weg entlang, Richtung Badehaus. Zurück zu Finn.
+Archie hielt das Buch an die Brust gedrückt, als könnte es ihn schützen. Sein Atem ging schnell. Seine Augen huschten über Finns Schulter, den Weg entlang, Richtung Badehaus. Zurück zu Finn.
 
 „Jemand ist d-da drin", flüsterte Archie.
 

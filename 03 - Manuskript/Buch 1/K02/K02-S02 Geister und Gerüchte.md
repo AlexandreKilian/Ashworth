@@ -5,7 +5,7 @@ tags:
 kapitel: K02
 pov: Priya Sharma
 ort: Sharma's News & Convenience
-status: entwurf
+status: überarbeitet
 was_passiert: "Kunden reden über Lichter im Badehaus. Nani kommentiert trocken. Priyas Neugier erwacht."
 ziel: "Badehaus-Gerücht über Kundenklatsch einführen, Priyas Neugier als Eigenschaft etablieren."
 ---
@@ -16,7 +16,7 @@ ziel: "Badehaus-Gerücht über Kundenklatsch einführen, Priyas Neugier als Eige
 
 Mrs. Finch wollte den *Herald*, Milch und fünf Minuten Aufmerksamkeit. Mrs. Gallagher wollte nur Briefmarken, aber blieb trotzdem. Priya reichte, kassierte, wechselte — ihre Hände arbeiteten, während ihr Kopf die Minuten zählte. Sieben Uhr einunddreißig. Zweiunddreißig.
 
-Die Türglocke klingelte erneut, und mit einem Schwall kalter Morgenluft schob sich Mrs. Doherty in den Laden. Sie trug ihren grünen Regenmantel, die Handtasche am Ellbogen eingehakt, und hatte den Ausdruck einer Frau, die Neuigkeiten mit sich herumtrug wie andere Leute Regenschirme — man wusste nie, wann man sie brauchte, aber sie war vorbereitet.
+Die Türglocke klingelte erneut, und mit einem Schwall kalter Morgenluft schob sich Mrs. Doherty in den Laden. Sie trug ihren grünen Regenmantel, die Handtasche am Ellbogen eingehakt, und hatte den Ausdruck einer Frau, die Neuigkeiten mit sich herumtrug wie andere Leute Regenschirme. Man wusste nie, wann man sie brauchte, aber sie war vorbereitet.
 
 „Morgen, Liebes!" Mrs. Doherty stellte sich an die Theke, schüttelte den Regenschirm aus — Tropfen spritzten auf den Linoleumboden — und legte eine Münze auf den Tresen, bevor Priya überhaupt fragen konnte. „Die *Post*, bitte. Und sag deiner Nani, der Tee riecht wunderbar."
 
@@ -56,7 +56,7 @@ Die Frage hing in der Luft. Mrs. Doherty legte den Kopf schief und musterte Priy
 
 Priya spürte Hitze in den Wangen. Zu viel. Das war eine Frage zu viel gewesen. Sie griff nach einem Stapel Quittungsrollen unter der Theke und tat so, als müsste sie den Drucker nachfüllen.
 
-„Na ja", sagte Mrs. Doherty langsam. „Gestern das erste Mal, soweit ich weiß. Aber wer achtet schon drauf? Man geht da vorbei und guckt nicht hin."
+„Na ja", sagte Mrs. Doherty. „Gestern das erste Mal, soweit ich weiß. Aber wer achtet schon drauf? Man geht da vorbei und guckt nicht hin."
 
 *Genau*, dachte Priya. *Man guckt nicht hin.*
 

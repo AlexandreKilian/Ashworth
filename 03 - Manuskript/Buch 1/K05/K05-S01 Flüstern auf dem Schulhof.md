@@ -5,7 +5,7 @@ tags:
 kapitel: K05
 pov: Priya
 ort: Schule
-status: entwurf
+status: überarbeitet
 was_passiert: Priya erfährt von Finns nächtlicher Begegnung am Badehaus
 ziel: Priyas Neugier wecken und ihren inneren Konflikt (Pflicht vs. Abenteuer) etablieren
 ---
@@ -50,7 +50,7 @@ Die Glocke zum Ende der Pause würde in ein paar Minuten läuten. Priya ordnete 
 
 „Wir gehen Freitag wieder hin", sagte Finn. Nicht laut. Nicht als Frage.
 
-Priyas Mund öffnete sich. *Freitag.* Lieferungstag. Die Paletten mit den Zeitschriften kamen gegen sechs, und danach musste alles einsortiert werden. Ihr Vater rechnete mit ihr. Er rechnete immer mit ihr.
+*Freitag.* Das Wort blieb in ihrem Kopf stecken wie ein Splitter. Lieferungstag. Die Paletten mit den Zeitschriften kamen gegen sechs, und danach musste alles einsortiert werden. Ihr Vater rechnete mit ihr. Er rechnete immer mit ihr.
 
 „Ich weiß nicht, ob ich kann."
 

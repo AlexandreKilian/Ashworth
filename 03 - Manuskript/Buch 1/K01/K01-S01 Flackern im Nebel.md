@@ -5,7 +5,7 @@ tags:
 kapitel: K01
 pov: Finn Calloway
 ort: Stillgelegter Kanalabschnitt / Das viktorianische Badehaus
-status: entwurf
+status: überarbeitet
 was_passiert: "Finn geht abends allein am Kanal entlang und sieht ein Flackern in den Fenstern des verlassenen Badehauses."
 ziel: "Opening Image etablieren, Finn als Charakter einführen, das Badehaus als Geheimnis aufstellen."
 ---
@@ -58,7 +58,7 @@ Er wartete. Eine Minute, vielleicht zwei. Der Nebel kroch über den Zaun und leg
 
 Oder auch nicht. Vielleicht eine Spiegelung. Vielleicht Autoscheinwerfer von der Straße, die durch irgendeinen Winkel den Spalt getroffen hatten. Vielleicht die Tauben, die unter dem offenen Dach nisteten. Konnten Tauben Licht machen? Nein. Das war Unsinn.
 
-Finn ließ den Zaun los. Er wischte die Hand an der Jacke ab, an der Jacke seines Vaters, die nach Wachs und nach etwas anderem roch, etwas, das er nicht benennen konnte, aber das immer da war. Er drehte sich um und ging.
+Finn ließ den Zaun los. Er wischte die Hand an der Jacke ab. An der Jacke seines Vaters, die nach Wachs roch und nach etwas, das er nicht benennen konnte. Er drehte sich um und ging.
 
 Der Rückweg kam ihm kürzer vor, als hätte der Pfad sich zusammengezogen, während er nicht hinsah. Die Reihenhäuser rückten näher, die Fenster wurden heller, und der Geruch von gebratenem Speck wehte aus einem offenen Küchenfenster. Als er in die *Blackthorn Road* einbog, leuchtete das Schaufenster von Sharma's *News & Convenience* orange durch den Nebel.
 

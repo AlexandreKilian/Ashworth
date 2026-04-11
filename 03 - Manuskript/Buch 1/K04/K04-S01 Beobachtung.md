@@ -5,7 +5,7 @@ tags:
 kapitel: K04
 pov: Finn Calloway
 ort: Das viktorianische Badehaus (außen)
-status: entwurf
+status: überarbeitet
 was_passiert: "Finn schleicht sich nachts zum Badehaus. Sieht Licht und eine Gestalt an der Seitentür."
 ziel: "Spannung aufbauen, Finns Entschlossenheit zeigen, das Geheimnis konkretisieren."
 ---
@@ -22,11 +22,9 @@ Der Treidelpfad begann hinter dem letzten Gartenzaun, dort wo der Asphalt aufhö
 
 Der Kanal roch nach Herbst. Nach nassem Laub, nach Schlamm, nach dem metallischen Hauch, den das Wasser in kalten Nächten annahm. Der Nebel war dünner als letztes Mal — kein Tuch, eher ein Schleier, der über dem Wasser hing und die Uferlinie verwischte. Finn hörte das leise Gluckern an den Kanalwänden, das Tropfen von Feuchtigkeit, in der Ferne das Rauschen der Schnellstraße jenseits der Felder.
 
-Er kaute auf dem Bleistift. Die Zahnspuren passten genau in die alten Rillen. Ein Rhythmus, der zum Gehen gehörte.
-
 Er hatte sich das vorgenommen. Seit gestern, seit dem Flackern hinter dem zugemauerten Fenster, das ihm nicht mehr aus dem Kopf ging. *Kein Autoscheinwerfer. Kein Reflex. Von innen.* Er hatte es sich wieder und wieder vorgesagt, abends im Bett, morgens unter der Dusche, in der Schule, wenn Mr. Pemberton über Bruchrechnung redete und Finns Gedanken längst am Kanal entlangliefen.
 
-Das Badehaus materialisierte sich aus der Dunkelheit. Erst das Dach — die Skelette der Eisenstreben, die sich gegen den wolkenverhangenen Himmel abzeichneten. Dann die Fassade, dunkler Backstein, fast schwarz. Die zugemauerten Bogenfenster, die blinden Augen. Der Efeu an der Nordseite, der sich im schwachen Licht nicht von Schatten unterschied.
+Das Badehaus tauchte aus der Dunkelheit auf. Erst das Dach — die Skelette der Eisenstreben, die sich gegen den wolkenverhangenen Himmel abzeichneten. Dann die Fassade, dunkler Backstein, fast schwarz. Die zugemauerten Bogenfenster, die blinden Augen. Der Efeu an der Nordseite, der sich im schwachen Licht nicht von Schatten unterschied.
 
 Finn verließ den Pfad.
 
@@ -48,7 +46,7 @@ In der dreizehnten oder vierzehnten Minute — er hatte aufgehört zu zählen �
 
 Kein Flackern diesmal. Kein Licht hinter zugemauerten Fenstern. Es war tiefer. Auf Bodenniveau, dort wo die Kellerfenster gewesen sein mussten, schmale Rechtecke, halb unter der Erde. Ein Schein, schwach und warm, der durch die Ritzen sickerte wie Wasser durch Fugen. Er wanderte. Langsam, von links nach rechts, als trüge jemand eine Kerze durch einen Raum.
 
-Finns Finger krallten sich in den Stoff seiner Jacke.
+Finns Finger krallten sich in den Stoff.
 
 *Da.*
 

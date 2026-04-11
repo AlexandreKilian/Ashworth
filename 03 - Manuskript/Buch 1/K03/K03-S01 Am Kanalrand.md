@@ -5,7 +5,7 @@ tags:
 kapitel: K03
 pov: Archie Wynn
 ort: Kanalrand / Das viktorianische Badehaus
-status: entwurf
+status: überarbeitet
 was_passiert: "Archie zeichnet das Badehaus am Kanal. Er hat die Lichter seit Wochen beobachtet, aber schweigt. Entdeckt frische Spuren am Seiteneingang."
 ziel: "Archie als stiller Beobachter etablieren, seine Verbindung zum Badehaus zeigen, neue Spur (Brennnesseln) einführen."
 ---
@@ -36,7 +36,7 @@ Seitdem hatte er es viermal gesehen. Immer donnerstags oder freitags, immer nach
 
 Er hatte niemandem davon erzählt.
 
-Nicht Grandpa Ted, der nebenan schlief und nachts schlecht hörte. Nicht in der Schule, wo ohnehin niemand ihm zuhörte, jedenfalls nicht so, wie er es gebraucht hätte, geduldig, ohne Zwischenfragen, ohne diesen Blick, den Leute bekamen, wenn er zu lange nach dem richtigen Wort suchte und sein Mund das Falsche tat. Erzählen bedeutete Fragen. Fragen bedeuteten Aufmerksamkeit. Und Aufmerksamkeit war das Letzte, was Archie wollte.
+Nicht Grandpa Ted, der nebenan schlief und nachts schlecht hörte. Nicht in der Schule, wo ohnehin niemand ihm zuhörte. Jedenfalls nicht so, wie er es gebraucht hätte. Geduldig, ohne Zwischenfragen, ohne diesen Blick, den Leute bekamen, wenn er zu lange nach dem richtigen Wort suchte und sein Mund das Falsche tat. Erzählen bedeutete Fragen. Fragen bedeuteten Aufmerksamkeit. Und Aufmerksamkeit war das Letzte, was Archie wollte.
 
 Also beobachtete er. Notierte Daten und Uhrzeiten am Rand seiner Skizzen, klein und ordentlich, in seiner engen Handschrift, die sonst niemand lesen konnte. Das genügte.
 

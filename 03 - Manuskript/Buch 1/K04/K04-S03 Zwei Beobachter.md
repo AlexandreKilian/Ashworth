@@ -5,7 +5,7 @@ tags:
 kapitel: K04
 pov: Finn Calloway
 ort: Kanalrand (unter den Trauerweiden)
-status: entwurf
+status: überarbeitet
 was_passiert: "Erstes Gespräch zwischen Finn und Archie. Sie tauschen Beobachtungen aus. Kein Versprechen, aber ein Anfang."
 ziel: "Begegnung der zwei Außenseiter, Informationsaustausch, Grundstein für die Freundschaft."
 ---
@@ -24,7 +24,7 @@ Archie nickte. Sein Blick huschte den Kanalweg entlang, Richtung Badehaus.
 
 Finn richtete sich auf, packte Archie am Ärmel und zog ihn unter die Trauerweiden. Hinter dem Vorhang aus Zweigen war es dunkel und still, der Boden weich von altem Laub. Die Äste hingen bis zum Wasser hinab. Von hier konnte niemand sie sehen — nicht vom Weg, nicht vom Badehaus.
 
-Sie kauerten nebeneinander. Finn presste den Rücken gegen den Stamm und zwang sich, ruhig zu atmen. Sein Herz hämmerte. Neben ihm saß Archie, das Skizzenbuch auf den angezogenen Knien, beide Arme darum geschlungen.
+Sie kauerten nebeneinander. Finn presste den Rücken gegen den Stamm und zwang sich, ruhig zu atmen. Sein Herz hämmerte. Neben ihm saß Archie, die Knie angezogen, beide Arme darum geschlungen.
 
 Stille. Eine Minute. Zwei. Kein Licht am Badehaus. Keine Schritte auf dem Weg.
 
@@ -74,13 +74,13 @@ Er klappte das Skizzenbuch zu. Seine Finger zitterten. Der Wind fuhr durch die W
 
 Finn lehnte sich zurück gegen den Stamm. Er dachte nach. Vier Nächte. Donnerstags, freitags. Wanderndes Licht. Ein Schloss, das nicht abgeschlossen war. Und eine Gestalt, die einen Schlüssel hatte — oder wusste, dass sie keinen brauchte.
 
-Archie wusste mehr als er. Aber Archie hatte nie die Gestalt gesehen. Die Puzzleteile lagen auf zwei verschiedenen Tischen, und keiner hatte das vollständige Bild.
+Archie wusste mehr als er. Aber Archie hatte nie die Gestalt gesehen.
 
-Finn sah den Jungen neben sich an. Die schwarzen *Chucks*, das Skizzenbuch, die schmalen Schultern. Archie saß da und wartete. Er sah aus, als wollte er am liebsten aufstehen und verschwinden. Aber er blieb.
+Finn sah den Jungen neben sich an. Die schwarzen *Chucks*, die schmalen Schultern, die dunkle Kleidung. Archie saß da und wartete. Er sah aus, als wollte er am liebsten aufstehen und verschwinden. Aber er blieb.
 
 „Ich muss los", sagte Archie. Er stand auf, klopfte das Laub von seinen Jeans. Das Buch verschwand unter seinem Arm.
 
-Finn stand ebenfalls auf. Er wusste nicht, was er sagen sollte. *Danke* war falsch. *Lass uns das zusammen machen* war zu viel. Sie kannten sich nicht. Ein Zusammenstoß auf einem Kanalweg machte sie nicht zu Verbündeten.
+Finn stand ebenfalls auf. Er wusste nicht, was er sagen sollte.
 
 Archie schob sich durch die Weidenzweige. Seine Schritte waren lautlos auf dem feuchten Boden. Natürlich waren sie das.
 

@@ -5,7 +5,7 @@ tags:
 kapitel: K02
 pov: Priya Sharma
 ort: Sharma's News & Convenience
-status: entwurf
+status: überarbeitet
 was_passiert: "Priyas Morgendienst im Laden vor der Schule. Zeitungen sortieren, Nani am Fenster, Zeitdruck."
 ziel: "Priya als Charakter etablieren, Laden als Welt zeigen, Familiendynamik einführen."
 ---
@@ -14,7 +14,7 @@ ziel: "Priya als Charakter etablieren, Laden als Welt zeigen, Familiendynamik ei
 
 Der Stapel Zeitungen roch nach Druckerschwärze und nach dem kalten Morgen draußen. Priya zog das Plastikband ab, wickelte es um die Hand und warf es in den Karton unter der Theke. Halb acht. In fünfundvierzig Minuten klingelte es zur ersten Stunde, und sie stand hier und sortierte den *Bristol Herald* nach links, den *Western Daily Press* nach rechts und die *Evening Post* — drei Exemplare, wie jede Woche — in das Fach neben der Tür.
 
-Hinter ihr summte die Heizung, ein dünnes, metallisches Geräusch, das nie ganz aufhörte. Der Laden war eng. Regale links, Regale rechts, dazwischen ein Gang, in dem sich zwei Erwachsene kaum aneinander vorbeischoben. An der Decke flackerte die hintere Neonröhre, die schon seit Oktober flackerte und die niemand reparierte.
+Hinter ihr summte die Heizung, ein dünnes, metallisches Geräusch, das nie ganz aufhörte. Der Laden war eng. Regale links, Regale rechts, dazwischen ein Gang, in dem sich zwei Erwachsene kaum aneinander vorbeischoben.
 
 „Der Mann mit dem Labrador ist wieder da." Nanis Stimme kam vom Fenster. „Jeden Morgen, sieben Uhr zwölf. Pünktlicher als der Bus."
 
@@ -48,7 +48,7 @@ Das war nicht gelogen. Nicht ganz. Sie hatte bis elf Uhr über den Aufgaben gese
 
 Nani sagte nichts. Das war schlimmer als ein Kommentar. Stille bei Nani bedeutete, dass sie wusste, dass es nicht die ganze Wahrheit war, und dass sie sich entschied, es vorerst stehen zu lassen. Priya kannte dieses Schweigen. Es hatte ein Verfallsdatum.
 
-Sie stellte den Preisauszeichner zurück und wischte sich die Hände an den Jeans ab. Ihr Rucksack lehnte an der Wand neben der Lagertür, prall gefüllt wie immer. Bücher, Mäppchen, Wasserflasche, Taschenlampe, die Packung Pflaster, die sie seit September mit sich herumtrug. Man wusste nie.
+Sie stellte den Preisauszeichner zurück und wischte sich die Hände an den Jeans ab. Ihr Rucksack lehnte an der Wand neben der Lagertür, prall gefüllt wie immer.
 
 Sieben Uhr vierundzwanzig. Sie musste los. In zwanzig Minuten Unterricht, und der Weg zur Schule dauerte zwölf, wenn sie rannte. Acht Minuten Puffer. Das reichte. Knapp.
 

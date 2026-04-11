@@ -5,7 +5,7 @@ tags:
 kapitel: K03
 pov: Archie Wynn
 ort: Das Cottage am Kanal
-status: entwurf
+status: überarbeitet
 was_passiert: "Abend im Cottage. Grandpa Ted erzählt beiläufig, das Badehaus war ein Lagerhaus mit tiefen Kellern. Archie schweigt, aber denkt nach."
 ziel: "Grandpa Ted einführen, Cottage als Zuhause zeigen, Badehaus-Geschichte vertiefen."
 ---
@@ -64,7 +64,7 @@ Archie nahm das Schloss. Es war schwerer, als es aussah, das Metall kühl und gl
 
 Archie korrigierte den Winkel. Ein Klicken. Der Kern drehte sich, und das Schloss sprang auf.
 
-Ted nickte. „Saubere Arbeit."
+Ted hob die buschigen Augenbrauen. „Saubere Arbeit."
 
 Archie legte das Schloss auf den Tisch. Am Rand der Skizze notierte er in seiner engen Handschrift: *Dicke Mauern. Tiefe Keller. Tief genug.*
 
@@ -74,7 +74,7 @@ Ted stand auf, trug die Teller zur Spüle und drehte den Wasserhahn auf. Das Rau
 
 Ted lachte leise. Es war das gleiche Vielleicht, das Archie für alles benutzte, was außerhalb dieser Küche lag. Ted wusste das. Archie wusste, dass Ted es wusste. Keiner von beiden sagte etwas dazu.
 
----
+* * *
 
 Archies Zimmer lag unterm Dach, schräge Wände, ein Bett, ein Stuhl, ein Regal voller Skizzenbücher. An den Wänden hingen Zeichnungen, der Kanal bei Sonnenuntergang, *The Magpie* an ihrem Liegeplatz, eine Krähe auf dem Zaun vor dem Cottage. Die Dachschräge drückte den Raum klein, aber das war in Ordnung. Archie mochte kleine Räume.
 
