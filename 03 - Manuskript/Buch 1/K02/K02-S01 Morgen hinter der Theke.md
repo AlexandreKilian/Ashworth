@@ -12,7 +12,7 @@ ziel: "Priya als Charakter etablieren, Laden als Welt zeigen, Familiendynamik ei
 
 # Morgen hinter der Theke
 
-Der Stapel Zeitungen roch nach Druckerschwärze und nach dem kalten Morgen draußen. Priya zog das Plastikband ab, wickelte es um die Hand und warf es in den Karton unter der Theke. Halb acht. In fünfundvierzig Minuten klingelte es zur ersten Stunde, und sie stand hier und sortierte den *Bristol Herald* nach links, den *Western Daily Press* nach rechts und die *Ashworth Gazette* — drei Exemplare, wie jede Woche — in das Fach neben der Tür.
+Der Stapel Zeitungen roch nach Druckerschwärze und nach dem kalten Morgen draußen. Priya zog das Plastikband ab, wickelte es um die Hand und warf es in den Karton unter der Theke. Halb acht. In fünfundvierzig Minuten klingelte es zur ersten Stunde, und sie stand hier und sortierte den *Bristol Herald* nach links, den *Western Daily Press* nach rechts und die *Evening Post* — drei Exemplare, wie jede Woche — in das Fach neben der Tür.
 
 Hinter ihr summte die Heizung, ein dünnes, metallisches Geräusch, das nie ganz aufhörte. Der Laden war eng. Regale links, Regale rechts, dazwischen ein Gang, in dem sich zwei Erwachsene kaum aneinander vorbeischoben. An der Decke flackerte die hintere Neonröhre, die schon seit Oktober flackerte und die niemand reparierte.
 

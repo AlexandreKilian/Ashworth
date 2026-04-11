@@ -32,7 +32,7 @@ Will auf dem Laufenden sein und andere auf dem Laufenden halten. Der soziale Kit
 | Person | Beziehung | Anmerkung |
 | ------ | --------- | --------- |
 | Sean Doherty | Sohn | Geht abends mit dem Hund am Kanal spazieren. Berichtet seiner Mutter über seltsame Beobachtungen. |
-| Priya Sharma | Stammkundin → Verkäuferin | Kauft regelmäßig die *Gazette* bei Sharma's. |
+| Priya Sharma | Stammkundin → Verkäuferin | Kauft regelmäßig die *Post* bei Sharma's. |
 
 ## Hintergrund
 

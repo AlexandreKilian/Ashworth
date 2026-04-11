@@ -52,7 +52,7 @@ Nicht als Satz. Als Standbild: derselbe Pappbecher Kaffee, dieselbe Hand, dersel
 
 Donnerstags. Jeden Donnerstag. Seit Priya denken konnte.
 
-Sie merkte sich Kunden, wie andere Mädchen sich Popstars merkten. Wer passend zahlte. Wer nie passend zahlte. Wer die *Gazette* kaufte und wer die *Evening Post*. In ihrem Kopf gab es einen Ordner für diese Frau. Er lag unter *Evening Post, Pfefferminztee, Donnerstag, halb fünf*. Kein Name. Kein Titel. Nur das Muster.
+Sie merkte sich Kunden, wie andere Mädchen sich Popstars merkten. Wer passend zahlte. Wer nie passend zahlte. Wer den *Herald* kaufte und wer die *Evening Post*. In ihrem Kopf gab es einen Ordner für diese Frau. Er lag unter *Evening Post, Pfefferminztee, Donnerstag, halb fünf*. Kein Name. Kein Titel. Nur das Muster.
 
 Aus dem Mund der Frau fiel jetzt der Rest.
 

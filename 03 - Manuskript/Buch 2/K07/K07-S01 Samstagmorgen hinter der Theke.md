@@ -16,7 +16,7 @@ Der Wecker hatte um sechs geklingelt. Priya hatte ihn gehört, wie man ein Gerä
 
 Jetzt stand sie hinter der Theke, und ihre Finger suchten die Quittungsrolle, die unter der Kasse lag. Morgenquittungen. Samstag. Der Laden roch nach Druckerschwärze und Kardamom, nach Nanis Chai, der irgendwann zwischen sechs und sieben aufgebrüht worden war, und die Heizung summte ihr dünnes, metallisches Lied. Alles wie immer. Nur dass Priyas Augen brannten, als hätte jemand Sand hineingestreut, und ihre Hände sich anfühlten, als gehörten sie jemand anderem.
 
-Die Türglocke klingelte. Mr. Hutchins, *Gazette* und Hustenbonbons. Sie legte beides auf die Theke, tippte die Preise ein, wechselte. Er sagte etwas über das Wetter, und sie antwortete, ohne zu wissen was.
+Die Türglocke klingelte. Mr. Hutchins, *Post* und Hustenbonbons. Sie legte beides auf die Theke, tippte die Preise ein, wechselte. Er sagte etwas über das Wetter, und sie antwortete, ohne zu wissen was.
 
 Hinter ihr, im Lager, klappte eine Kiste. Mrs. Sharma sortierte die Samstaglieferung, die eigentlich Papa übernommen hätte, aber Papa war heute Morgen ins Gemeindezentrum gefahren, um Tische für die Auktion aufzustellen. Die Auktion. Priyas Magen zog sich zusammen, nur kurz, dann richtete sie den Zeitungsständer gerade und schob die *Post* nach vorn. Die mittlere Schiene klemmte noch immer.
 

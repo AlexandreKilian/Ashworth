@@ -18,7 +18,7 @@ Mrs. Finch wollte den *Herald*, Milch und fünf Minuten Aufmerksamkeit. Mrs. Gal
 
 Die Türglocke klingelte erneut, und mit einem Schwall kalter Morgenluft schob sich Mrs. Doherty in den Laden. Sie trug ihren grünen Regenmantel, die Handtasche am Ellbogen eingehakt, und hatte den Ausdruck einer Frau, die Neuigkeiten mit sich herumtrug wie andere Leute Regenschirme — man wusste nie, wann man sie brauchte, aber sie war vorbereitet.
 
-„Morgen, Liebes!" Mrs. Doherty stellte sich an die Theke, schüttelte den Regenschirm aus — Tropfen spritzten auf den Linoleumboden — und legte eine Münze auf den Tresen, bevor Priya überhaupt fragen konnte. „Die *Gazette*, bitte. Und sag deiner Nani, der Tee riecht wunderbar."
+„Morgen, Liebes!" Mrs. Doherty stellte sich an die Theke, schüttelte den Regenschirm aus — Tropfen spritzten auf den Linoleumboden — und legte eine Münze auf den Tresen, bevor Priya überhaupt fragen konnte. „Die *Post*, bitte. Und sag deiner Nani, der Tee riecht wunderbar."
 
 „Chai", korrigierte Nani vom Fenster. „Tee ist, was die Engländer trinken. Chai ist, was Menschen trinken."
 
